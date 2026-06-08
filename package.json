@@ -1,0 +1,19 @@
+{
+  "name": "mptc-lexicon-2025",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build:data": "node scripts/build-data.mjs",
+    "build": "npm run build:data && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "flexsearch": "^0.8.205",
+    "sone": "^1.4.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  }
+}

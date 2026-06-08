@@ -1,0 +1,3194 @@
+{
+  "meta": {
+    "title": "MPTC Digital Terminology Lexicon",
+    "version": "2025",
+    "source": "Ministry of Posts and Telecommunications of Cambodia (MPTC)",
+    "url": "https://mptc.obsv3.kh-gov-1.mptccloud.gov.kh/2026/05/MPTC-Lexicon-Digital-Terminology-Update.pdf",
+    "generated": "2026-06-08",
+    "total": 454,
+    "p1_count": 227,
+    "p2_count": 227
+  },
+  "p1": [
+    {
+      "id": 1,
+      "letter": "ក",
+      "khmer_term": "កម្មវិធី",
+      "english_term": "Program / Programme",
+      "french_term": "Program / Programme",
+      "definition_km": "ឧទ្ទេសវាទសម្រាប់កុំព្យូទ័រធ្វើប្រតិបត្តិការការងារជាក់លាក់ ក្នុងនោះ មានកូដដែលត្រូវបានសរសេររួចនៅក្នុងភាសាកិច្ចកម្មវិធី ដែលត្រូវបានបកប្រែ ប្រមូលផ្តុំ ក្នុងទម្រង់ដែលម៉ាស៊ីនអានបាន និងធ្វើប្រតិបត្តិការបាន។"
+    },
+    {
+      "id": 2,
+      "letter": "ក",
+      "khmer_term": "កម្មវិធីកុំព្យូទ័រ",
+      "english_term": "Computer Program",
+      "french_term": "Programme d'ordinateur",
+      "definition_km": "សមាសភាពមួយប្រភេទនៃសុសវែរ ឬបណ្ដុំសេចក្តីណែនាំនៅក្នុងភាសាកិច្ចកម្មវិធីសម្រាប់ឱ្យកុំព្យូទ័រអាចធ្វើប្រតិបត្តិការឬដំណើរការបាន។"
+    },
+    {
+      "id": 3,
+      "letter": "ក",
+      "khmer_term": "កាបូបគ្រីបតូ",
+      "english_term": "Crypto Wallet",
+      "french_term": "Portefeuilles de crypto",
+      "definition_km": "ឧបករណ៍អេឡិចត្រូនិក មធ្យោបាយរូបវន្តអេឡិចត្រូនិក សុសវែរ ឬសេវាអនឡាញដែលផ្ទុកកូនសោសាធារណៈនិង/ឬកូនសោឯកជនសម្រាប់ប្រតិបត្តិការរូបិយបណ្ណគ្រីបតូ។"
+    },
+    {
+      "id": 4,
+      "letter": "ក",
+      "khmer_term": "កាប្ល៍/ខ្សែកាបុបទិកទៅអ៊ុច",
+      "english_term": "Fiber To The X - FTTX",
+      "french_term": "Fibre jusqu'au X-FTTX",
+      "definition_km": "សំណុំសរសៃកញ្ចក់ (Glass) ឬប្លាស្ទិក (Plastic) បញ្ជូនទទួលស៊ីញ៉ាល់តាមការដាលនៃពន្លឺអ៊ុនប្រាក្រហម (Infrared) ដែលបានតភ្ជាប់ពីស្ថានីយទៅគោលដៅចុងក្រោយ។ FTTX មានជាអាទិ៍ FTTN, FTTC/FTTK, FTTB, FTTH, FTTP, FTTS, FTTD, FTTR, FTTA។"
+    },
+    {
+      "id": 5,
+      "letter": "ក",
+      "khmer_term": "ការកសាងសមត្ថភាព ប.គ.ព.",
+      "english_term": "ICT Capacity Building",
+      "french_term": "Renforcement des capacités en TIC",
+      "definition_km": "ការបណ្តុះបណ្តាលនិងពង្រឹងសមត្ថភាពជំនាញវិជ្ជាជីវៈក្នុងវិស័យបច្ចេកវិទ្យាគមនាគមន៍និងព័ត៌មាន។"
+    },
+    {
+      "id": 6,
+      "letter": "ក",
+      "khmer_term": "ការដេញថ្លៃឈ្មោះដែន",
+      "english_term": "Domain Name Auction",
+      "french_term": "Vente aux enchères de noms de domaine",
+      "definition_km": "កិច្ចដំណើរការលទ្ធកម្មសាធារណៈស្របតាមច្បាប់និងបទប្បញ្ញត្តិជាធរមាន ដើម្បីផ្តល់កិច្ចសន្យាប្រើប្រាស់នាមសម្គាល់អាសយដ្ឋានអ៊ុនធឺណិតនីមួយៗ។"
+    },
+    {
+      "id": 7,
+      "letter": "ក",
+      "khmer_term": "ការទទួលយក",
+      "english_term": "Acceptance",
+      "french_term": "Acceptation",
+      "definition_km": "ដំណើរការត្រួតពិនិត្យបញ្ញើនៅបញ្ជរ ដើម្បីធានាថាបញ្ញើនោះមានភាពត្រឹមត្រូវអាចធ្វើប្រតិបត្តិការបាន។"
+    },
+    {
+      "id": 8,
+      "letter": "ក",
+      "khmer_term": "ការបង្គាប់ទិន្នន័យ",
+      "english_term": "Data Compression",
+      "french_term": "Compression des données",
+      "definition_km": "ដំណើរការនៃការដាក់កូដសម្ងាត់ ការកែសម្រួលទ្រង់ទ្រាយ និងការរៀបរយទិន្នន័យឱ្យមានសណ្តាប់ធ្នាប់ដើម្បីកាត់បន្ថយទំហំរបស់វា។ ការបង្គាប់ទិន្នន័យដោយ Zip នាំឱ្យទំហំទិន្នន័យរួមតូចនិងឱ្យកើនសមត្ថភាពផ្ទុក។"
+    },
+    {
+      "id": 9,
+      "letter": "ក",
+      "khmer_term": "ការបញ្ចូលទិន្នន័យ",
+      "english_term": "Data Entry",
+      "french_term": "Saisie des données",
+      "definition_km": "ដំណើរការដាក់ព័ត៌មានឬការធ្វើបច្ចុប្បន្នកម្មឯកសារក្នុងមូលទិន្នន័យឬក្នុងប្រព័ន្ធកុំព្យូទ័រ។"
+    },
+    {
+      "id": 10,
+      "letter": "ក",
+      "khmer_term": "ការបញ្ជូនចេញ",
+      "english_term": "Despatch",
+      "french_term": "Expédition",
+      "definition_km": "ការនាំបញ្ញើប្រៃសណីយ៍ពីមជ្ឈមណ្ឌលមួយទៅកន្លែងផ្សេងទៀត ហើយដែលត្រូវបានគណនាជាឯកតាតែមួយ រវាងប្រតិបត្តិករប្រៃសណីយ៍ពាក់ព័ន្ធ។"
+    },
+    {
+      "id": 11,
+      "letter": "ក",
+      "khmer_term": "ការបញ្ជូនទិន្នន័យ",
+      "english_term": "Data Transmission",
+      "french_term": "Transmission de données",
+      "definition_km": "ការបម្លាស់ទីទិន្នន័យរួមមានអត្ថបទ វីដេអូ រូបភាព សំឡេង និងព័ត៌មានក្នុងទម្រង់ផ្សេងៗ ចេញពីឧបករណ៍ឌីជីថលមួយទៅមួយទៀត តាមរយៈបណ្តាញកាប្ល៍ ទង់ដែង កាប្ល៍ កូអាក់ស្យាល់ កាល្លិ៍អុបទិក និង/ឬរលកអាកាសវិទ្យុ។"
+    },
+    {
+      "id": 12,
+      "letter": "ក",
+      "khmer_term": "ការប្រមូលទិន្នន័យ",
+      "english_term": "Data Collection",
+      "french_term": "Collecte de données",
+      "definition_km": "ដំណើរការនៃការចងក្រងនិងវាស់វែងព័ត៌មាននៅលើអថេរ ដើម្បីឆ្លើយតបទៅនឹងសំណួរក្នុងរបាយការណ៍ស្រាវជ្រាវ សម្មតិកម្មសាកល្បង និងវាយតម្លៃលើលទ្ធផល។"
+    },
+    {
+      "id": 13,
+      "letter": "ក",
+      "khmer_term": "ការបំប្លែងរលកស៊ីញ៉ាល់/ម៉ូឌុលឡាស្យុង",
+      "english_term": "Modulation",
+      "french_term": "Modulation",
+      "definition_km": "ដំណើរការកូដនីយកម្មទិន្នន័យឱ្យក្លាយជារលកវិទ្យុដែលផ្ទុកនិងបញ្ជូនព័ត៌មានតាមរយៈអេឡិកត្រុងឬអុបទិក។"
+    },
+    {
+      "id": 14,
+      "letter": "ក",
+      "khmer_term": "ការស្រាវជ្រាវបែបឌីជីថល",
+      "english_term": "Digital Research",
+      "french_term": "Recherche numérique",
+      "definition_km": "ការប្រើប្រាស់បច្ចេកវិទ្យាអនឡាញ ឬប្រព័ន្ធអក្ខរលេខទ្វេគោលលើមូលដ្ឋានលេខសូន្យ (០) និងលេខមួយ (១) ដើម្បីធ្វើការសិក្សា ប្រមូលទិន្នន័យ ស្ទង់មតិ វិភាគ និងធ្វើការសន្និដ្ឋាន។"
+    },
+    {
+      "id": 15,
+      "letter": "ក",
+      "khmer_term": "ការអនុញ្ញាតទូទៅ",
+      "english_term": "General Authorization",
+      "french_term": "Autorisation générale",
+      "definition_km": "ការផ្តល់សិទ្ធិឱ្យប្រើប្រាស់ហ្វ្រេកង់ស៍វិទ្យុ តាមរយៈឯកសារគតិយុត្តរួមតែមួយ សម្រាប់សេវាវិទ្យុគមនាគមន៍ ឧស្សាហកម្ម វិទ្យាសាស្ត្រ វេជ្ជសាស្ត្រ (ISM) ដោយពុំចាំបាច់សុំអាជ្ញាបណ្ណ។"
+    },
+    {
+      "id": 16,
+      "letter": "ក",
+      "khmer_term": "កិច្ចកុំព្យូទ័រពពក/កុំព្យូធីងពពក",
+      "english_term": "Cloud Computing",
+      "french_term": "Informatique en nuage",
+      "definition_km": "ការផ្តល់សេវាតាមអ៊ីនធឺណិតនូវសេវូបករណ៍ កន្លែងផ្ទុកទិន្នន័យ មូលទិន្នន័យ បណ្តាញ ថ្នាល សុសវែរ ការវិភាគទិន្នន័យ ធនធានទូរនិម្មិត ដែលជំនួសឱ្យការដំឡើងសេវូបករណ៍ផ្ទាល់ខ្លួន។"
+    },
+    {
+      "id": 17,
+      "letter": "ក",
+      "khmer_term": "កិច្ចព្រមព្រៀងបញ្ជូនចេញ",
+      "english_term": "Despatch Agreement",
+      "french_term": "Accord d'expédition",
+      "definition_km": "ការយល់ព្រមផ្លាស់ប្តូរបញ្ញើគ្នាទៅវិញទៅមក រវាងប្រតិបត្តិករប្រៃសណីយ៍ពាក់ព័ន្ធស្របតាមលក្ខខណ្ឌដែលបានកំណត់។"
+    },
+    {
+      "id": 18,
+      "letter": "ក",
+      "khmer_term": "កុំព្យូទ័រ",
+      "english_term": "Computer",
+      "french_term": "Ordinateur",
+      "definition_km": "ម៉ាស៊ីន/ឧបករណ៍អេឡិចត្រូនិកដែលមានសមត្ថភាពបញ្ចូលកម្មវិធីសុសវែរ ដើម្បីសម្រួលដល់អ្នកប្រើប្រាស់សម្រាប់វិភាគ គណនា បង្កើត កែសម្រួល រក្សាទុក បំប្លែងទម្រង់ទិន្នន័យ។"
+    },
+    {
+      "id": 19,
+      "letter": "ក",
+      "khmer_term": "កុំព្យូទ័រឌីជីថល",
+      "english_term": "Digital Computer",
+      "french_term": "Ordinateur numérique",
+      "definition_km": "បរិធានបច្ចេកវិទ្យាទំនើបដែលរៀបចំឡើងដើម្បីដំណើរការព័ត៌មាន ដោយប្រើប្រាស់អក្ខរលេខលើមូលដ្ឋានលេខសូន្យ (០) និងលេខមួយ (១)។"
+    },
+    {
+      "id": 20,
+      "letter": "ក",
+      "khmer_term": "កុំព្យូទ័របន្ទះ/ថេប្លេត",
+      "english_term": "Tablet",
+      "french_term": "La tablette",
+      "definition_km": "បរិធានឌីជីថលចល័តរាងសំប៉ែតស្តើង អាចបញ្ជាតាមការប៉ះលើកញ្ចក់ សម្រាប់ទំនាក់ទំនង ស្វែងរកព័ត៌មាន បង្ហោះសារ រូបភាព វីដេអូ អាន សរសេរ បង្កើតមាតិកា សិក្សាស្រាវជ្រាវ។"
+    },
+    {
+      "id": 21,
+      "letter": "ក",
+      "khmer_term": "កូដ",
+      "english_term": "Code",
+      "french_term": "Code",
+      "definition_km": "ប្រព័ន្ធពាក្យ សំឡេង សញ្ញា អក្សរ រូបភាព វីដេអូ ទាំងសម្ងាត់ ទាំងចំហ ដែលគេប្រើសម្រាប់តាងឱ្យសារឬពាក្យគន្លឹះអ្វីមួយក្នុងទម្រង់ខ្លីសមស្រប។"
+    },
+    {
+      "id": 22,
+      "letter": "ក",
+      "khmer_term": "កូដការកម្ម/កូដនីយកម្ម",
+      "english_term": "Encryption",
+      "french_term": "Chiffrement",
+      "definition_km": "ដំណើរការបំប្លែងទិន្នន័យឬព័ត៌មានឱ្យទៅជាទម្រង់កូដសម្ងាត់ ដោយប្រើសោឌីជីថលដើម្បីការពារពីការលួច ការផ្លាស់ប្តូរ ឬការលួចកែ។"
+    },
+    {
+      "id": 23,
+      "letter": "ក",
+      "khmer_term": "កូដឆ្នូល/កូដអាក់សេស",
+      "english_term": "Access Code",
+      "french_term": "Code d'accès",
+      "definition_km": "ពាក្យសម្ងាត់ឬលេខ អក្សរ និង/ឬសញ្ញាសម្រាប់ភ្ជាប់បណ្តាញទូរគមនាគមន៍ ដូចជា ០១២ ០៦៩ ០៩៧ ០២៣ ០៦៦ ឬពាក្យសម្ងាត់ចូលប្រើកុំព្យូទ័រ អ៊ុនធឺណិត E-mail។"
+    },
+    {
+      "id": 24,
+      "letter": "ក",
+      "khmer_term": "កូដតំបន់",
+      "english_term": "Area Code",
+      "french_term": "Indicatif régional",
+      "definition_km": "លេខសម្គាល់ទីតាំងភូមិសាស្ត្ររដ្ឋបាលរបស់ទូរសព្ទអចល័ត ឧ. ភ្នំពេញ (០២៣) សៀមរាប (០៦៣) កំពង់ឆ្នាំង (០២៦) ត្បូងឃ្មុំ (០៤៥)។"
+    },
+    {
+      "id": 25,
+      "letter": "ក",
+      "khmer_term": "កូដទ្វេគោល/កូដគោលពីរ",
+      "english_term": "Binary Code",
+      "french_term": "Code binaire",
+      "definition_km": "ប្រព័ន្ធលេខគោលពីរដែលប្រើតែលេខសូន្យ (០) និងលេខមួយ (១) ដើម្បីតាងឱ្យទិន្នន័យដែលអាចជាសញ្ញា អត្ថបទ រូបភាព សំឡេង វីដេអូ។"
+    },
+    {
+      "id": 26,
+      "letter": "ក",
+      "khmer_term": "កូដប្រទេស",
+      "english_term": "Country Code",
+      "french_term": "Code pays",
+      "definition_km": "លេខសម្គាល់រដ្ឋអធិបតេយ្យនីមួយៗ ឧ. 855 (កម្ពុជា) 856 (ឡាវ) 66 (ថៃ) 65 (សិង្ហបុរី)។"
+    },
+    {
+      "id": 27,
+      "letter": "ក",
+      "khmer_term": "ក្រុមឆ្លើយតបបញ្ហាបន្ទាន់នៃកុំព្យូទ័រ",
+      "english_term": "Computer Emergency Respond Team (CERT)",
+      "french_term": "Ordinateur équipe d'intervention d'urgence",
+      "definition_km": "ក្រុមជំនាញសន្តិសុខព័ត៌មានទទួលបន្ទុកប្រឆាំងការពារ ទប់ស្កាត់ ដោះស្រាយ និងឆ្លើយតបទៅនឹងការគំរាមកំហែងដល់សន្តិសុខអន្តរព័ន្ធ ឧ. CamCERT LaoCERT ThaiCERT VNCERT។"
+    },
+    {
+      "id": 28,
+      "letter": "គ",
+      "khmer_term": "គន្លងផ្កាយរណបនិចលធរណី",
+      "english_term": "Geostationary-Satellite Orbits",
+      "french_term": "Orbites géostationnaires satellite",
+      "definition_km": "វិថីគោចរជុំវិញផែនដីស្ថិតនៅរយៈកម្ពស់ ៣៥,៧៨៦ គ.ម នៅចំពីលើខ្សែអេក្វាទ័ររបស់ផែនដី ដែលផ្កាយរណបធ្វើដំណើរស្របតាមទិសសម្ពន្ធ ហើយមើលទៅហាក់ដូចជានៅថ្កល់ (Geostationary)។"
+    },
+    {
+      "id": 29,
+      "letter": "គ",
+      "khmer_term": "គមនាគមន៍ទិន្នន័យ",
+      "english_term": "Data Communication",
+      "french_term": "Communication de données",
+      "definition_km": "ដំណើរការនៃការប្រើប្រាស់បច្ចេកវិទ្យាកុំព្យូទ័រនិងប្រព័ន្ធទំនាក់ទំនង ដើម្បីបញ្ជូនទិន្នន័យទៅមករវាងអ្នកបញ្ជូននិងអ្នកទទួល។"
+    },
+    {
+      "id": 30,
+      "letter": "គ",
+      "khmer_term": "គម្លាតឌីជីថល",
+      "english_term": "Digital Divide",
+      "french_term": "Écart numérique",
+      "definition_km": "ភាពមិនស្មើគ្នាក្នុងការផ្តល់លទ្ធភាពចូលទៅប្រើប្រាស់បច្ចេកវិទ្យាឌីជីថល រួមទាំងទូរសព្ទឆ្លាត កុំព្យូទ័របន្ទះ និងអ៊ុនធឺណិត ដែលបង្កើតជាការបែងចែក និងវិសមភាព។"
+    },
+    {
+      "id": 31,
+      "letter": "គ",
+      "khmer_term": "គេហទំព័រ",
+      "english_term": "Homepage",
+      "french_term": "Page d'accueil",
+      "definition_km": "ផ្ទាំងដំបូងនៃព័ត៌មានរបស់វេបសាយ ដែលជាទូទៅត្រូវបានមើលឃើញមុនគេ និងមានតំណភ្ជាប់ទៅទំព័រដទៃទៀតនៃវេបសាយ។"
+    },
+    {
+      "id": 32,
+      "letter": "គ",
+      "khmer_term": "គោចរ",
+      "english_term": "Roaming",
+      "french_term": "Itinérance",
+      "definition_km": "សេវាទូរគមនាគមន៍ចល័តដែលភ្ជាប់ទូរសព្ទចល័តក្នុងស្រុកឱ្យប្រើប្រាស់នៅក្រៅប្រទេស តាមរយៈដៃគូផ្គត់ផ្គង់សេវារបស់ប្រតិបត្តិករទូរសព្ទ។"
+    },
+    {
+      "id": 33,
+      "letter": "ច",
+      "khmer_term": "ចរន្តទិន្នន័យ",
+      "english_term": "Data Traffic",
+      "french_term": "Trafic de données",
+      "definition_km": "ចំនួននៃទិន្នន័យដែលចល័តឆ្លងកាត់បណ្តាញកុំព្យូទ័រនៅក្នុងរយៈពេលកំណត់ ត្រូវបានបំបែកទៅជាកញ្ចប់ទិន្នន័យ និងបញ្ជូននៅលើបណ្តាញ។"
+    },
+    {
+      "id": 34,
+      "letter": "ច",
+      "khmer_term": "ច្បាប់អន្តរព័ន្ធ/ច្បាប់សាយប័រ",
+      "english_term": "Cyber Law",
+      "french_term": "Lois informatiques",
+      "definition_km": "ក្របខ័ណ្ឌគតិយុត្តដែលបង្កើតឡើងដើម្បីគ្រប់គ្រងរាល់សកម្មភាពឌីជីថល ជាអាទិ៍ អ៊ុនធឺណិត ទំនាក់ទំនងអនឡាញ ពាណិជ្ជកម្មអេឡិចត្រូនិក ឯកជនភាពឌីជីថល ឧក្រិដ្ឋកម្ម ICT។"
+    },
+    {
+      "id": 35,
+      "letter": "ច",
+      "khmer_term": "ច្បាលវេប/វេបប្រូស៊ែរ",
+      "english_term": "Web Browser",
+      "french_term": "Navigateur web",
+      "definition_km": "សុសវែរអនុវត្តសម្រាប់ចូលប្រើប្រាស់វេបសាយ (Website)។ Google Chrome, Microsoft Edge, Mozilla Firefox, Safari ជាឧទាហរណ៍នៃច្បាលវេប។"
+    },
+    {
+      "id": 36,
+      "letter": "ច",
+      "khmer_term": "ច្រក/ផត",
+      "english_term": "Port",
+      "french_term": "Port",
+      "definition_km": "បច្ចេកវិទ្យាភ្ជាប់រវាងកម្មវិធីអនុវត្តក្នុងទូរសព្ទឆ្លាតនិងប្រព័ន្ធសោតទស្សន៍ តាមរយៈ Bluetooth ឬ USB port។"
+    },
+    {
+      "id": 37,
+      "letter": "ច",
+      "khmer_term": "ច្រកអ៊ុនធឺណិតក្នុងស្រុក",
+      "english_term": "Domestic Internet Exchange - DIX",
+      "french_term": "Point d'échange internet national - DIX",
+      "definition_km": "ចំណុចឬមជ្ឈមណ្ឌលប្រតិបត្តិការ ភ្ជាប់ ផ្លាស់ប្តូរ និងបង្ហូរទិន្នន័យ/មាតិកា រវាងគ្នានៅក្នុងប្រទេសមួយ។"
+    },
+    {
+      "id": 38,
+      "letter": "ច",
+      "khmer_term": "ចំណុចស្នូល/ចំណុចអាក់សេស",
+      "english_term": "Access Point",
+      "french_term": "Point d'accès",
+      "definition_km": "ឧបករណ៍មានខ្សែឬឥតខ្សែសម្រាប់ភ្ជាប់ឱ្យអ្នកប្រើប្រាស់ធ្វើអន្តរកម្មជាមួយប្រព័ន្ធ ឬបណ្តាញទូរគមនាគមន៍ ICT។"
+    },
+    {
+      "id": 39,
+      "letter": "ឆ",
+      "khmer_term": "ឆាត",
+      "english_term": "Chat",
+      "french_term": "Chatte",
+      "definition_km": "ការប្រាស្រ័យទាក់ទងគ្នាជាសំឡេង វីដេអូ រូបភាព ឬ SMS តាមរយៈ Messenger, Telegram, Line, WeChat, Viber, WhatsApp, Instagram ជាដើម។"
+    },
+    {
+      "id": 40,
+      "letter": "ឆ",
+      "khmer_term": "ឆ្នូល/អាក់សេស",
+      "english_term": "Access",
+      "french_term": "Accès",
+      "definition_km": "ការចូលប្រើឬការភ្ជាប់បណ្តាញដើម្បីធ្វើអន្តរកម្មជាមួយប្រព័ន្ធ ឬបណ្តាញទូរគមនាគមន៍ ICT ដូចជាការភ្ជាប់ចូលអ៊ីនធឺណិត ការអានឬសរសេរទិន្នន័យទៅអង្គចងចាំ។"
+    },
+    {
+      "id": 41,
+      "letter": "ឆ",
+      "khmer_term": "ឆ្នូលភាព/អាក់សេសភាព",
+      "english_term": "Accessibility",
+      "french_term": "Accessibilité",
+      "definition_km": "គុណតម្លៃសុសវែរ ហាដវែរ ឬប្រព័ន្ធកុំព្យូទ័រដែលផ្តល់ភាពងាយស្រួលដល់មនុស្សគ្រប់រូប ជាពិសេសជនពិការ (ងងឹតភ្នែក ថ្លង់) ក្នុងការចូលប្រើប្រាស់ប្រព័ន្ធបច្ចេកវិទ្យា។"
+    },
+    {
+      "id": 42,
+      "letter": "ឆ",
+      "khmer_term": "ឆ្នូលអនានុញ្ញាត/អាក់សេសអនានុញ្ញាត",
+      "english_term": "Access Without Permits",
+      "french_term": "Accès sans permis",
+      "definition_km": "ការចូលប្រើប្រាស់ ឬការភ្ជាប់ធ្វើអន្តរកម្មជាមួយប្រព័ន្ធ ឬបណ្តាញទូរគមនាគមន៍ ICT ដោយគ្មានការអនុញ្ញាត។"
+    },
+    {
+      "id": 43,
+      "letter": "ឆ",
+      "khmer_term": "ឆ្លាត",
+      "english_term": "Smart",
+      "french_term": "Intelligent",
+      "definition_km": "លក្ខណៈសណ្ឋាននៃឧបករណ៍ឬប្រព័ន្ធដែលទិន្នន័យត្រូវបានប្រមូល ដំណើរការ ធ្វើការសម្រេចចិត្ត និងផ្តល់ការឆ្លើយតបទៅនឹងតម្រូវការរបស់អ្នកប្រើប្រាស់រៀងៗខ្លួន។"
+    },
+    {
+      "id": 44,
+      "letter": "ជ",
+      "khmer_term": "ជំនាន់ទីមួយ (ជ១)",
+      "english_term": "First-Generation (1G)",
+      "french_term": "Première génération (1G)",
+      "definition_km": "បច្ចេកវិទ្យាទូរគមនាគមន៍អាណាឡូក ដែលផ្តល់សេវាសន្ទនាជាសំឡេងប៉ុណ្ណោះ ដំណើរការជាផ្លូវការក្នុងទសវត្ស ១៩៨០ តាមស្តង់ដា ITU។"
+    },
+    {
+      "id": 45,
+      "letter": "ជ",
+      "khmer_term": "ជំនាន់ទីពីរ (ជ២)",
+      "english_term": "Second-Generation (2G)",
+      "french_term": "Deuxième génération (2G)",
+      "definition_km": "បរិវត្តកម្មពីអាណាឡូកទៅឌីជីថល ដំណើរការជាផ្លូវការក្នុងទសវត្ស ១៩៩០ ផ្តល់ Internet Access ល្បឿនទាប និងសេវា SMS។"
+    },
+    {
+      "id": 46,
+      "letter": "ជ",
+      "khmer_term": "ជំនាន់ទីបី (ជ៣)",
+      "english_term": "Third-Generation (3G)",
+      "french_term": "Troisième génération (3G)",
+      "definition_km": "ប្រព័ន្ធទូរសព្ទចល័តឌីជីថល ដំណើរការក្នុងទសវត្ស ២០០០ ផ្តល់សំឡេង រូបភាព SMS MMS ទិន្នន័យ និងអ៊ុនធឺណិតល្បឿនលឿន។"
+    },
+    {
+      "id": 47,
+      "letter": "ជ",
+      "khmer_term": "ជំនាន់ទីបួន (ជ៤)",
+      "english_term": "Fourth-Generation (4G)",
+      "french_term": "Quatrième génération (4G)",
+      "definition_km": "ប្រព័ន្ធទូរសព្ទចល័តឌីជីថល ដំណើរការក្នុងទសវត្ស ២០១០ ផ្តល់ Web Access, IP Telephony, Gaming, HD Mobile TV, Video Conference, 3D TV, Cloud Computing, Broadband Internet។"
+    },
+    {
+      "id": 48,
+      "letter": "ជ",
+      "khmer_term": "ជំនាន់ទីប្រាំ (ជ៥)",
+      "english_term": "Fifth-Generation (5G)",
+      "french_term": "Cinquième génération (5G)",
+      "definition_km": "ប្រព័ន្ធទូរសព្ទចល័តឌីជីថល ដំណើរការក្នុងទសវត្ស ២០២០ ផ្តល់ IoT, M2M, AI, Big Data ល្បឿនទាញយករហូតដល់ ១០ Gbps ភាពយឺតយ៉ាវ < ១ ms។"
+    },
+    {
+      "id": 49,
+      "letter": "ជ",
+      "khmer_term": "ជំនួយឆ្នូលភាព/ជំនួយអាក់សេសភាព",
+      "english_term": "Accessibility Aids",
+      "french_term": "Aides à l'accessibilité",
+      "definition_km": "សម្ភារៈ បរិក្ខារ ឧបករណ៍ប្រព័ន្ធបច្ចេកវិទ្យា ផ្តល់លទ្ធភាពដល់ជនពិការ ឱ្យអ្នកអាចអាន ស្តាប់ និយាយ ឬធ្វើចលនាបាន ដូចជាកម្មវិធីអានជំនួយ Screen Reader។"
+    },
+    {
+      "id": 50,
+      "letter": "ឈ",
+      "khmer_term": "ឈ្មោះដែន",
+      "english_term": "Domain Name",
+      "french_term": "Nom de domaine",
+      "definition_km": "នាមសម្គាល់អាសយដ្ឋានអ៊ុនធឺណិតនៃសេវូបករណ៍ ផ្សំដោយអក្សរ ស្រៈ លេខ សហសញ្ញា ហើយបែងចែកដោយសញ្ញា (.) ដូចជា ASCII Domain Name ឬ Internationalized Domain Name។"
+    },
+    {
+      "id": 51,
+      "letter": "ឈ",
+      "khmer_term": "ឈ្មោះដែនជាតិ",
+      "english_term": "National Domain Name",
+      "french_term": "Nom de domaine national",
+      "definition_km": "នាមសម្គាល់អាសយដ្ឋានអ៊ុនធឺណិតនៃរដ្ឋ ឧ. .kh ឬ .ខ្មែរ (ប្រទេសកម្ពុជា) ត្រូវបែងចែកជា ដែនកម្រិត១ ដែនកម្រិត២ ដែនកម្រិតផ្សេងទៀត។"
+    },
+    {
+      "id": 52,
+      "letter": "ញ",
+      "khmer_term": "ញាណូបករណ៍",
+      "english_term": "Sensor",
+      "french_term": "Capteur",
+      "definition_km": "បរិធានចាប់សញ្ញានិងឆ្លើយតបទៅនឹងរំញោចដូចជា សីតុណ្ហភាព ពន្លឺ សម្ពាធ ចលនា សំឡេង សំណើម គីមី ហើយបំប្លែងទៅជាថាមពលអគ្គិសនីដែលអាចមើល វាស់ ត្រួតពិនិត្យ ឬកត់ត្រា។"
+    },
+    {
+      "id": 53,
+      "letter": "ដ",
+      "khmer_term": "ដែនកម្រិត១",
+      "english_term": "Top Level Domain",
+      "french_term": "Domaine de haut niveau",
+      "definition_km": "ដែនកម្រិតខ្ពស់បំផុតក្នុងឋានានុក្រម ឧ. .ខ្មែរ/.kh (កម្ពុជា) .la (ឡាវ) .sg (សិង្ហបុរី) .vn (វៀតណាម) .th (ថៃ)។"
+    },
+    {
+      "id": 54,
+      "letter": "ដ",
+      "khmer_term": "ដែនកម្រិត២",
+      "english_term": "Second Level Domain",
+      "french_term": "Domaine de second niveau",
+      "definition_km": "ដែនដែលស្ថិតនៅខាងឆ្វេងបន្ទាប់ពីដែនកម្រិត១។"
+    },
+    {
+      "id": 55,
+      "letter": "ដ",
+      "khmer_term": "ដំណាក់ស្នូល/ដំណាក់អាក់សេស",
+      "english_term": "Access Node",
+      "french_term": "Nœud D'Accès",
+      "definition_km": "ឧបករណ៍មួយដែលមានច្រកច្រើន សម្រាប់បែងចែកការតភ្ជាប់ទៅឧបករណ៍នៃអ្នកប្រើប្រាស់ ធ្វើអន្តរកម្មជាមួយប្រព័ន្ធ ឬបណ្តាញ ICT។"
+    },
+    {
+      "id": 56,
+      "letter": "ដ",
+      "khmer_term": "ដំណាក់ប៊ី",
+      "english_term": "eNode B (Evolved NodeB)",
+      "french_term": "e Nœud B (Nœud B évolué)",
+      "definition_km": "បរិក្ខារស្ថានីយអង់តែននៅក្នុងបណ្តាញ 4G LTE និង 5G មានមុខងារផ្តល់ Broadband Internet ទៅឧបករណ៍ចល័ត ទូរសព្ទឆ្លាត កុំព្យូទ័រ Tablet។"
+    },
+    {
+      "id": 57,
+      "letter": "ដ",
+      "khmer_term": "ដំណាក់ប៊ីជំនាន់ក្រោយ",
+      "english_term": "gNodeB/GNB (Next Generation Node B)",
+      "french_term": "eNœudB de nouvelle génération",
+      "definition_km": "បរិក្ខារស្ថានីយអង់តែននៅក្នុងបណ្តាញ 5G ទទួលខុសត្រូវបញ្ជូននិងទទួលទិន្នន័យរវាងឧបករណ៍ 5G និងបណ្តាញស្នូល 5G Core Network។"
+    },
+    {
+      "id": 58,
+      "letter": "ដ",
+      "khmer_term": "ដំណើរការស៊ីញ៉ាល់ឌីជីថល",
+      "english_term": "Digital Signal Processing",
+      "french_term": "Traitement du signal numérique",
+      "definition_km": "ប្រព្រឹត្តកម្មបញ្ជូន-ទទួលទិន្នន័យ ដូចជា Compression, Decompression, Filtering, Equalization, Modulation, Demodulation ដើម្បីបង្កើនគុណភាពស៊ីញ៉ាល់។"
+    },
+    {
+      "id": 59,
+      "letter": "ឌ",
+      "khmer_term": "ឌីជីថល",
+      "english_term": "Digital",
+      "french_term": "Numérique",
+      "definition_km": "ដែលមានទម្រង់ជាស៊េរីនៃអក្ខរលេខទ្វេគោលលើមូលដ្ឋានលេខសូន្យ (០) និងលេខមួយ (១)។"
+    },
+    {
+      "id": 60,
+      "letter": "ត",
+      "khmer_term": "តេស្តទទួលយក",
+      "english_term": "Acceptance Test",
+      "french_term": "Teste d'acceptation",
+      "definition_km": "ដំណើរការត្រួតពិនិត្យប្រាកដថាផលិតផលសុសវែរ/ហាដវែរ ឆ្លើយតបនឹងតម្រូវការអតិថិជន បទដ្ឋានគុណភាព លក្ខណៈបច្ចេកទេស ហើយរួចរាល់ប្រើប្រាស់។"
+    },
+    {
+      "id": 61,
+      "letter": "ត",
+      "khmer_term": "តេឡេក្រាម",
+      "english_term": "Telegram",
+      "french_term": "Telegram",
+      "definition_km": "សុសវែរអនុវត្ត បង្កើតដោយ Nikolai និង Pavel Durov ឆ្នាំ ២០១៣ ផ្តល់ការផ្លាស់ប្តូរសារ រូបភាព វីដេអូ Voice/Video Call ការផ្សាយបន្តផ្ទាល់ (Live Stream) ដំណើរការបាននៅ Android, iOS, Windows, macOS, Linux។"
+    },
+    {
+      "id": 62,
+      "letter": "ត",
+      "khmer_term": "តំបន់អាសយដ្ឋាន",
+      "english_term": "Address Zone",
+      "french_term": "Zone d'adresse",
+      "definition_km": "កន្លែងឬចន្លោះលើខ្នងសំបុត្រ/កញ្ចប់បញ្ញើ ដែលអ្នកផ្ញើត្រូវបំពេញព័ត៌មានអំពីឈ្មោះ ទីតាំង លេខកូដប្រៃសណីយ៍ លេខទំនាក់ទំនងរបស់អ្នកផ្ញើ-អ្នកទទួល។"
+    },
+    {
+      "id": 63,
+      "letter": "ថ",
+      "khmer_term": "ថតចរន្ត",
+      "english_term": "Current Directory",
+      "french_term": "Répertoire actuel",
+      "definition_km": "ប្រអប់ផ្ទុកទិន្នន័យដែលកំពុងត្រូវបានបើកប្រើប្រាស់ក្នុងប្រព័ន្ធប្រអប់ផ្ទុកទិន្នន័យ។"
+    },
+    {
+      "id": 64,
+      "letter": "ថ",
+      "khmer_term": "ថតមេ",
+      "english_term": "Parent Directory",
+      "french_term": "Répertoire des parents",
+      "definition_km": "ប្រអប់គោលដែលផ្ទុកប្រអប់ផ្ទុកទិន្នន័យមួយឬច្រើន ស្ថិតនៅមួយកម្រិតខ្ពស់ជាងក្នុងឋានានុក្រម។"
+    },
+    {
+      "id": 65,
+      "letter": "ថ",
+      "khmer_term": "ថតឫស",
+      "english_term": "Root Directory",
+      "french_term": "Répertoire racine",
+      "definition_km": "ប្រអប់គោលដើមដំបូងគេបង្អស់នៃប្រព័ន្ធប្រអប់ផ្ទុកទិន្នន័យ ដែលគ្រប់គ្រងនិងផ្តល់ Accessទៅថតមេ/ថតផ្សេងទៀតនៅលើប្រព័ន្ធ។"
+    },
+    {
+      "id": 66,
+      "letter": "ថ",
+      "khmer_term": "ថតរូបឌីជីថល",
+      "english_term": "Digital Camera",
+      "french_term": "Appareil photo digital",
+      "definition_km": "ឧបករណ៍ថតរូបដែលចាប់យករូបភាពដាក់រក្សាទុកនៅក្នុងអង្គចងចាំជាទម្រង់អក្ខរលេខក្នុងប្រព័ន្ធកុំព្យូទ័រ។"
+    },
+    {
+      "id": 67,
+      "letter": "ថ",
+      "khmer_term": "ថ្នាល",
+      "english_term": "Platform",
+      "french_term": "Plate-forme",
+      "definition_km": "បណ្ដុំបច្ចេកវិទ្យាដែលប្រើជាមូលដ្ឋានឱ្យ App ផ្សេងទៀតដំណើរការ ដូចជា Windows, MacOS, Linux ឬ Marketplace, Google Chrome Platform, AWS។"
+    },
+    {
+      "id": 68,
+      "letter": "ទ",
+      "khmer_term": "ទិន្នន័យ",
+      "english_term": "Data",
+      "french_term": "Données",
+      "definition_km": "ព័ត៌មានឬឯកសារ ជាអាទិ៍ រូបភាព សំឡេង អត្ថបទ វីដេអូ និមិត្តសញ្ញា ដែលបានរៀបចំរួចរាល់ ហើយផ្ទុកក្នុងឧបករណ៍ ឬម៉ាស៊ីនអេឡិចត្រូនិក។"
+    },
+    {
+      "id": 69,
+      "letter": "ទ",
+      "khmer_term": "ទិន្នន័យកុំព្យូទ័រ",
+      "english_term": "Computer Data",
+      "french_term": "Données informatiques",
+      "definition_km": "ព័ត៌មានដែលបានដំណើរការ ផ្ទុក កត់ត្រា និងរក្សាទុកនៅក្នុងប្រព័ន្ធកុំព្យូទ័រ ជាអាទិ៍ អត្ថបទ រូបភាព សំឡេង វីដេអូ សញ្ញា Software ឬព័ត៌មានផ្សេង។"
+    },
+    {
+      "id": 70,
+      "letter": "ទ",
+      "khmer_term": "ទិន្នន័យជីវមាត្រ",
+      "english_term": "Biometric Data",
+      "french_term": "Données biométriques",
+      "definition_km": "អត្តសញ្ញាណរូបវន្តនៃបុគ្គល ជាអាទិ៍ ផ្ទៃមុខ ស្នាមក្រម៉ៅដៃ កែវភ្នែក សំឡេង ឬហ្សែន។"
+    },
+    {
+      "id": 71,
+      "letter": "ទ",
+      "khmer_term": "ទិន្នន័យឌីជីថល",
+      "english_term": "Digital Data",
+      "french_term": "Données numériques",
+      "definition_km": "ព័ត៌មានទម្រង់ 0 និង 1 ដែលត្រូវបានផ្ទុក ឬចែករំលែកដោយឧបករណ៍ឆ្លាត ដូចជា រូបភាព សំឡេង វីដេអូ អត្ថបទ សៀវភៅ កាសែត ក្នុងទម្រង់ Digital។"
+    },
+    {
+      "id": 72,
+      "letter": "ទ",
+      "khmer_term": "ទិន្នន័យធំ",
+      "english_term": "Big Data",
+      "french_term": "Grande données",
+      "definition_km": "សំណុំទិន្នន័យបរិមាណច្រើនសន្ធឹកសន្ធាប់ ច្រើនប្រភព ច្រើនប្រភេទ ជាទូទៅគ្មានរចនាសម្ព័ន្ធ ដែលតម្រូវវិធីសាស្ត្រ/បច្ចេកវិទ្យាពិសេសសម្រាប់វិភាគ ជំនួយការសម្រេចចិត្ត។"
+    },
+    {
+      "id": 73,
+      "letter": "ទ",
+      "khmer_term": "ទិន្នន័យសែលលុយឡា",
+      "english_term": "Cellular Data",
+      "french_term": "Donnée cellulaire",
+      "definition_km": "មុខងារភ្ជាប់ ឬផ្តាច់ Internet ក្នុងឧបករណ៍ចល័ត ដើម្បីប្រើ Internet ដោយពុំចាំបាច់តភ្ជាប់ Wi-Fi ឬបណ្តាញឥតខ្សែ។"
+    },
+    {
+      "id": 74,
+      "letter": "ទ",
+      "khmer_term": "ទីក្រុងឆ្លាត",
+      "english_term": "Smart City",
+      "french_term": "Ville intelligente",
+      "definition_km": "ទីប្រជុំជនទំនើបប្រើ Sensors, IoT, Software, Digital Technology ដើម្បីបង្កើនប្រតិបត្តិការ ចែករំលែកព័ត៌មានជាមួយសាធារណជន និងកែលម្អសេវា/សុខុមាលភាពសង្គម។"
+    },
+    {
+      "id": 75,
+      "letter": "ទ",
+      "khmer_term": "ទីតាំងទទួលយក",
+      "english_term": "Acceptance Location",
+      "french_term": "Lieu d'acceptation",
+      "definition_km": "កន្លែងដាក់និងផ្ទេរបញ្ញើចេញពីអ្នកដាក់បញ្ញើទៅប្រតិបត្តិករផ្តល់សេវាបញ្ញើ។"
+    },
+    {
+      "id": 76,
+      "letter": "ទ",
+      "khmer_term": "ទីប្រគល់",
+      "english_term": "Delivery Point",
+      "french_term": "Point de livraison",
+      "definition_km": "កន្លែងជាក់លាក់រៀបចំដោយប្រតិបត្តិករប្រៃសណីយ៍សម្រាប់ចែកបញ្ញើ។"
+    },
+    {
+      "id": 77,
+      "letter": "ទ",
+      "khmer_term": "ទូរទស្សន៍ឌីជីថល",
+      "english_term": "Digital Television",
+      "french_term": "Télévision numérique",
+      "definition_km": "ប្រព័ន្ធ TV គុណភាពខ្ពស់ ទទួលជា Binary Format (0/1) អាចទស្សនាផ្ទាល់ ចូលឡើងវិញ ចែករំលែក ទាញយក បែងចែង Screen ទស្សនាច្រើនកម្មវិធីក្នុងពេលតែមួយ។"
+    },
+    {
+      "id": 78,
+      "letter": "ទ",
+      "khmer_term": "ទំព័រវេប",
+      "english_term": "Web Page",
+      "french_term": "Page web",
+      "definition_km": "ផ្ទាំងឯកសារនីមួយៗនៅលើវេប ដែលអាចចូលប្រើប្រាស់ក្នុង Browser ណាមួយ។"
+    },
+    {
+      "id": 79,
+      "letter": "ធ",
+      "khmer_term": "ធនាគារអេឡិចត្រូនិក",
+      "english_term": "E-Bank",
+      "french_term": "Banque électronique",
+      "definition_km": "ស្ថាប័នហិរញ្ញវត្ថុផ្តល់សេវាហិរញ្ញវត្ថុ ដោយប្រើ App ឬ Website ជាពិសេសតាម Internet: ផ្ញើ-ទទួល ទូទាត់ ប្រឹក្សា ។ល។"
+    },
+    {
+      "id": 80,
+      "letter": "ប",
+      "khmer_term": "បង់ទូលាយ/ប្រដប៊ែន",
+      "english_term": "Broadband",
+      "french_term": "Haut debit",
+      "definition_km": "បច្ចេកវិទ្យាបញ្ជូន-ទទួលល្បឿនលឿន តាម Coaxial, Optical Fiber, Radio ដើម្បីផ្ទេរទិន្នន័យទំហំធំ។"
+    },
+    {
+      "id": 81,
+      "letter": "ប",
+      "khmer_term": "បច្ចេកវិទ្យាឌីជីថល",
+      "english_term": "Digital Technology",
+      "french_term": "Technologie numérique",
+      "definition_km": "បណ្ដុំវិទ្យាសាស្ត្រ ដែលតាមរយៈឧបករណ៍អេឡិចត្រូនិក បង្កើត ប្រមូល ផ្ទុក វិភាគ និងគ្រប់គ្រងទិន្នន័យក្នុងទម្រង់ 0 និង 1។"
+    },
+    {
+      "id": 82,
+      "letter": "ប",
+      "khmer_term": "បច្ចេកវិទ្យាពពក",
+      "english_term": "Cloud Technology",
+      "french_term": "Technologie cloud",
+      "definition_km": "ការផ្តល់សេវា Computing: Server, Storage, Database, Networking, Software, Analytics, Intelligence តាម Internet ដើម្បីអនុគ្រោះ Innovation, Flexibility, Scale Economies។"
+    },
+    {
+      "id": 83,
+      "letter": "ប",
+      "khmer_term": "បញ្ជីករ",
+      "english_term": "Registrar",
+      "french_term": "Greffière",
+      "definition_km": "ភ្នាក់ងារចុះឈ្មោះដែនជាតិ ដែលជាបុគ្គលបានចុះបញ្ជីស្របច្បាប់ ទទួលបានវិញ្ញាបនបត្រពី TRC ផ្តល់សេវាចុះឈ្មោះដែនជាតិ។"
+    },
+    {
+      "id": 84,
+      "letter": "ប",
+      "khmer_term": "បញ្ជីវន្ត",
+      "english_term": "Registrant",
+      "french_term": "Titulaire",
+      "definition_km": "ម្ចាស់ឈ្មោះដែនជាតិ ដែលជាបុគ្គលទទួលបានវិញ្ញាបនបត្រចុះបញ្ជីប្រើប្រាស់ឈ្មោះដែនជាតិពី TRC។"
+    },
+    {
+      "id": 85,
+      "letter": "ប",
+      "khmer_term": "បញ្ជីឈ្មោះដែន",
+      "english_term": "Domain Name Registry",
+      "french_term": "Registre de noms de domaine",
+      "definition_km": "ទិន្នន័យស្តីពីការគ្រប់គ្រងកម្មសិទ្ធិករឈ្មោះអាសយដ្ឋានអេឡិចត្រូនិក ដែលរក្សាទុកនៅមជ្ឈមណ្ឌលកណ្តាល ឧ. មជ្ឈមណ្ឌលគ្រប់គ្រង (.kh)។"
+    },
+    {
+      "id": 86,
+      "letter": "ប",
+      "khmer_term": "បញ្ជីអត្តសញ្ញាណឧបករណ៍",
+      "english_term": "Equipment Identity Register - EIR",
+      "french_term": "Registre d'identité des équipements-EIR",
+      "definition_km": "ទិន្នន័យចុះឈ្មោះ ទទួលស្គាល់ គ្រប់គ្រង កូដសម្គាល់ឧបករណ៍ ICT ឧ. IMEI (International Mobile Equipment Identity)។"
+    },
+    {
+      "id": 87,
+      "letter": "ប",
+      "khmer_term": "បញ្ញាសិប្បនិម្មិត",
+      "english_term": "Artificial Intelligence (AI)",
+      "french_term": "Intelligence artificielle (IA)",
+      "definition_km": "វិទ្យាសាស្ត្រកុំព្យូទ័រផ្តោតការបង្កើត Software/App/ឧបករណ៍ ដែលអាចនិយាយ ធ្វើការសម្រេចចិត្ត ជំនួសសកម្មភាពមនុស្ស ដូចជា Robot, Self-Driving Car, Smart Device។"
+    },
+    {
+      "id": 88,
+      "letter": "ប",
+      "khmer_term": "បណ្ណក្លែងក្លាយ/កាតក្លែងក្លាយ",
+      "english_term": "Counterfeit Card",
+      "french_term": "Carte contrefaite",
+      "definition_km": "ឯកសារផ្ទុកព័ត៌មានអេឡិចត្រូនិក ដែលបង្កើតឡើងជា Card/Chip ហើយផ្លាស់ប្តូរព័ត៌មានចម្លងដូចច្បាប់ដើម ដើម្បីក្លែងបន្លំប្រើប្រាស់ខុសច្បាប់។"
+    },
+    {
+      "id": 89,
+      "letter": "ប",
+      "khmer_term": "បណ្តាញផ្នូលវិទ្យុ/បណ្តាញអាក់សេសវិទ្យុ",
+      "english_term": "Radio Access Network (RAN)",
+      "french_term": "Réseau d'accès a la radio (RAN)",
+      "definition_km": "បណ្ដុំបរិធានទូរគមនាគមន៍ Wireless ភ្ជាប់ Devices ទៅបណ្តាញផ្សេង តាម Radio Wave: Mobile Phone, Computer, Remote Control ។ល។"
+    },
+    {
+      "id": 90,
+      "letter": "ប",
+      "khmer_term": "បណ្តាញបញ្ជូនទិន្នន័យ",
+      "english_term": "Data Transmission Network",
+      "french_term": "Réseau de transmission de données",
+      "definition_km": "ដំណើរការជាប្រព័ន្ធតភ្ជាប់ បញ្ជូន-ទទួលព័ត៌មានរវាងឧបករណ៍ពីរ ឬច្រើន។"
+    },
+    {
+      "id": 91,
+      "letter": "ប",
+      "khmer_term": "បណ្តាញផ្សាយឌីជីថល",
+      "english_term": "Digital Broadcasting Network",
+      "french_term": "Réseau de diffusion digital",
+      "definition_km": "ប្រព័ន្ធប្រតិបត្តិការប្រើ Digital Signal ផ្សាយ Radio/TV តាម Internet ឬ Digital Platform ឱ្យចូលទស្សនាតាម Smart TV, Computer, Tablet, Mobile Phone។"
+    },
+    {
+      "id": 92,
+      "letter": "ប",
+      "khmer_term": "បណ្តាញស្នូល",
+      "english_term": "Core Network",
+      "french_term": "Réseau cœur",
+      "definition_km": "បណ្ដុំ Hardware មូលដ្ឋានបណ្តាញ Telecom ដើម្បីបញ្ជូន Traffic ប្រកបប្រសិទ្ធភាព មានមុខងារការភ្ជាប់/ការកំណត់ផ្លូវ/គ្រប់គ្រង Traffic រវាងផ្នែកបណ្តាញ។"
+    },
+    {
+      "id": 93,
+      "letter": "ប",
+      "khmer_term": "បណ្តាញឯកជនទូរនិម្មិត",
+      "english_term": "Virtual Private Network (VPN)",
+      "french_term": "Réseau privé virtuel (VPN)",
+      "definition_km": "តំណភ្ជាប់ Digital ឯកជន Point-to-Point ដែលបិទបាំង IP Address គេចផុត Website Block/Firewall ហើយរក្សា Privacy ខ្ពស់បំផុតសម្រាប់អ្នកប្រើ។"
+    },
+    {
+      "id": 94,
+      "letter": "ប",
+      "khmer_term": "បណ្តុះបញ្ញើ/បណ្ដុំបញ្ញើ",
+      "english_term": "Mail Aggregate",
+      "french_term": "Agrégat de courier",
+      "definition_km": "ការប្រមូលផ្តុំនៃឯកតាបញ្ញើដែលបានបំពេញតាមលក្ខខណ្ឌ ស្របតាមការអនុវត្តពិសេស (UPU - Mail Aggregate / Aggregate)។"
+    },
+    {
+      "id": 95,
+      "letter": "ប",
+      "khmer_term": "បន្ទេរ",
+      "english_term": "Handoff",
+      "french_term": "Remettre",
+      "definition_km": "មុខងារប្រព័ន្ធ Cellular ផ្ទេរការហៅ/ការសន្ទនា Mobileពីសែលមួយទៅសែលដទៃ ដោយមិនបង្កឱ្យដាច់ Call/Session ឡើយ។"
+    },
+    {
+      "id": 96,
+      "letter": "ប",
+      "khmer_term": "បន្សាយ/មេឌា",
+      "english_term": "Media",
+      "french_term": "Médias",
+      "definition_km": "មធ្យោបាយ Physical/Digital ផ្ទុក/បញ្ជូន/បង្ហាញ/ចែកចាយ Data/Information ដូចជា Billboard, TV, Radio, Newspaper, Social Media, Website, Internet។"
+    },
+    {
+      "id": 97,
+      "letter": "ប",
+      "khmer_term": "បន្សាយឌីជីថល/មេឌាឌីជីថល",
+      "english_term": "Digital Media",
+      "french_term": "Médias numériques",
+      "definition_km": "បណ្តាញចែកចាយ Information Online: Digital Image, Website, Social Media, Digital Database, Digital Video, Gaming Video, E-Document, E-Book។"
+    },
+    {
+      "id": 98,
+      "letter": "ប",
+      "khmer_term": "បរិធានអន្តរទិន្នន័យ",
+      "english_term": "Data Circuit Terminating Equipment",
+      "french_term": "Équipement de terminaison de circuit de données",
+      "definition_km": "ឧបករណ៍ស្ថិតរវាង Terminal Equipment និង Data Signal Circuit ដូចជា Computer, Printer, Router។"
+    },
+    {
+      "id": 99,
+      "letter": "ប",
+      "khmer_term": "ប៉ារ៉ាម៉ែត្រនៃការផ្សាយ",
+      "english_term": "Emission Parameters",
+      "french_term": "Paramètres d'émission",
+      "definition_km": "តម្លៃថេរ/លក្ខណៈបច្ចេកទេសសម្រាប់ Radio Equipment: Power, Frequency, Bandwidth, Modulation Type, Antenna Type, Antenna Height, Polarization, Alignment ។"
+    },
+    {
+      "id": 100,
+      "letter": "ប",
+      "khmer_term": "បឺតខ័ញ/ប៊ីតខ័ញ",
+      "english_term": "Bitcoin",
+      "french_term": "Bitcoin",
+      "definition_km": "ប្រព័ន្ធទូទាត់ Digital Currency មួយ ដែលមានការ Encrypt តាម Internet ពី Person-to-Person ដោយ គ្មាន Central Authority ឬធនាគារ។"
+    },
+    {
+      "id": 101,
+      "letter": "ប",
+      "khmer_term": "ប៊ីហ្គោឡាយ",
+      "english_term": "Bigolive",
+      "french_term": "Bigolive",
+      "definition_km": "ឈ្មោះ App Social Media សម្រាប់ Chat, Live Stream, Photo/Video Sharing, Online Games, Video Chat Online ។"
+    },
+    {
+      "id": 102,
+      "letter": "ប",
+      "khmer_term": "បុគ្គលពាក់ព័ន្ធ",
+      "english_term": "Concerning Person",
+      "french_term": "Concernant la personne",
+      "definition_km": "ប្រតិបត្តិករផ្តល់សេវា Telecom ឬ Data Center Content, Association, Institution ដែលត្រូវតភ្ជាប់ Exchange Data រវាងគ្នា តាម DIX ជាផ្ទាល់ ឬដោយប្រយោល។"
+    },
+    {
+      "id": 103,
+      "letter": "ប",
+      "khmer_term": "ប្រតិបត្តិករចាត់តាំង",
+      "english_term": "Designated Operator",
+      "french_term": "Opérateur désigné",
+      "definition_km": "ស្ថាប័ន Public/Private ដែលប្រទេសសមាជិក UPU ចាត់តាំង ទទួលបន្ទុកបំពេញកាតព្វកិច្ច UPU Convention/Agreement ទាំងមូល ឬផ្នែក។"
+    },
+    {
+      "id": 104,
+      "letter": "ប",
+      "khmer_term": "ប្រធានផ្នែកព័ត៌មាន",
+      "english_term": "Chief Information Officer (CIO)",
+      "french_term": "Informations principales officier (CIO)",
+      "definition_km": "អ្នកទទួលបន្ទុកគ្រប់គ្រងប្រព័ន្ធ IT ដើម្បីទ្រទ្រង់ដំណើរការ Ministry/Institution/Private Enterprise។"
+    },
+    {
+      "id": 105,
+      "letter": "ប",
+      "khmer_term": "ប្រធានផ្នែកសន្តិសុខព័ត៌មាន",
+      "english_term": "Chief Security Officer (CSO)",
+      "french_term": "Chef de la sécurité (CSO)",
+      "definition_km": "អ្នកទទួលបន្ទុកគ្រប់គ្រង Information Security ដើម្បីទ្រទ្រង់ Ministry/Institution/Enterprise។"
+    },
+    {
+      "id": 106,
+      "letter": "ប",
+      "khmer_term": "ប្រព័ន្ធកុំព្យូទ័រ",
+      "english_term": "Computer System",
+      "french_term": "Système d'ordinateur",
+      "definition_km": "សំណុំ Electronic Machine ដែលផ្តុំ Hardware: Monitor, RAM, Storage, Mouse, Keyboard, Connector និង OS Software។"
+    },
+    {
+      "id": 107,
+      "letter": "ប",
+      "khmer_term": "ប្រព័ន្ធឈ្មោះដែន",
+      "english_term": "Domain Name System (DNS)",
+      "french_term": "Système de noms de domaine (DNS)",
+      "definition_km": "បណ្តាញ Electronic Address List ក្នុង Server សម្រាប់ Identity: Website, E-mail Address, IP Address ឬ Internet Resource ផ្សេង។"
+    },
+    {
+      "id": 108,
+      "letter": "ប",
+      "khmer_term": "ប្រព័ន្ធបញ្ជីកាអត្តសញ្ញាណឧបករណ៍",
+      "english_term": "Equipment Identity Registration System-EIRS",
+      "french_term": "Système d'enregistrement d'identité des équipements-EIRS",
+      "definition_km": "Database Registration, Recognition, Management Code ID ឧបករណ៍ Telecom ICT។"
+    },
+    {
+      "id": 109,
+      "letter": "ប",
+      "khmer_term": "ប្រព័ន្ធរងបមាណីយបណ្តាញ",
+      "english_term": "Network Switching Subsystem (NSS)",
+      "french_term": "Sous-système des réseaux de commutation (NSS)",
+      "definition_km": "Physical Infrastructure Sub-Assembly Mobile Telecom ដែលគ្រប់គ្រង Mobile Calls និង Roaming Function លើ BTS Networks។"
+    },
+    {
+      "id": 110,
+      "letter": "ប",
+      "khmer_term": "ប្រព័ន្ធសារស្វ័យកម្ម",
+      "english_term": "Automated Message System",
+      "french_term": "Système de messagerie automatisé",
+      "definition_km": "Computer Program/Electronic Means ប្រើគ្រប់គ្រង Notification/Auto Response ទៅតាមកាលកំណត់។"
+    },
+    {
+      "id": 111,
+      "letter": "ប",
+      "khmer_term": "ប្រព័ន្ធអន្តរព័ន្ធរូបវន្ត/ប្រព័ន្ធសាយប័ររូបវន្ត",
+      "english_term": "Cyber Physical System (CPS)",
+      "french_term": "Système cyber-physique (CPS)",
+      "definition_km": "បណ្ដុំ Computer+Physical រួម ដើម្បីប្រតិបត្តិដំណើរការ Secure/Efficient ឧ. Industrial Control, Water Control, Robotics, Smart Grid ។"
+    },
+    {
+      "id": 112,
+      "letter": "ប",
+      "khmer_term": "ប្រអប់ផ្ទុក",
+      "english_term": "Dropbox",
+      "french_term": "Boîte de dépôt",
+      "definition_km": "App ដំឡើងក្នុងឧបករណ៍ Smart សម្រាប់ Storage Data និង Remote Access (Download, Edit, Send)។ បង្កើតឆ្នាំ ២០០៧ ដោយ Drew Houston (MIT) & Arash Ferdowsi; គ្រប់គ្រងដោយ Dropbox Inc.។"
+    },
+    {
+      "id": 113,
+      "letter": "ប",
+      "khmer_term": "ប្រអប់សំបុត្រឌីជីថល",
+      "english_term": "Digital Mailbox",
+      "french_term": "Boîte aux lettres numérique",
+      "definition_km": "Service អនុញ្ញាតអ្នកប្រើទទួល Mail/Package ពីចម្ងាយ និងគ្រប់គ្រង Parcel ក្នុង Digital System ពីគ្រប់ទីកន្លែង គ្រប់ពេលវេលា។"
+    },
+    {
+      "id": 114,
+      "letter": "ប",
+      "khmer_term": "ប្រៃសណីយផលឌីជីថល",
+      "english_term": "Digital Postage",
+      "french_term": "Affranchissement numérique",
+      "definition_km": "ផលិតផលរួម Postage Value ក្នុងទម្រង់ Binary (0/1) ដែលអ្នកផ្ញើទិញ ផ្ញើតាម Mobile, Computer, Tablet, Smart Device។"
+    },
+    {
+      "id": 115,
+      "letter": "ប",
+      "khmer_term": "ប្លុកឆេន",
+      "english_term": "Blockchain",
+      "french_term": "Chaîne de blocs",
+      "definition_km": "សំណុំ Record ប្រតិបត្តិការតភ្ជាប់ Point-to-Point ដោយ Encryption + Timestamp ស្ថិរ មិនអាចកែ ចែករំលែកក្នុង Network ពាក់ព័ន្ធ។"
+    },
+    {
+      "id": 116,
+      "letter": "ផ",
+      "khmer_term": "ផលិតផលឌីជីថល",
+      "english_term": "Digital Product",
+      "french_term": "Produit numérique",
+      "definition_km": "ឧបករណ៍/Device ដែលបង្កើត ក្នុងទម្រង់ Digital Binary (0/1) សម្រាប់ Process, Store, Analyze, Transmit Data/Information។"
+    },
+    {
+      "id": 117,
+      "letter": "ផ",
+      "khmer_term": "ផ្តើមឡើងឌីជីថល/ធុរកិច្ចថ្មីឌីជីថល",
+      "english_term": "Digital Startup",
+      "french_term": "Démarrage numérique",
+      "definition_km": "ការហក់ចូលបង្កើតក្រុមហ៊ុន/ធុរកិច្ចថ្មី ដែលពឹងផ្អែក Digital Binary (0/1) ជាផ្នែក Core ក្នុងការ Innovate Business Model, Product, Service។"
+    },
+    {
+      "id": 118,
+      "letter": "ផ",
+      "khmer_term": "ផ្ទេរអាកាស/អ៊ែរដ្រប",
+      "english_term": "Airdrop",
+      "french_term": "Largage aérien",
+      "definition_km": "App ចែករំលែក Image, Video, Text, Content ដោយផ្ទាល់ Wireless រវាង iPhone, Tablet, Mac ដែលនៅជិតគ្នា ក្នុង MacOS/iOS។"
+    },
+    {
+      "id": 119,
+      "letter": "ផ",
+      "khmer_term": "ផ្នែកទន់/សុសវែរ",
+      "english_term": "Software",
+      "french_term": "Logiciel",
+      "definition_km": "បណ្ដុំ Instructions, Commands, Data, Programs ដំឡើងក្នុង Computer/Tablet/Mobile/Electronics ដូចជា OS (Windows, Linux, macOS), Productivity (MS Office), Browsers (Firefox, Chrome, Safari)។"
+    },
+    {
+      "id": 120,
+      "letter": "ផ",
+      "khmer_term": "ផ្នែករឹង/ហាដវែរ",
+      "english_term": "Hardware",
+      "french_term": "Matériel",
+      "definition_km": "Physical/Electronic/Electromechanical Structure ដំឡើង Software ដោយ Input, Output, Storage, Communication, Processing Functions ឧ. Motherboard, HDD, CPU, Modem, Router។"
+    },
+    {
+      "id": 121,
+      "letter": "ផ",
+      "khmer_term": "ផ្លូវទិន្នន័យ/ប៊ឺសទិន្នន័យ",
+      "english_term": "Databus / Data Bus",
+      "french_term": "Bus de données",
+      "definition_km": "ប្រព័ន្ធ Communication ដែលបញ្ជូន/ផ្លាស់ទីData រវាង Components ក្នុង Computer ឬ Computer-to-Computer។"
+    },
+    {
+      "id": 122,
+      "letter": "ព",
+      "khmer_term": "ពិធីសារគមនាគមន៍ទិន្នន័យ",
+      "english_term": "Data Communication Protocol",
+      "french_term": "Protocole de communication de données",
+      "definition_km": "វិធីសាស្ត្រ Network Devices ខុស ធ្វើ Interaction ជាមួយគ្នា ទាំង Analog ទាំង Digital Communication។"
+    },
+    {
+      "id": 123,
+      "letter": "ព",
+      "khmer_term": "ពុម្ពអក្សរ",
+      "english_term": "Font",
+      "french_term": "Formulaire",
+      "definition_km": "រចនាបទ Size/Scale ជាក់លាក់ Text, Number, Symbol ដែលបង្ហាញ Screen/Electronics/Smart Device ឬ Print លើ Page។ MPTC ប្រើ Khmer Digital (Size 11) អត្ថបទ; Khmer Digital Max (Size 11) ចំណងជើង។"
+    },
+    {
+      "id": 124,
+      "letter": "ព",
+      "khmer_term": "ព័ត៌មានជីវមាត្រ",
+      "english_term": "Biometric Information",
+      "french_term": "Informations biométriques",
+      "definition_km": "Data ពិតនៃ Physical Identity បុគ្គល ដែលប្រើ Verify ដោយ Face Scan, Fingerprint, Iris, Voice, DNA Analysis ។"
+    },
+    {
+      "id": 125,
+      "letter": "ព",
+      "khmer_term": "ព័ត៌មានអតិថិជន",
+      "english_term": "Consumer Information",
+      "french_term": "Informations surs des consommateurs",
+      "definition_km": "ដំណឹង/Data Personal/Entity ប្រើ Service ដូចជា Telecom, ICT, Postal, Digital Service ID + Usage Records ក្នុង Computer/Forms។"
+    },
+    {
+      "id": 126,
+      "letter": "ភ",
+      "khmer_term": "ភាសាកិច្ចកម្មវិធី/ភាសាកម្មវិធី",
+      "english_term": "Programming Language",
+      "french_term": "Langage de programmation",
+      "definition_km": "ប្រព័ន្ធ Notation សម្រាប់សរសេរ Computer Program ។ Programming Language ត្រូវពណ៌នានៅក្នុង Syntax ឬ Format ភាសានោះ។"
+    },
+    {
+      "id": 127,
+      "letter": "ភ",
+      "khmer_term": "កូនឡាន",
+      "english_term": "Carplay",
+      "french_term": "Carplay",
+      "definition_km": "បច្ចេកវិទ្យាភ្ជាប់ App ក្នុង Smart Phone ទៅ Car Infotainment System តាម Bluetooth/Wireless/USB Port ដើម្បីប្រើ App Phone Functions ក្នុងរថយន្ត។"
+    },
+    {
+      "id": 128,
+      "letter": "ម",
+      "khmer_term": "មជ្ឈមណ្ឌលទិន្នន័យ",
+      "english_term": "Data Center",
+      "french_term": "Centre de données",
+      "definition_km": "ទីកន្លែងផ្ទុក/ចែករំលែក Software App + Data ដែលមាន Switch, Storage, Server, Router, Security System ។"
+    },
+    {
+      "id": 129,
+      "letter": "ម",
+      "khmer_term": "មជ្ឈមណ្ឌលបញ្ញើនៅអាកាសយានដ្ឋាន",
+      "english_term": "Airport Mail Center (AMC)",
+      "french_term": "Centre de courrier de l'aéroport (AMC)",
+      "definition_km": "កន្លែង Postal នៅ Airport ផ្ទុក/ចែកចាយ Mail Bag/Parcel ដឹក Air. (UPU: Airport Mail Center = Airport Mail Facility - AMF)。"
+    },
+    {
+      "id": 130,
+      "letter": "ម",
+      "khmer_term": "មជ្ឈមណ្ឌលបន្សាយឌីជីថល",
+      "english_term": "Digital Media Center (DMC)",
+      "french_term": "Médias numériques centre",
+      "definition_km": "ទីកន្លែងគ្រប់គ្រង/ចែកចាយ Information Online: Digital Image, Website, Social Media, Digital Data/Database, Video, Game, E-Doc, E-Book។"
+    },
+    {
+      "id": 131,
+      "letter": "ម",
+      "khmer_term": "មជ្ឈមណ្ឌលបមាណីយទូរសព្ទចល័ត",
+      "english_term": "Mobile Switching Center (MSC)",
+      "french_term": "Centre de commutation mobile (MSC)",
+      "definition_km": "Physical Infrastructure Mobile Network ដែល Control NSS ផ្តល់ Voice Connection តាម Digital Packet Switching រវាង Network Segments។"
+    },
+    {
+      "id": 132,
+      "letter": "ម",
+      "khmer_term": "មន្ទីរកោសល្យវិច័យឌីជីថល",
+      "english_term": "Digital Forensic Lab",
+      "french_term": "Laboratoire légal numérique",
+      "definition_km": "ទីកន្លែង Collect, Inspect, Analyze, Evaluate, Conclude Evidence ចេញពី Computer, Mobile, Audio/Video Devices, Text/Image Readers, PDAs។"
+    },
+    {
+      "id": 133,
+      "letter": "ម",
+      "khmer_term": "ម៉ាក",
+      "english_term": "Mark",
+      "french_term": "Marque",
+      "definition_km": "សញ្ញាដែលមើលឃើញ ហើយអាចសម្គាល់លក្ខណៈខុសគ្នានៃទំនិញ/Service នៃ Enterprise នីមួយៗ។"
+    },
+    {
+      "id": 134,
+      "letter": "ម",
+      "khmer_term": "ម៉ាល់វែរបហារ",
+      "english_term": "Malware Attack",
+      "french_term": "Attaque de malware",
+      "definition_km": "ការ Attack ពី Malicious Software ដើម្បីបង្ក Damage ដល់ Computer, Server, Client, Network, Infrastructure ដោយ User ចុងក្រោយ មិនដឹងឮ។"
+    },
+    {
+      "id": 135,
+      "letter": "ម",
+      "khmer_term": "ម៉ូតយន្តហោះ",
+      "english_term": "Airplane Mode",
+      "french_term": "Mode avion",
+      "definition_km": "មុខងារបិទ Mobile Service ក្នុង Mobile Device: Phone, Tablet, Smart Device ប្រើ ពេល Aircraft ហោះ។"
+    },
+    {
+      "id": 136,
+      "letter": "ម",
+      "khmer_term": "ម៉េសសិនជើ",
+      "english_term": "Messenger",
+      "french_term": "Messenger",
+      "definition_km": "App បង្កើតដោយ Mark Zuckerberg (Facebook) ឆ្នាំ ២០០៨ (Meta) ផ្តល់ Instant Message, Free Data Download, Chat With Facebook Friends, Group Chat។"
+    },
+    {
+      "id": 137,
+      "letter": "ម",
+      "khmer_term": "មាតិកា",
+      "english_term": "Content",
+      "french_term": "Contenu",
+      "definition_km": "Information/Visual/Data ដូចជា Image, Audio, Text, Video, Emoji ក្នុង Electronic Form ដែលបង្ហាញ/Publish/ចែករំលែក តាម Website, Social Media, Digital Platform។"
+    },
+    {
+      "id": 138,
+      "letter": "ម",
+      "khmer_term": "មាតិកាឌីជីថល",
+      "english_term": "Digital Content",
+      "french_term": "Contenu numérique",
+      "definition_km": "ខ្លឹមសារ Binary (0/1) ដែលផ្ទុក Digital Media ឬ Analog Storage ក្នុង Specific Format ។"
+    },
+    {
+      "id": 139,
+      "letter": "ម",
+      "khmer_term": "មូលទិន្នន័យ",
+      "english_term": "Database",
+      "french_term": "Base de données",
+      "definition_km": "បណ្ដុំ Data Relationship ផ្ទុក Computer ដែលងាយ View, Add, Update, Search, Change។"
+    },
+    {
+      "id": 140,
+      "letter": "ម",
+      "khmer_term": "មេរោគកុំព្យូទ័រ/វីរុសកុំព្យូទ័រ",
+      "english_term": "Computer Virus",
+      "french_term": "Virus informatique",
+      "definition_km": "Malicious Software ប្រភេទ ដូចជា Self-Replicating Code, Data Corruption, Data Theft, OS Disruption, Software Modification, Fraud ឧ. Spyware, Defacement, Data Destruction Virus。"
+    },
+    {
+      "id": 141,
+      "letter": "ម",
+      "khmer_term": "ម្ចាស់បណ្ណ/ម្ចាស់កាត",
+      "english_term": "Card Holder",
+      "french_term": "Titulaire De La Carte",
+      "definition_km": "បុគ្គលទទួល Credit Card, Debit Card, ID Card ពី Issuer ដើម្បីប្រើប្រតិបត្តិការ ។"
+    },
+    {
+      "id": 142,
+      "letter": "យ",
+      "khmer_term": "យថាជ្ញាបណ្ណ",
+      "english_term": "Class License",
+      "french_term": "Licence de classe",
+      "definition_km": "ការផ្តល់ Written Right ប្រើ Radio Frequency ចំណាត់ថ្នាក់ Radio Service ឧ. Industry, Science, Medical ឬ Low Power, ដែលមាន Specific Technical Specs ។"
+    },
+    {
+      "id": 143,
+      "letter": "យ",
+      "khmer_term": "យថាភូតភាព",
+      "english_term": "Authenticity",
+      "french_term": "Authenticité",
+      "definition_km": "Reality, True Quality, Original Character ។ ឧ. ការប្រើ Digital Signature បញ្ជាក់ Authenticity ឯកសារ ។"
+    },
+    {
+      "id": 144,
+      "letter": "យ",
+      "khmer_term": "យន្តការស្នូល/យន្តការអាក់សេស",
+      "english_term": "Access Mechanism",
+      "french_term": "Mécanisme d'accès",
+      "definition_km": "វិធីសាស្ត្រ/Method/Means Priority Control Access System/Network Telecom, ICT, Digital Technology: Biometrics, Username+Password, PIN, Encryption, 2FA ។"
+    },
+    {
+      "id": 145,
+      "letter": "រ",
+      "khmer_term": "រូបិយបណ្ណគ្រីបតូ",
+      "english_term": "Cryptocurrency",
+      "french_term": "Crypto-monnaie",
+      "definition_km": "Digital Currency ប្រភេទ Alternative Payment Encryption ។ ប្រើ Crypto Wallet ។ ឧ. Bitcoin, Ethereum, XRP, Dogecoin ។"
+    },
+    {
+      "id": 146,
+      "letter": "រ",
+      "khmer_term": "រូបិយបណ្ណឌីជីថល",
+      "english_term": "Digital Currency",
+      "french_term": "Monnaie numérique",
+      "definition_km": "Electronic Trading Instrument គ្រប់គ្រង/ផ្ទុក/ប្ដូរ Computer ជាពិសេស Internet ។"
+    },
+    {
+      "id": 147,
+      "letter": "រ",
+      "khmer_term": "រែនសឹមវែរ",
+      "english_term": "Ransomware",
+      "french_term": "Ransomware",
+      "definition_km": "Malware ប្រភេទ Lock/Encrypt Data ជនរងគ្រោះ: File, Device, System រហូតដល់ Attacker ទទួលប្រាក់ Ransom ។"
+    },
+    {
+      "id": 148,
+      "letter": "ល",
+      "khmer_term": "លទ្ធកម្មទិន្នន័យ",
+      "english_term": "Data Acquisition",
+      "french_term": "Acquisition des données",
+      "definition_km": "ដំណើរការ Convert Signal ដើម ទៅ Digital Domain សម្រាប់ Control, Process, Display, Store, Analyze ។"
+    },
+    {
+      "id": 149,
+      "letter": "ល",
+      "khmer_term": "លេខប្រព័ន្ធស្វយ័ត",
+      "english_term": "Autonomous System Number - ASN",
+      "french_term": "Numéro de système autonome - ASN",
+      "definition_km": "IP Prefix ID ​​Network ISP ណែនាំ Routing Connection ជាមួយ Network ដទៃ ឧ. AS132599 (MPTC) ។"
+    },
+    {
+      "id": 150,
+      "letter": "ល",
+      "khmer_term": "ល្បឿនបញ្ជូនទិន្នន័យ",
+      "english_term": "Data Transmission Rate",
+      "french_term": "Débit de transmission de données",
+      "definition_km": "ទំហំ Data បញ្ជូនលើ Channel/Interface នៅ Time Unit (Bit/Baud per Second) ។"
+    },
+    {
+      "id": 151,
+      "letter": "ល",
+      "khmer_term": "លំហអន្តរព័ន្ធ/លំហសាយប័រ",
+      "english_term": "Cyberspace",
+      "french_term": "Cyberespace",
+      "definition_km": "Objects & Identity ច្រើន ក្នុងបណ្តាញ Telecom/ICT ដូចជា Website, Homepage, Digital Platform ។"
+    },
+    {
+      "id": 152,
+      "letter": "ល",
+      "khmer_term": "លំហូរចុះ",
+      "english_term": "Downstream",
+      "french_term": "En aval",
+      "definition_km": "ដំណើរការ Transmit Data (Audio, Text, Image, Video) ពី ISP/ICT Network ទៅ Client/Customer ។"
+    },
+    {
+      "id": 153,
+      "letter": "ល",
+      "khmer_term": "លំហូរឡើង",
+      "english_term": "Upstream",
+      "french_term": "En amont",
+      "definition_km": "ដំណើរការ Transmit Data ពី Client ទៅ Server/ISP/ICT Network ។"
+    },
+    {
+      "id": 154,
+      "letter": "វ",
+      "khmer_term": "វ៉តអាប់",
+      "english_term": "Whatsapp",
+      "french_term": "Whatsapp",
+      "definition_km": "App បង្កើតឆ្នាំ ២០១៤ (Meta) ផ្តល់ Text/Audio/Video Message, Voice/Video Call, Content Sharing ។"
+    },
+    {
+      "id": 155,
+      "letter": "វ",
+      "khmer_term": "វ៉ាយប័រ",
+      "english_term": "Viber",
+      "french_term": "Viber",
+      "definition_km": "App ក្រុមហ៊ុន Japan Multinational បង្កើតឆ្នាំ ២០១០ ផ្តល់ Image/Video Message, Direct Call to Landline/Mobile ។"
+    },
+    {
+      "id": 156,
+      "letter": "វ",
+      "khmer_term": "វ៉ាយហ្វាយ",
+      "english_term": "Wi-Fi",
+      "french_term": "Wi-Fi",
+      "definition_km": "Wireless Network Technology ប្រើ Radio Wave Band 2.4GHz, 5GHz, 6GHz ផ្តល់ High-Speed Internet (Wireless Fidelity) ។"
+    },
+    {
+      "id": 157,
+      "letter": "វ",
+      "khmer_term": "វិកូដការកម្ម/វិកូដនីយកម្ម",
+      "english_term": "Decryption",
+      "french_term": "Décryptage",
+      "definition_km": "ដំណើរការ Convert Encrypted Data ត្រឡប់ ទៅ Original Form ដោយ Digital Key ។"
+    },
+    {
+      "id": 158,
+      "letter": "វ",
+      "khmer_term": "វិដំណាក់ប៊ី",
+      "english_term": "eNodeB (Evolved Node B)",
+      "french_term": "eNœudB (NœudB évolué)",
+      "definition_km": "Antenna Station Equipment ក្នុង 4G/5G Network ផ្តល់ Broadband Internet ទៅ Mobile Devices ។"
+    },
+    {
+      "id": 159,
+      "letter": "វ",
+      "khmer_term": "វិដំណាក់ប៊ីជំនាន់ក្រោយ",
+      "english_term": "ng-eNodeB (Next-Generation evolved Node B)",
+      "french_term": "eNœudB de nouvelle génération",
+      "definition_km": "Upgraded Radio Antenna Station សម្រាប់ 4G LTE ភ្ជាប់ទៅ 5G Core Network ។"
+    },
+    {
+      "id": 160,
+      "letter": "វ",
+      "khmer_term": "វិទ្យុឌីជីថល",
+      "english_term": "Digital Radio",
+      "french_term": "Radio numérique",
+      "definition_km": "Media System ប្រើ Binary Signal (0/1) ចាក់ផ្សាយ Audio Info ដែលអ្នកស្តាប់ ​ Live ឬ Download Save ។"
+    },
+    {
+      "id": 161,
+      "letter": "វ",
+      "khmer_term": "វិធីការព័ត៌មានឈ្មោះដែនជាតិ",
+      "english_term": "Whois",
+      "french_term": "Protocole d'information sur les noms de domaine nationaux",
+      "definition_km": "Internet Operation ប្រើ Search Public Info ពាក់ព័ន្ធ Registered National Domain Name ។"
+    },
+    {
+      "id": 162,
+      "letter": "វ",
+      "khmer_term": "វិភាគទិន្នន័យ",
+      "english_term": "Data Analysis",
+      "french_term": "Analyse des données",
+      "definition_km": "ប្រព្រឹត្តកម្ម Split, Check, Clean, Transform, Model Data ក្នុងគោលដៅ Conclusion ។"
+    },
+    {
+      "id": 163,
+      "letter": "វ",
+      "khmer_term": "វិសាលគមន៍អនាជ្ញាបណ្ណ",
+      "english_term": "Unlicensed Spectrum",
+      "french_term": "Spectre sans licence",
+      "definition_km": "Radio Frequency Band ប្រើ Radio Service ឧ. ISM (Industry, Science, Medical) ដោយ License-Free ពី Regulator ។"
+    },
+    {
+      "id": 164,
+      "letter": "វ",
+      "khmer_term": "វីឆាត",
+      "english_term": "Wechat",
+      "french_term": "Wechat",
+      "definition_km": "Social Network App ដោយ Tencent (China) ឆ្នាំ ២០១១ ផ្តល់ Text/Voice Message, Video Conference, Online Games, Mobile Payment ។"
+    },
+    {
+      "id": 165,
+      "letter": "វ",
+      "khmer_term": "វេបសកល/វេប",
+      "english_term": "World Wide Web (www)",
+      "french_term": "World Wide Web",
+      "definition_km": "Hypertext Information System អាច Find Related Info ជាមួយ Keyword ។"
+    },
+    {
+      "id": 166,
+      "letter": "វ",
+      "khmer_term": "វេបសាយ",
+      "english_term": "Website",
+      "french_term": "Site web",
+      "definition_km": "Collection Web Pages + Related Content ID ដោយ Common Domain Name ផ្សព្វផ្សាយ Public លើ Web Server ។"
+    },
+    {
+      "id": 167,
+      "letter": "ស",
+      "khmer_term": "សន្តិសុខអន្តរព័ន្ធ/សន្តិសុខសាយប័រ",
+      "english_term": "Cybersecurity",
+      "french_term": "Cyber-sécurité",
+      "definition_km": "ការអនុវត្ត Prevention, Response, Protection IT System: Network Infrastructure, OS, Programs ពី Intrusion/Attack ជាពិសេស Internet Attack ។"
+    },
+    {
+      "id": 168,
+      "letter": "ស",
+      "khmer_term": "សន្ធិភាព/តំណភាព",
+      "english_term": "Connectivity",
+      "french_term": "Connectivité",
+      "definition_km": "ភាព Interconnected ហេដ្ឋារចនាសម្ព័ន្ធ/Network ICT ដែល Fulfill Interoperability ជាមួយគ្នា ។"
+    },
+    {
+      "id": 169,
+      "letter": "ស",
+      "khmer_term": "សម្ព័ន្ធ/វាក្យសម្ព័ន្ធ",
+      "english_term": "Syntax",
+      "french_term": "Syntaxe",
+      "definition_km": "Structure of Statement (Information/Notification) ក្នុង Computer Language ។"
+    },
+    {
+      "id": 170,
+      "letter": "ស",
+      "khmer_term": "សហគមន៍ឌីជីថល",
+      "english_term": "Digital Community",
+      "french_term": "Communauté numérique",
+      "definition_km": "Network of Public Groups ដែលមាន Base/Interest ពឹង ICT ដូចជា Phone Service, Online Service, Internet ។"
+    },
+    {
+      "id": 171,
+      "letter": "ស",
+      "khmer_term": "ស៊ីញ៉ាល់ឌីជីថល",
+      "english_term": "Digital Signal",
+      "french_term": "Signal numérique",
+      "definition_km": "Signal ដែលមាន Binary Series (0/1) ។"
+    },
+    {
+      "id": 172,
+      "letter": "ស",
+      "khmer_term": "ស៊ីមកាត",
+      "english_term": "SIM Card",
+      "french_term": "SIM carte",
+      "definition_km": "Transferable Small Chip ផ្ទុក Mobile Device Info: User ID, Location, Phone Number, Contact List ហើយ Connect Device ទៅ Service Network ។"
+    },
+    {
+      "id": 173,
+      "letter": "ស",
+      "khmer_term": "ស៊ីមឆ្លាត",
+      "english_term": "Smart SIM",
+      "french_term": "SIM intelligente",
+      "definition_km": "Transferable Small Chip ដូច SIM Card ប៉ុន្តែ Multi-Function ដំបៅ​ Additional Features ។"
+    },
+    {
+      "id": 174,
+      "letter": "ស",
+      "khmer_term": "សារខ្មៅ",
+      "english_term": "Blackmail",
+      "french_term": "Chantage",
+      "definition_km": "ដំណឹងខ្លឹមសារ Malicious Electronic/Letter ពី Anonymous Person ត្រូវ Sent To Someone ជា Threat/Extortion Purpose ។"
+    },
+    {
+      "id": 175,
+      "letter": "ស",
+      "khmer_term": "សៀវភៅអេឡិចត្រូនិក/អឺប៊ុក",
+      "english_term": "Electronic Book (E-Book)",
+      "french_term": "Livre électronique",
+      "definition_km": "ឯកសារ Digital Form ដែលអានបែប Page-by-Page នៅ Computer, Tablet, Smart Phone ។"
+    },
+    {
+      "id": 176,
+      "letter": "ស",
+      "khmer_term": "សេវាកែតម្រូវអាសយដ្ឋាន",
+      "english_term": "Address Correction Service",
+      "french_term": "Service de correction d'adresse",
+      "definition_km": "ប្រព័ន្ធ Supplement ប្រតិបត្តិការ អនុញ្ញាតអ្នកផ្ញើ Fill New Address Recipient ក្នុងករណី Old Info មិនត្រឹមត្រូវ ។"
+    },
+    {
+      "id": 177,
+      "letter": "ស",
+      "khmer_term": "សេវាឌីជីថល",
+      "english_term": "Digital Services",
+      "french_term": "Services numériques",
+      "definition_km": "Supplies Received/Delivered via Internet/Electronics ដើម្បី Communication, Trade, Payment ។"
+    },
+    {
+      "id": 178,
+      "letter": "ស",
+      "khmer_term": "សេវាទូរគមនាគមន៍មូលដ្ឋាន",
+      "english_term": "Basic Telecommunication Services",
+      "french_term": "Services de télécommunications de base",
+      "definition_km": "ការផ្តល់ Public Network Infrastructure, Public Data Transmission, Basic Voice Services (Landline, Mobile) ។"
+    },
+    {
+      "id": 179,
+      "letter": "ស",
+      "khmer_term": "សេវាផ្កាយរណបរុករកលើផែនដី",
+      "english_term": "Earth Exploration-Satellite Service",
+      "french_term": "Service d'exploration de la terre par satellite",
+      "definition_km": "Radio Communication ​​Between Ground Station + Space Satellite ដើម្បី Explore/Research Earth ។"
+    },
+    {
+      "id": 180,
+      "letter": "ស",
+      "khmer_term": "សេវាផ្សាយ",
+      "english_term": "Broadcasting Service",
+      "french_term": "Service de radiodiffusion",
+      "definition_km": "Radio Communication ចាក់ផ្សាយ Audio/Image/Video ពី Radio/TV Station ទៅ Public (Broadcast) ។"
+    },
+    {
+      "id": 181,
+      "letter": "ស",
+      "khmer_term": "សេវាផ្សាយតាមផ្កាយរណប",
+      "english_term": "Broadcasting-Satellite Service",
+      "french_term": "Service de radiodiffusion par satellite",
+      "definition_km": "Radio Communication ចាក់ផ្សាយ Audio/Image/Video ពី Satellite Station ទៅ Radio, TV, Individual Devices ។"
+    },
+    {
+      "id": 182,
+      "letter": "ស",
+      "khmer_term": "សេវាមិនអាជីព/សេវាអាម៉ាតួ",
+      "english_term": "Amateur Service",
+      "french_term": "Service amateur",
+      "definition_km": "Radio Communication ប្រើ Self-Study, Non-Commercial, Non-Profit (Amateur) ។"
+    },
+    {
+      "id": 183,
+      "letter": "ស",
+      "khmer_term": "សេវាមិនអាជីពតាមផ្កាយរណប",
+      "english_term": "Amateur-Satellite Service",
+      "french_term": "Service d'amateur par satellite",
+      "definition_km": "Radio Communication via Satellite System ប្រើ Self-Study ដោយ Researcher ។"
+    },
+    {
+      "id": 184,
+      "letter": "ស",
+      "khmer_term": "សេវាវិទ្យុនាំផ្លូវអាកាសចរ",
+      "english_term": "Aeronautical Radionavigation Service",
+      "french_term": "Service de radionavigation aéronautique",
+      "definition_km": "Radio Communication ប្រើ Navigation/Control Flight Path, Safety Operations of Aircraft ។"
+    },
+    {
+      "id": 185,
+      "letter": "ស",
+      "khmer_term": "សេវាវិទ្យុនាំផ្លូវអាកាសចរណ៍តាមផ្កាយរណប",
+      "english_term": "Aeronautical Radionavigation-Satellite Service",
+      "french_term": "Service de radionavigation aéronautique par satellite",
+      "definition_km": "Radio Communication Ground Satellite Station + Onboard Aircraft Station via Space Satellite ។"
+    },
+    {
+      "id": 186,
+      "letter": "ស",
+      "khmer_term": "សេវាសារខ្លី",
+      "english_term": "Short Message Service - SMS",
+      "french_term": "Service de messages courts-SMS",
+      "definition_km": "App Service ចាក់ Text ≤ 160 Characters Phone-to-Phone ។"
+    },
+    {
+      "id": 187,
+      "letter": "ស",
+      "khmer_term": "សេវាអន្តរផ្កាយរណប",
+      "english_term": "Inter-Satellite Service",
+      "french_term": "Service intersatellite",
+      "definition_km": "Radio Communication ភ្ជាប់ Transmit/Receive Signal ​​Between Orbital Space Radio Stations ។"
+    },
+    {
+      "id": 188,
+      "letter": "ស",
+      "khmer_term": "សេវាអាកាសចរចល័ត",
+      "english_term": "Aeronautical Mobile Service",
+      "french_term": "Service mobile aéronautique",
+      "definition_km": "Radio Communication Ground Aviation Station + Onboard Aircraft Station: Navigation/Emergency Information ។"
+    },
+    {
+      "id": 189,
+      "letter": "ស",
+      "khmer_term": "សេវាអាកាសចរផ្កាយរណបចល័ត",
+      "english_term": "Aeronautical Mobile-Satellite Service",
+      "french_term": "Service mobile aéronautique par satellite",
+      "definition_km": "Radio Communication Onboard Aircraft Station + Mobile Ground Station via Space Satellite ។"
+    },
+    {
+      "id": 190,
+      "letter": "ស",
+      "khmer_term": "សេវូបករណ៍",
+      "english_term": "Server",
+      "french_term": "Serveuse",
+      "definition_km": "Computer/Device ផ្គត់ផ្គង់ Information/Service ដល់ Computers ផ្សេង ក្នុង Network ។"
+    },
+    {
+      "id": 191,
+      "letter": "ស",
+      "khmer_term": "សែល",
+      "english_term": "Cell",
+      "french_term": "Cellule",
+      "definition_km": "Geographic Area Cover ដោយ Service ស្ថានីយ BTS មួយ ក្នុង Cellular/Wireless Network ។"
+    },
+    {
+      "id": 192,
+      "letter": "ស",
+      "khmer_term": "សែលលុយឡា",
+      "english_term": "Cellular",
+      "french_term": "Cellulaire",
+      "definition_km": "Mobile Phone Technology ប្រើ Short-Range Radio Wave ពី BTS Interlocking ក្នុង Auto-Service Connection ។"
+    },
+    {
+      "id": 193,
+      "letter": "ស",
+      "khmer_term": "សោឆ្នូល/សោអាក់សេស",
+      "english_term": "Access Key",
+      "french_term": "Clé d'accès",
+      "definition_km": "Special Device, Mechanism, Method ជំនួយ Smart Device Use ​​Access Service/Data/Electronic System ។"
+    },
+    {
+      "id": 194,
+      "letter": "ស",
+      "khmer_term": "សោដែនបញ្ជាក់អត្តសញ្ញាណសារ",
+      "english_term": "Domainkeys Identified Mail (DKIM)",
+      "french_term": "Clés de domaine courrier identifié",
+      "definition_km": "Method/Rule/Program Email Authentication ដោយ Digital Signature ដើម្បីដឹង Email ត្រូវបាន Sent ពី True Domain Owner ។"
+    },
+    {
+      "id": 195,
+      "letter": "ស",
+      "khmer_term": "ស្ថានីយលើផែនដី",
+      "english_term": "Earth Stations",
+      "french_term": "Stations terrestres",
+      "definition_km": "Location Assembly Satellite Equipment ដំឡើង Ground ដើម្បី Communicate ទៅ Space Satellite ។"
+    },
+    {
+      "id": 196,
+      "letter": "ស",
+      "khmer_term": "ស្ថានីយអង់តែន",
+      "english_term": "Base Transceiver Station (BTS)",
+      "french_term": "Station d'émetteur-récepteur de base (BTS)",
+      "definition_km": "Radio Equipment ​​Transmit/Receive Radio Signal Between Customer Mobile Device + Operator Mobile Network ។"
+    },
+    {
+      "id": 197,
+      "letter": "ស",
+      "khmer_term": "សំណុំឧទ្ទេសវាទ/សំណុំអនុទ្ទេស",
+      "english_term": "Instruction Set",
+      "french_term": "Jeu d'instructions",
+      "definition_km": "Systematically Interlinked Instructions ប្រើ Computer Program ដើម្បីពិពណ៌នា Problem ផ្តល់ Processor ។"
+    },
+    {
+      "id": 198,
+      "letter": "ហ",
+      "khmer_term": "ហត្ថលេខាឌីជីថល",
+      "english_term": "Digital Signature",
+      "french_term": "Signature numérique",
+      "definition_km": "Mathematical Protocol/Other Protocols ភ្ជាប់ Electronic Message ដើម្បី Verify Digital Signer Identity + Authenticate Original Message ។"
+    },
+    {
+      "id": 199,
+      "letter": "ហ",
+      "khmer_term": "ហឺត/អ៊ែក",
+      "english_term": "Hertz (Hz)",
+      "french_term": "Hertz (Hz)",
+      "definition_km": "Unit ​​Radio Frequency វាស់ Cycle Count នៃ Electromagnetic Wave ក្នុង ១ Second ។"
+    },
+    {
+      "id": 200,
+      "letter": "ហ",
+      "khmer_term": "ហេដ្ឋារចនាសម្ព័ន្ធឆ្អឹងខ្នង",
+      "english_term": "Backbone",
+      "french_term": "Colonne vertébrale infrastructure",
+      "definition_km": "Main Network ផ្តល់ Capacity ឱ្យ Networks ផ្សេង Connect Transmit/Receive Data: Audio, Text, Image, Video ។"
+    },
+    {
+      "id": 201,
+      "letter": "ហ",
+      "khmer_term": "ហ្វីសស៊ីង",
+      "english_term": "Phishing",
+      "french_term": "Hameçonnage",
+      "definition_km": "ការ Attempt Steal Sensitive Info: Username, Password, Credit Card, Bank Account ​​ with Malicious Intent ។"
+    },
+    {
+      "id": 202,
+      "letter": "ឡ",
+      "khmer_term": "ឡាញ",
+      "english_term": "Line",
+      "french_term": "Line",
+      "definition_km": "App Japan/Korea Multinational Corp ឆ្នាំ ២០០០ ផ្តល់ Text/Image/Video/Audio, VoIP, Line Pay ។"
+    },
+    {
+      "id": 203,
+      "letter": "អ",
+      "khmer_term": "អង្គគ្រប់គ្រងឧបករណ៍/ដ្រាយវើរ",
+      "english_term": "Device Driver",
+      "french_term": "Pilote de périphérique",
+      "definition_km": "Software ជំនួយ Components/Hardware ភ្ជាប់ Computer ដំណើរការ ។"
+    },
+    {
+      "id": 204,
+      "letter": "អ",
+      "khmer_term": "អង្គចងចាំ/មេម៉ូរី",
+      "english_term": "Memory",
+      "french_term": "Mémoire",
+      "definition_km": "Electronic/Optical/Magnetic Device ផ្ទុក Instructions និង Store Data/Information Temporarily ឬ Permanently ។"
+    },
+    {
+      "id": 205,
+      "letter": "អ",
+      "khmer_term": "អង្គដំណើរការកណ្តាល/ស៊ីភីយូ",
+      "english_term": "Central Processing Unit - CPU",
+      "french_term": "Unité centrale de traitement-CPU",
+      "definition_km": "Main Component/Brain Computer ។ Execute Instructions ពី Programs, Perform Control, Logic/Arithmetic Processing ។"
+    },
+    {
+      "id": 206,
+      "letter": "អ",
+      "khmer_term": "អតិថិជន",
+      "english_term": "Customer",
+      "french_term": "Client",
+      "definition_km": "Person/Business Subscribe/Use Telecom Service ពី Telecom Operator ។"
+    },
+    {
+      "id": 207,
+      "letter": "អ",
+      "khmer_term": "អតិបទ",
+      "english_term": "Hypertext",
+      "french_term": "Hypertexte",
+      "definition_km": "Text ដែលបង្ហាញ Computer Screen/Electronics ជាមួយ Reference ទៅ Text ផ្សេងទៀត ។"
+    },
+    {
+      "id": 208,
+      "letter": "អ",
+      "khmer_term": "អត្ថវន្តឌីជីថល/ភីឌីអេ",
+      "english_term": "Personal Digital Assistant (PDA)",
+      "french_term": "Assistant numérique personnel (PDA)",
+      "definition_km": "Mobile Electronics Multi-Function: Schedule Management, Personal Info, Note Taking/Storage, Internet ។"
+    },
+    {
+      "id": 209,
+      "letter": "អ",
+      "khmer_term": "អនុដែន",
+      "english_term": "Subdomain",
+      "french_term": "Sous-Domaine",
+      "definition_km": "Domain ដែលបង្កើត + ​​Left of Registered National Domain Name ។"
+    },
+    {
+      "id": 210,
+      "letter": "អ",
+      "khmer_term": "អន្តរព័ន្ធ/សាយប័រ",
+      "english_term": "Cyber",
+      "french_term": "Cyber",
+      "definition_km": "Operation ពាក់ព័ន្ធ Multi-Computer, Multi-Network, Computer, Internet ។"
+    },
+    {
+      "id": 211,
+      "letter": "អ",
+      "khmer_term": "អ៊ុនធឺណិតបង់ទូលាយ/អ៊ុនធឺណិតប្រដប៊ែន",
+      "english_term": "Broadband Internet",
+      "french_term": "Internet haut debit",
+      "definition_km": "Telecom Network Type ​​Transmit/Receive Large Data Fast via Cable ​​or Radio Wave ។"
+    },
+    {
+      "id": 212,
+      "letter": "អ",
+      "khmer_term": "អ៊ុនស្តាក្រាម",
+      "english_term": "Instagram",
+      "french_term": "Instagram",
+      "definition_km": "App ឆ្នាំ ២០១០ (Meta) ផ្តល់ Send/Post/Manage/Share/Broadcast Photos/Videos Privately/Publicly ។"
+    },
+    {
+      "id": 213,
+      "letter": "អ",
+      "khmer_term": "អ៊ីស៊ីម/អឺស៊ីម",
+      "english_term": "eSIM / ESIM",
+      "french_term": "ESIM",
+      "definition_km": "Digital Program Phone System eUICC Chip Permanently Inside Mobile Device Multi-Phone Number Capable ។"
+    },
+    {
+      "id": 214,
+      "letter": "អ",
+      "khmer_term": "អ៊ែសឺណិត",
+      "english_term": "Ethernet",
+      "french_term": "Ethernet",
+      "definition_km": "Network Technology: Protocol, Connector, Cable, Chip ​​For LAN Connection ​​10 Mbps ។"
+    },
+    {
+      "id": 215,
+      "letter": "អ",
+      "khmer_term": "អ៊ែសឺណិតជីហ្គាប៊ីត",
+      "english_term": "Gegabit Ethernet",
+      "french_term": "Gigabit ethernet",
+      "definition_km": "Network Technology LAN Connection ​​1000 Mbps (1 Gbps) ។"
+    },
+    {
+      "id": 216,
+      "letter": "អ",
+      "khmer_term": "អ៊ែសឺណិតល្បឿនលឿន",
+      "english_term": "Fast Ethernet",
+      "french_term": "Ethernet rapide",
+      "definition_km": "Network Technology LAN Connection ​​100 Mbps ។"
+    },
+    {
+      "id": 217,
+      "letter": "អ",
+      "khmer_term": "អាសយដ្ឋានចែកបន្ត",
+      "english_term": "Forwarding Address",
+      "french_term": "Adresse de réexpédition",
+      "definition_km": "New Address (Destination) Replacing Old Address ​​Forwarding Parcel to New Location ។"
+    },
+    {
+      "id": 218,
+      "letter": "អ",
+      "khmer_term": "អាសយដ្ឋានប្រគល់",
+      "english_term": "Delivery Address",
+      "french_term": "Adresse de livraison",
+      "definition_km": "Destination Set by Sender ​​Where Postal Operator Must Deliver Parcel to Recipient ។"
+    },
+    {
+      "id": 219,
+      "letter": "អ",
+      "khmer_term": "អេឡិចត្រូនិកឌីជីថល",
+      "english_term": "Digital Electronics",
+      "french_term": "Électronique numérique",
+      "definition_km": "Electric-Powered Device ​​Used In/With Computer: Store, Process, Transmit Data (CPU, Digital Camera, Smart Phone) ។"
+    },
+    {
+      "id": 220,
+      "letter": "ឧ",
+      "khmer_term": "ឧក្រិដ្ឋកម្មអន្តរព័ន្ធ/ឧក្រិដ្ឋកម្មសាយប័រ",
+      "english_term": "Cybercrime",
+      "french_term": "Cybercriminalité",
+      "definition_km": "Crime ប្រព្រឹត្ត ICT Network: Theft, Fraud, Document Forgery, Virus Insertion, Threatening Message, Extortion ។"
+    },
+    {
+      "id": 221,
+      "letter": "ឧ",
+      "khmer_term": "ឧទ្ទេសវាទ/អនុទ្ទេស",
+      "english_term": "Instruction",
+      "french_term": "Instruction",
+      "definition_km": "Directive ប្រើ Computer Program ​​Describe Command ​​Provided to CPU ។"
+    },
+    {
+      "id": 222,
+      "letter": "ឧ",
+      "khmer_term": "ឧទ្ទេសវាទកុំព្យូទ័រ/អនុទ្ទេសកុំព្យូទ័រ",
+      "english_term": "Computer Instruction",
+      "french_term": "Enseignement informatique",
+      "definition_km": "Binary Instruction (0/1 Series) ​​Describe Computer OS Operation ​​Understandable by CPU ។"
+    },
+    {
+      "id": 223,
+      "letter": "ឧ",
+      "khmer_term": "ឧបករណ៍ទ្វេស៊ីម",
+      "english_term": "Dual SIM Device",
+      "french_term": "Appareil double SIM",
+      "definition_km": "Mobile Device ​​Allow ​​Installing Two Different SIM Cards ។"
+    },
+    {
+      "id": 224,
+      "letter": "ឧ",
+      "khmer_term": "ឧបករណ៍បញ្ជាស្ថានីយអង់តែន",
+      "english_term": "Base Station Controller (BSC)",
+      "french_term": "Contrôleur de station de base (BSC)",
+      "definition_km": "Device Set ​​Network Telecom ​​Control/Monitor/Distribute Service To One/Multiple BTS Stations ។"
+    },
+    {
+      "id": 225,
+      "letter": "ឯ",
+      "khmer_term": "ឯកត្តកិច្ច",
+      "english_term": "Hashing",
+      "french_term": "Hachage",
+      "definition_km": "Process Convert Data ​​by Specific Math Formula ​​to Fixed-Size Alphanumeric String: Indescribable, Uninterpretable, Irreversible ​​to Ensure Data Integrity ។"
+    },
+    {
+      "id": 226,
+      "letter": "ឯ",
+      "khmer_term": "ឯកត្តកូដ",
+      "english_term": "Hash Code / Hash Value",
+      "french_term": "Code de hachage / valeur de hachage",
+      "definition_km": "Alphanumeric String ​​from Data Conversion by Math Formula (Hash Function) ។"
+    },
+    {
+      "id": 227,
+      "letter": "ឯ",
+      "khmer_term": "ឯកត្តានុគមន៍",
+      "english_term": "Hash Function",
+      "french_term": "Fonction de hachage",
+      "definition_km": "Math Solution ​​Convert Data to Fixed-Size Alphanumeric String: Indescribable, Uninterpretable, Irreversible ។"
+    }
+  ],
+  "p2": [
+    {
+      "id": 1,
+      "letter": "ក",
+      "khmer_term": "ការទទួលយក",
+      "english_term": "Acceptance"
+    },
+    {
+      "id": 2,
+      "letter": "ទ",
+      "khmer_term": "ទីតាំងទទួលយក",
+      "english_term": "Acceptance Location"
+    },
+    {
+      "id": 3,
+      "letter": "ត",
+      "khmer_term": "តេស្តទទួលយក",
+      "english_term": "Acceptance Test"
+    },
+    {
+      "id": 4,
+      "letter": "ច",
+      "khmer_term": "ចូល/អាក់សេស",
+      "english_term": "Access"
+    },
+    {
+      "id": 5,
+      "letter": "ក",
+      "khmer_term": "កូដចូល/កូដអាក់សេស",
+      "english_term": "Access Code"
+    },
+    {
+      "id": 6,
+      "letter": "ស",
+      "khmer_term": "សោចូល/សោអាក់សេស",
+      "english_term": "Access Key"
+    },
+    {
+      "id": 7,
+      "letter": "យ",
+      "khmer_term": "យន្តការចូល/យន្តការអាក់សេស",
+      "english_term": "Access Mechanism"
+    },
+    {
+      "id": 8,
+      "letter": "ដ",
+      "khmer_term": "ដំណាក់ចូល/ដំណាក់អាក់សេស",
+      "english_term": "Access Node"
+    },
+    {
+      "id": 9,
+      "letter": "ច",
+      "khmer_term": "ចំណុចចូល/ចំណុចអាក់សេស",
+      "english_term": "Access Point"
+    },
+    {
+      "id": 10,
+      "letter": "ច",
+      "khmer_term": "ចូលអត់អនុញ្ញាត/អាក់សេសអត់អនុញ្ញាត",
+      "english_term": "Access Without Permits"
+    },
+    {
+      "id": 11,
+      "letter": "ឆ",
+      "khmer_term": "ឆួលភាព/អាក់សេសភាព",
+      "english_term": "Accessibility"
+    },
+    {
+      "id": 12,
+      "letter": "ជ",
+      "khmer_term": "ជំនួយចូលភាព/ជំនួយអាក់សេសភាព",
+      "english_term": "Accessibility Aids"
+    },
+    {
+      "id": 13,
+      "letter": "ស",
+      "khmer_term": "សេវាកែតម្រូវអាសយដ្ឋាន",
+      "english_term": "Address Correction Service"
+    },
+    {
+      "id": 14,
+      "letter": "ត",
+      "khmer_term": "តំបន់អាសយដ្ឋាន",
+      "english_term": "Address Zone"
+    },
+    {
+      "id": 15,
+      "letter": "ស",
+      "khmer_term": "សេវាអាកាសចរចល័ត",
+      "english_term": "Aeronautical Mobile Service"
+    },
+    {
+      "id": 16,
+      "letter": "ស",
+      "khmer_term": "សេវាអាកាសចរផ្កាយរណបចល័ត",
+      "english_term": "Aeronautical Mobile-Satellite Service"
+    },
+    {
+      "id": 17,
+      "letter": "ស",
+      "khmer_term": "សេវាវិទ្យុនាំផ្លូវអាកាសចរ",
+      "english_term": "Aeronautical Radionavigation Service"
+    },
+    {
+      "id": 18,
+      "letter": "ស",
+      "khmer_term": "សេវាវិទ្យុនាំផ្លូវអាកាសចរណ៍តាមផ្កាយរណប",
+      "english_term": "Aeronautical Radionavigation - Satellite Service"
+    },
+    {
+      "id": 19,
+      "letter": "ផ",
+      "khmer_term": "ផ្ទេរកាស/អ៊ែរដ្រប",
+      "english_term": "Airdrop"
+    },
+    {
+      "id": 20,
+      "letter": "ម",
+      "khmer_term": "ម៉ូដយន្តហោះ",
+      "english_term": "Airplane Mode"
+    },
+    {
+      "id": 21,
+      "letter": "ម",
+      "khmer_term": "មជ្ឈមណ្ឌលបញ្ញើនៅអាកាសយានដ្ឋាន",
+      "english_term": "Airport Mail Center (AMC)"
+    },
+    {
+      "id": 22,
+      "letter": "ស",
+      "khmer_term": "សេវាមិនអាជីព/សេវាអាម៉ាទ័រ",
+      "english_term": "Amateur Service"
+    },
+    {
+      "id": 23,
+      "letter": "ស",
+      "khmer_term": "សេវាមិនអាជីពតាមផ្កាយរណប/សេវាអាម៉ាទ័រតាមផ្កាយរណប",
+      "english_term": "Amateur-Satellite Service"
+    },
+    {
+      "id": 24,
+      "letter": "ក",
+      "khmer_term": "កូដតំបន់",
+      "english_term": "Area Code"
+    },
+    {
+      "id": 25,
+      "letter": "ប",
+      "khmer_term": "បញ្ញាសិប្បនិម្មិត",
+      "english_term": "Artificial Intelligence (AI)"
+    },
+    {
+      "id": 26,
+      "letter": "យ",
+      "khmer_term": "យថាភូតភាព",
+      "english_term": "Authenticity"
+    },
+    {
+      "id": 27,
+      "letter": "ប",
+      "khmer_term": "ប្រព័ន្ធសារស្វ័យប្រវត្តិ",
+      "english_term": "Automated Message System"
+    },
+    {
+      "id": 28,
+      "letter": "ល",
+      "khmer_term": "លេខប្រព័ន្ធស្វ័យ័ត",
+      "english_term": "Autonomous System Number- ASN"
+    },
+    {
+      "id": 29,
+      "letter": "ហ",
+      "khmer_term": "ហេដ្ឋារចនាសម្ព័ន្ធឆ្អឹងខ្នង",
+      "english_term": "Backbone"
+    },
+    {
+      "id": 30,
+      "letter": "ឧ",
+      "khmer_term": "ឧបករណ៍បញ្ជាស្ថានីយអង់តែន",
+      "english_term": "Base Station Controller (BSC)"
+    },
+    {
+      "id": 31,
+      "letter": "ស",
+      "khmer_term": "ស្ថានីយអង់តែន",
+      "english_term": "Base Transceiver Station (BTS)"
+    },
+    {
+      "id": 32,
+      "letter": "ស",
+      "khmer_term": "សេវាទូរគមនាគមន៍មូលដ្ឋាន",
+      "english_term": "Basic Telecommunication Services"
+    },
+    {
+      "id": 33,
+      "letter": "ទ",
+      "khmer_term": "ទិន្នន័យធំ",
+      "english_term": "Big Data"
+    },
+    {
+      "id": 34,
+      "letter": "ប",
+      "khmer_term": "ប៊ីហ្គោឡាយ",
+      "english_term": "Bigolive"
+    },
+    {
+      "id": 35,
+      "letter": "ក",
+      "khmer_term": "កូដទ្វេគោល/កូដគោលពីរ",
+      "english_term": "Binary Code"
+    },
+    {
+      "id": 36,
+      "letter": "ទ",
+      "khmer_term": "ទិន្នន័យជីវមាត្រ",
+      "english_term": "Biometric Data"
+    },
+    {
+      "id": 37,
+      "letter": "ព",
+      "khmer_term": "ព័ត៌មានជីវមាត្រ",
+      "english_term": "Biometric Information"
+    },
+    {
+      "id": 38,
+      "letter": "ប",
+      "khmer_term": "ប៊ីតខ័ញ",
+      "english_term": "Bitcoin"
+    },
+    {
+      "id": 39,
+      "letter": "ស",
+      "khmer_term": "សារខ្មៅ",
+      "english_term": "Blackmail"
+    },
+    {
+      "id": 40,
+      "letter": "ប",
+      "khmer_term": "ប្លុកឆេន",
+      "english_term": "Blockchain"
+    },
+    {
+      "id": 41,
+      "letter": "ប",
+      "khmer_term": "បង់ទូលាយ/ប្រ៊តប៊ែន",
+      "english_term": "Broadband"
+    },
+    {
+      "id": 42,
+      "letter": "អ",
+      "khmer_term": "អ៊ីនធឺណិតបង់ទូលាយ/អ៊ីនធឺណិតប្រ៊តប៊ែន",
+      "english_term": "Broadband Internet"
+    },
+    {
+      "id": 43,
+      "letter": "ស",
+      "khmer_term": "សេវាផ្សាយ",
+      "english_term": "Broadcasting Service"
+    },
+    {
+      "id": 44,
+      "letter": "ស",
+      "khmer_term": "សេវាផ្សាយតាមផ្កាយរណប",
+      "english_term": "Broadcasting-Satellite Service"
+    },
+    {
+      "id": 45,
+      "letter": "ម",
+      "khmer_term": "ម្ចាស់បណ្ណ/ម្ចាស់កាត",
+      "english_term": "Card Holder"
+    },
+    {
+      "id": 46,
+      "letter": "ក",
+      "khmer_term": "កូនឡាន",
+      "english_term": "Carplay"
+    },
+    {
+      "id": 47,
+      "letter": "ស",
+      "khmer_term": "សែល",
+      "english_term": "Cell"
+    },
+    {
+      "id": 48,
+      "letter": "ស",
+      "khmer_term": "សែលុលឡឺ",
+      "english_term": "Cellular"
+    },
+    {
+      "id": 49,
+      "letter": "ទ",
+      "khmer_term": "ទិន្នន័យសែលុលឡឺ",
+      "english_term": "Cellular Data"
+    },
+    {
+      "id": 50,
+      "letter": "អ",
+      "khmer_term": "អង្គដំណើរការកណ្ដាល /ស៊ីភីយូ",
+      "english_term": "Central Processing Unit-CPU"
+    },
+    {
+      "id": 51,
+      "letter": "ឆ",
+      "khmer_term": "ឆាត",
+      "english_term": "Chat"
+    },
+    {
+      "id": 52,
+      "letter": "ប",
+      "khmer_term": "ប្រធានផ្នែកព័ត៌មាន",
+      "english_term": "Chief Information Officer (CIO)"
+    },
+    {
+      "id": 53,
+      "letter": "ប",
+      "khmer_term": "ប្រធានផ្នែកសន្តិសុខព័ត៌មាន",
+      "english_term": "Chief Security Officer (CSO)"
+    },
+    {
+      "id": 54,
+      "letter": "យ",
+      "khmer_term": "យថាបត្របណ្ណ",
+      "english_term": "Class License"
+    },
+    {
+      "id": 55,
+      "letter": "ក",
+      "khmer_term": "កិច្ចកុំព្យូទ័រពពក/កុំព្យូទ័រពពក",
+      "english_term": "Cloud Computing"
+    },
+    {
+      "id": 56,
+      "letter": "ប",
+      "khmer_term": "បច្ចេកវិទ្យាពពក",
+      "english_term": "Cloud Technology"
+    },
+    {
+      "id": 57,
+      "letter": "ក",
+      "khmer_term": "កូដ",
+      "english_term": "Code"
+    },
+    {
+      "id": 58,
+      "letter": "ក",
+      "khmer_term": "កុំព្យូទ័រ",
+      "english_term": "Computer"
+    },
+    {
+      "id": 59,
+      "letter": "ទ",
+      "khmer_term": "ទិន្នន័យកុំព្យូទ័រ",
+      "english_term": "Computer Data"
+    },
+    {
+      "id": 60,
+      "letter": "ក",
+      "khmer_term": "ក្រុមឆ្លើយតបបញ្ហាបន្ទាន់នៃកុំព្យូទ័រ",
+      "english_term": "Computer Emergency Respond Team (CERT)"
+    },
+    {
+      "id": 61,
+      "letter": "ឧ",
+      "khmer_term": "ឧទ្ទេសរោមកុំព្យូទ័រ/អនុទ្ទេសកុំព្យូទ័រ",
+      "english_term": "Computer Instruction"
+    },
+    {
+      "id": 62,
+      "letter": "ក",
+      "khmer_term": "កម្មវិធីកុំព្យូទ័រ",
+      "english_term": "Computer Program"
+    },
+    {
+      "id": 63,
+      "letter": "ប",
+      "khmer_term": "ប្រព័ន្ធកុំព្យូទ័រ",
+      "english_term": "Computer System"
+    },
+    {
+      "id": 64,
+      "letter": "ម",
+      "khmer_term": "មេរោគកុំព្យូទ័រ/វីរុសកុំព្យូទ័រ",
+      "english_term": "Computer Virus"
+    },
+    {
+      "id": 65,
+      "letter": "ប",
+      "khmer_term": "បុគ្គលពាក់ព័ន្ធ",
+      "english_term": "Concerning Person"
+    },
+    {
+      "id": 66,
+      "letter": "ស",
+      "khmer_term": "សន្តិភាព/តំណភ្ជាប់",
+      "english_term": "Connectivity"
+    },
+    {
+      "id": 67,
+      "letter": "ព",
+      "khmer_term": "ព័ត៌មានអតិថិជន",
+      "english_term": "Consumer Information"
+    },
+    {
+      "id": 68,
+      "letter": "ម",
+      "khmer_term": "មាតិកា",
+      "english_term": "Content"
+    },
+    {
+      "id": 69,
+      "letter": "ប",
+      "khmer_term": "បណ្តាញស្នូល",
+      "english_term": "Core Network"
+    },
+    {
+      "id": 70,
+      "letter": "ប",
+      "khmer_term": "បណ្ណក្លែងក្លាយ/កាតក្លែងក្លាយ",
+      "english_term": "Counterfeit Card"
+    },
+    {
+      "id": 71,
+      "letter": "ក",
+      "khmer_term": "កូដប្រទេស",
+      "english_term": "Country Code"
+    },
+    {
+      "id": 72,
+      "letter": "ក",
+      "khmer_term": "កាបូបគ្រីបតូ",
+      "english_term": "Crypto Wallet"
+    },
+    {
+      "id": 73,
+      "letter": "រ",
+      "khmer_term": "រូបិយបណ្ណគ្រីបតូ",
+      "english_term": "Cryptocurrency"
+    },
+    {
+      "id": 74,
+      "letter": "ថ",
+      "khmer_term": "ថតចរន្ត",
+      "english_term": "Current Directory"
+    },
+    {
+      "id": 75,
+      "letter": "អ",
+      "khmer_term": "អតិថិជន",
+      "english_term": "Customer"
+    },
+    {
+      "id": 76,
+      "letter": "អ",
+      "khmer_term": "អ៊ិនធឺណិត/សាយប័រ",
+      "english_term": "Cyber"
+    },
+    {
+      "id": 77,
+      "letter": "ច",
+      "khmer_term": "ច្បាប់អន្តរាគមន៍/ច្បាប់សាយប័រ",
+      "english_term": "Cyber Law"
+    },
+    {
+      "id": 78,
+      "letter": "ប",
+      "khmer_term": "ប្រព័ន្ធអន្តរទំនាក់ទំនងរូបវន្ត/ប្រព័ន្ធសាយប័ររូបវន្ត",
+      "english_term": "Cyber Physical System (CPS)"
+    },
+    {
+      "id": 79,
+      "letter": "ឧ",
+      "khmer_term": "ឧក្រិដ្ឋកម្មអន្តរទំនាក់ទំនង/ឧក្រិដ្ឋកម្មសាយប័រ",
+      "english_term": "Cybercrime"
+    },
+    {
+      "id": 80,
+      "letter": "ស",
+      "khmer_term": "សន្តិសុខអន្តរទំនាក់ទំនង/សន្តិសុខសាយប័រ",
+      "english_term": "Cybersecurity"
+    },
+    {
+      "id": 81,
+      "letter": "ល",
+      "khmer_term": "លំហអន្តរទំនាក់ទំនង/លំហសាយប័រ",
+      "english_term": "Cyberspace"
+    },
+    {
+      "id": 82,
+      "letter": "ទ",
+      "khmer_term": "ទិន្នន័យ",
+      "english_term": "Data"
+    },
+    {
+      "id": 83,
+      "letter": "ល",
+      "khmer_term": "លទ្ធកម្មទិន្នន័យ",
+      "english_term": "Data Acquisition"
+    },
+    {
+      "id": 84,
+      "letter": "វ",
+      "khmer_term": "វិភាគទិន្នន័យ",
+      "english_term": "Data Analysis"
+    },
+    {
+      "id": 85,
+      "letter": "ម",
+      "khmer_term": "មជ្ឈមណ្ឌលទិន្នន័យ",
+      "english_term": "Data Center"
+    },
+    {
+      "id": 86,
+      "letter": "ប",
+      "khmer_term": "បរិក្ខារអន្តរទិន្នន័យ",
+      "english_term": "Data Circuit Terminating Equipment"
+    },
+    {
+      "id": 87,
+      "letter": "ក",
+      "khmer_term": "ការប្រមូលទិន្នន័យ",
+      "english_term": "Data Collection"
+    },
+    {
+      "id": 88,
+      "letter": "គ",
+      "khmer_term": "គមនាគមន៍ទិន្នន័យ",
+      "english_term": "Data Communication"
+    },
+    {
+      "id": 89,
+      "letter": "ព",
+      "khmer_term": "ពិធីសារគមនាគមន៍ទិន្នន័យ/វិធីការគមនាគមន៍ទិន្នន័យ",
+      "english_term": "Data Communication Protocol"
+    },
+    {
+      "id": 90,
+      "letter": "ក",
+      "khmer_term": "ការបង្ហាប់ទិន្នន័យ",
+      "english_term": "Data Compression"
+    },
+    {
+      "id": 91,
+      "letter": "ក",
+      "khmer_term": "ការបញ្ចូលទិន្នន័យ",
+      "english_term": "Data Entry"
+    },
+    {
+      "id": 92,
+      "letter": "ច",
+      "khmer_term": "ចរន្តទិន្នន័យ",
+      "english_term": "Data Traffic"
+    },
+    {
+      "id": 93,
+      "letter": "ក",
+      "khmer_term": "ការបញ្ជូនទិន្នន័យ",
+      "english_term": "Data Transmission"
+    },
+    {
+      "id": 94,
+      "letter": "ប",
+      "khmer_term": "បណ្តាញបញ្ជូនទិន្នន័យ",
+      "english_term": "Data Transmission Network"
+    },
+    {
+      "id": 95,
+      "letter": "ល",
+      "khmer_term": "ល្បឿនបញ្ជូនទិន្នន័យ",
+      "english_term": "Data Transmission Rate"
+    },
+    {
+      "id": 96,
+      "letter": "ម",
+      "khmer_term": "មូលទិន្នន័យ",
+      "english_term": "Database"
+    },
+    {
+      "id": 97,
+      "letter": "ផ",
+      "khmer_term": "ផ្លូវទិន្នន័យ/បើសទិន្នន័យ",
+      "english_term": "Databus/Data Bus"
+    },
+    {
+      "id": 98,
+      "letter": "វ",
+      "khmer_term": "វិកូដការកម្ម/វិកូដនីយកម្ម",
+      "english_term": "Decryption"
+    },
+    {
+      "id": 99,
+      "letter": "អ",
+      "khmer_term": "អាសយដ្ឋានប្រគល់",
+      "english_term": "Delivery Address"
+    },
+    {
+      "id": 100,
+      "letter": "ទ",
+      "khmer_term": "ទីប្រគល់",
+      "english_term": "Delivery Point"
+    },
+    {
+      "id": 101,
+      "letter": "ប",
+      "khmer_term": "ប្រតិបត្តិករចាត់តាំង",
+      "english_term": "Designated Operator"
+    },
+    {
+      "id": 102,
+      "letter": "ក",
+      "khmer_term": "ការបញ្ជូនចេញ",
+      "english_term": "Despatch"
+    },
+    {
+      "id": 103,
+      "letter": "ក",
+      "khmer_term": "កិច្ចព្រមព្រៀងបញ្ជូនចេញ",
+      "english_term": "Despatch Agreement"
+    },
+    {
+      "id": 104,
+      "letter": "អ",
+      "khmer_term": "អង្គគ្រប់គ្រងឧបករណ៍/ដ្រាយវ័រ",
+      "english_term": "Device Driver"
+    },
+    {
+      "id": 105,
+      "letter": "ឌ",
+      "khmer_term": "ឌីជីថល",
+      "english_term": "Digital"
+    },
+    {
+      "id": 106,
+      "letter": "ប",
+      "khmer_term": "បណ្តាញផ្សាយឌីជីថល",
+      "english_term": "Digital Broadcasting Network"
+    },
+    {
+      "id": 107,
+      "letter": "ថ",
+      "khmer_term": "ថតឌីជីថល",
+      "english_term": "Digital Camera"
+    },
+    {
+      "id": 108,
+      "letter": "ស",
+      "khmer_term": "សហគមន៍ឌីជីថល",
+      "english_term": "Digital Community"
+    },
+    {
+      "id": 109,
+      "letter": "ក",
+      "khmer_term": "កុំព្យូទ័រឌីជីថល",
+      "english_term": "Digital Computer"
+    },
+    {
+      "id": 110,
+      "letter": "ម",
+      "khmer_term": "មាតិកាឌីជីថល",
+      "english_term": "Digital Content"
+    },
+    {
+      "id": 111,
+      "letter": "រ",
+      "khmer_term": "រូបិយបណ្ណឌីជីថល",
+      "english_term": "Digital Currency"
+    },
+    {
+      "id": 112,
+      "letter": "ទ",
+      "khmer_term": "ទិន្នន័យឌីជីថល",
+      "english_term": "Digital Data"
+    },
+    {
+      "id": 113,
+      "letter": "គ",
+      "khmer_term": "គម្លាតឌីជីថល",
+      "english_term": "Digital Divide"
+    },
+    {
+      "id": 114,
+      "letter": "អ",
+      "khmer_term": "អេឡិចត្រូនិចឌីជីថល",
+      "english_term": "Digital Electronics"
+    },
+    {
+      "id": 115,
+      "letter": "ម",
+      "khmer_term": "មន្ទីរពិសោធន៍វិនិច្ឆ័យឌីជីថល",
+      "english_term": "Digital Forensic Lab"
+    },
+    {
+      "id": 116,
+      "letter": "ប",
+      "khmer_term": "ប្រអប់សំបុត្រឌីជីថល",
+      "english_term": "Digital Mailbox"
+    },
+    {
+      "id": 117,
+      "letter": "ប",
+      "khmer_term": "បណ្តាញឌីជីថល/មេឌាឌីជីថល",
+      "english_term": "Digital Media"
+    },
+    {
+      "id": 118,
+      "letter": "ម",
+      "khmer_term": "មជ្ឈមណ្ឌលបណ្តាញឌីជីថល/មជ្ឈមណ្ឌលមេឌាឌីជីថល",
+      "english_term": "Digital Media Center (DMC)"
+    },
+    {
+      "id": 119,
+      "letter": "ប",
+      "khmer_term": "ប្រៃសណីយ៍បង់ឌីជីថល",
+      "english_term": "Digital Postage"
+    },
+    {
+      "id": 120,
+      "letter": "ផ",
+      "khmer_term": "ផលិតផលឌីជីថល",
+      "english_term": "Digital Product"
+    },
+    {
+      "id": 121,
+      "letter": "វ",
+      "khmer_term": "វិទ្យុឌីជីថល",
+      "english_term": "Digital Radio"
+    },
+    {
+      "id": 122,
+      "letter": "ក",
+      "khmer_term": "ការស្រាវជ្រាវបែបឌីជីថល",
+      "english_term": "Digital Research"
+    },
+    {
+      "id": 123,
+      "letter": "ស",
+      "khmer_term": "សេវាឌីជីថល",
+      "english_term": "Digital Services"
+    },
+    {
+      "id": 124,
+      "letter": "ស",
+      "khmer_term": "សញ្ញាណឌីជីថល",
+      "english_term": "Digital Signal"
+    },
+    {
+      "id": 125,
+      "letter": "ដ",
+      "khmer_term": "ដំណើការសញ្ញាណឌីជីថល",
+      "english_term": "Digital Signal Processing"
+    },
+    {
+      "id": 126,
+      "letter": "ហ",
+      "khmer_term": "ហត្ថលេខាឌីជីថល",
+      "english_term": "Digital Signature"
+    },
+    {
+      "id": 127,
+      "letter": "ផ",
+      "khmer_term": "ផ្ដើមឡើងឌីជីថល/ធុរកិច្ចថ្មីឌីជីថល",
+      "english_term": "Digital Startup"
+    },
+    {
+      "id": 128,
+      "letter": "ប",
+      "khmer_term": "បច្ចេកវិទ្យាឌីជីថល",
+      "english_term": "Digital Technology"
+    },
+    {
+      "id": 129,
+      "letter": "ទ",
+      "khmer_term": "ទូរទស្សន៍ឌីជីថល",
+      "english_term": "Digital Television"
+    },
+    {
+      "id": 130,
+      "letter": "ឈ",
+      "khmer_term": "ឈ្មោះដែន",
+      "english_term": "Domain Name"
+    },
+    {
+      "id": 131,
+      "letter": "ក",
+      "khmer_term": "ការដេញថ្លៃឈ្មោះដែន",
+      "english_term": "Domain Name Auction"
+    },
+    {
+      "id": 132,
+      "letter": "ប",
+      "khmer_term": "បញ្ជីឈ្មោះដែន",
+      "english_term": "Domain Name Registry"
+    },
+    {
+      "id": 133,
+      "letter": "ប",
+      "khmer_term": "ប្រព័ន្ធឈ្មោះដែន",
+      "english_term": "Domain Name System (DNS)"
+    },
+    {
+      "id": 134,
+      "letter": "ស",
+      "khmer_term": "សោដែនបញ្ជាក់អត្តសញ្ញាណសារ",
+      "english_term": "Domain Keys Identified Mail (DKIM)"
+    },
+    {
+      "id": 135,
+      "letter": "ច",
+      "khmer_term": "ច្រកអុីនធឺណិតក្នុងស្រុក",
+      "english_term": "Domestic Internet Exchange - DIX"
+    },
+    {
+      "id": 136,
+      "letter": "ល",
+      "khmer_term": "លំហូរចុះ",
+      "english_term": "Downstream"
+    },
+    {
+      "id": 137,
+      "letter": "ប",
+      "khmer_term": "ប្រអប់ផ្ទុក",
+      "english_term": "Dropbox"
+    },
+    {
+      "id": 138,
+      "letter": "ឧ",
+      "khmer_term": "ឧបករណ៍ទ្វេស៊ីម",
+      "english_term": "Dual SIM Device"
+    },
+    {
+      "id": 139,
+      "letter": "ស",
+      "khmer_term": "សេវាផ្កាយរណបពិនិត្យផែនដី",
+      "english_term": "Earth Exploration-Satellite Service"
+    },
+    {
+      "id": 140,
+      "letter": "ស",
+      "khmer_term": "ស្ថានីយផែនដី",
+      "english_term": "Earth Stations"
+    },
+    {
+      "id": 141,
+      "letter": "ធ",
+      "khmer_term": "ធនាគារអេឡិចត្រូនិច",
+      "english_term": "E-Bank"
+    },
+    {
+      "id": 142,
+      "letter": "ស",
+      "khmer_term": "សៀវភៅអេឡិចត្រូនិច/អីប៊ុក",
+      "english_term": "Electronic Book (E-Book)"
+    },
+    {
+      "id": 143,
+      "letter": "ប",
+      "khmer_term": "ប៉ារ៉ាម៉ែត្រនៃការផ្សាយ",
+      "english_term": "Emission Parameters"
+    },
+    {
+      "id": 144,
+      "letter": "ក",
+      "khmer_term": "កូដការកម្ម/កូដនីយកម្ម",
+      "english_term": "Encryption"
+    },
+    {
+      "id": 145,
+      "letter": "វ",
+      "khmer_term": "វិដំណាក់បី",
+      "english_term": "eNodeB (Evolved Node B)"
+    },
+    {
+      "id": 146,
+      "letter": "ប",
+      "khmer_term": "បញ្ជីអត្តសញ្ញាណឧបករណ៍",
+      "english_term": "Equipment Identity Register – EIR"
+    },
+    {
+      "id": 147,
+      "letter": "ប",
+      "khmer_term": "ប្រព័ន្ធបញ្ជីអត្តសញ្ញាណឧបករណ៍",
+      "english_term": "Equipment Identity Registration System - EIRS"
+    },
+    {
+      "id": 148,
+      "letter": "អ",
+      "khmer_term": "អីស៊ីម",
+      "english_term": "eSIM"
+    },
+    {
+      "id": 149,
+      "letter": "អ",
+      "khmer_term": "អុីសឺណិត",
+      "english_term": "Ethernet"
+    },
+    {
+      "id": 150,
+      "letter": "អ",
+      "khmer_term": "អុីសឺណិតល្បឿនលឿន",
+      "english_term": "Fast Ethernet"
+    },
+    {
+      "id": 151,
+      "letter": "ក",
+      "khmer_term": "កាប្លឺ/ខ្សែអុបទិកទៅអិុច",
+      "english_term": "Fiber To The X – FTTX"
+    },
+    {
+      "id": 152,
+      "letter": "ជ",
+      "khmer_term": "ជំនាន់ទីប្រាំ (៥ជេ)",
+      "english_term": "Fifth- Generation (5G)"
+    },
+    {
+      "id": 153,
+      "letter": "ជ",
+      "khmer_term": "ជំនាន់ទីមួយ (១ជេ)",
+      "english_term": "First- Generation (1G)"
+    },
+    {
+      "id": 154,
+      "letter": "ព",
+      "khmer_term": "ពុម្ពអក្សរ",
+      "english_term": "Font"
+    },
+    {
+      "id": 155,
+      "letter": "អ",
+      "khmer_term": "អាសយដ្ឋានចែកបន្ត",
+      "english_term": "Forwarding Address"
+    },
+    {
+      "id": 156,
+      "letter": "ជ",
+      "khmer_term": "ជំនាន់ទីបួន (៤ជេ)",
+      "english_term": "Fourth- Generation (4G)"
+    },
+    {
+      "id": 157,
+      "letter": "អ",
+      "khmer_term": "អុីសឺណិតហ្គីហ្គាប៊ីត",
+      "english_term": "Gegabit Ethernet"
+    },
+    {
+      "id": 158,
+      "letter": "ក",
+      "khmer_term": "ការអនុញ្ញាតទូទៅ",
+      "english_term": "General Authorization"
+    },
+    {
+      "id": 159,
+      "letter": "គ",
+      "khmer_term": "គន្លងផ្កាយរណបនិរន្តរផែនដី",
+      "english_term": "Geostationary - Satellite Orbits"
+    },
+    {
+      "id": 160,
+      "letter": "ប",
+      "khmer_term": "បន្តរ",
+      "english_term": "Handoff"
+    },
+    {
+      "id": 161,
+      "letter": "ផ",
+      "khmer_term": "ផ្នែករឹង/ហាតវែរ",
+      "english_term": "Hardware"
+    },
+    {
+      "id": 162,
+      "letter": "ឯ",
+      "khmer_term": "ឯកត្តកូដ",
+      "english_term": "Hash Code/Hash Value"
+    },
+    {
+      "id": 163,
+      "letter": "ឯ",
+      "khmer_term": "ឯកត្តានុគមន៍",
+      "english_term": "Hash Function"
+    },
+    {
+      "id": 164,
+      "letter": "ឯ",
+      "khmer_term": "ឯកត្តកិច្ច",
+      "english_term": "Hashing"
+    },
+    {
+      "id": 165,
+      "letter": "ហ",
+      "khmer_term": "ហឺត/អឺត",
+      "english_term": "Hertz (Hz)"
+    },
+    {
+      "id": 166,
+      "letter": "គ",
+      "khmer_term": "គេហទំព័រ",
+      "english_term": "Homepage"
+    },
+    {
+      "id": 167,
+      "letter": "អ",
+      "khmer_term": "អតិបទ",
+      "english_term": "Hypertext"
+    },
+    {
+      "id": 168,
+      "letter": "ក",
+      "khmer_term": "ការកសាងសមត្ថភាព ប.គ.ត.",
+      "english_term": "ICT Capacity Building"
+    },
+    {
+      "id": 169,
+      "letter": "អ",
+      "khmer_term": "អុីនស្តាក្រាម",
+      "english_term": "Instagram"
+    },
+    {
+      "id": 170,
+      "letter": "ឧ",
+      "khmer_term": "ឧទ្ទេសរោ/អនុទ្ទេស",
+      "english_term": "Instruction"
+    },
+    {
+      "id": 171,
+      "letter": "ស",
+      "khmer_term": "សំណុំឧទ្ទេសរោ/សំណុំអនុទ្ទេស",
+      "english_term": "Instruction Set"
+    },
+    {
+      "id": 172,
+      "letter": "ស",
+      "khmer_term": "សេវាអន្តរផ្កាយរណប",
+      "english_term": "Inter-Satellite Service"
+    },
+    {
+      "id": 173,
+      "letter": "ឡ",
+      "khmer_term": "ឡាញ",
+      "english_term": "Line"
+    },
+    {
+      "id": 174,
+      "letter": "ប",
+      "khmer_term": "បណ្ដុំបញ្ញើ",
+      "english_term": "Mail Aggregate"
+    },
+    {
+      "id": 175,
+      "letter": "ម",
+      "khmer_term": "ម៉ាល់វែររហារ",
+      "english_term": "Malware Attack"
+    },
+    {
+      "id": 176,
+      "letter": "ម",
+      "khmer_term": "ម៉ាក",
+      "english_term": "Mark"
+    },
+    {
+      "id": 177,
+      "letter": "ប",
+      "khmer_term": "បណ្តាញ/មេឌា",
+      "english_term": "Media"
+    },
+    {
+      "id": 178,
+      "letter": "អ",
+      "khmer_term": "អង្គចងចាំ/មេម៉ូរី",
+      "english_term": "Memory"
+    },
+    {
+      "id": 179,
+      "letter": "ម",
+      "khmer_term": "ម៉េសិជិនជើ",
+      "english_term": "Messenger"
+    },
+    {
+      "id": 180,
+      "letter": "ម",
+      "khmer_term": "មជ្ឈមណ្ឌលប្តូរសញ្ញាទូរសព្ទចល័ត",
+      "english_term": "Mobile Switching Center (MSC)"
+    },
+    {
+      "id": 181,
+      "letter": "ក",
+      "khmer_term": "ការបំប្លែងលកសញ្ញាណ/ម៉ូឌុលឡាស្យុង",
+      "english_term": "Modulation"
+    },
+    {
+      "id": 182,
+      "letter": "ឈ",
+      "khmer_term": "ឈ្មោះដែនជាតិ",
+      "english_term": "National Domain Name"
+    },
+    {
+      "id": 183,
+      "letter": "ប",
+      "khmer_term": "ប្រព័ន្ធរងប្តូរបណ្តាញ",
+      "english_term": "Network Switching Subsytem (NSS)"
+    },
+    {
+      "id": 184,
+      "letter": "វ",
+      "khmer_term": "វិដំណាក់បីជំនាន់ក្រោយ",
+      "english_term": "ng-eNodeB (Next-Generation evolved Node B)"
+    },
+    {
+      "id": 185,
+      "letter": "ដ",
+      "khmer_term": "ដំណាក់បីជំនាន់ក្រោយ",
+      "english_term": "gNodeB/GNB (Next Generation Node B)"
+    },
+    {
+      "id": 186,
+      "letter": "ដ",
+      "khmer_term": "ដំណាក់បី",
+      "english_term": "Node B"
+    },
+    {
+      "id": 187,
+      "letter": "ថ",
+      "khmer_term": "ថតមេ",
+      "english_term": "Parent Directory"
+    },
+    {
+      "id": 188,
+      "letter": "អ",
+      "khmer_term": "អង្គរដ្ឋបាលឌីជីថល/ភីឌីអេ",
+      "english_term": "Personal Digital Assistant (PDA)"
+    },
+    {
+      "id": 189,
+      "letter": "ហ",
+      "khmer_term": "ហ្វីសស៊ីង",
+      "english_term": "Phishing"
+    },
+    {
+      "id": 190,
+      "letter": "ថ",
+      "khmer_term": "ថ្នាល",
+      "english_term": "Platform"
+    },
+    {
+      "id": 191,
+      "letter": "ច",
+      "khmer_term": "ច្រក/ផត",
+      "english_term": "Port"
+    },
+    {
+      "id": 192,
+      "letter": "ក",
+      "khmer_term": "កម្មវិធី",
+      "english_term": "Program"
+    },
+    {
+      "id": 193,
+      "letter": "ភ",
+      "khmer_term": "ភាសាកម្មវិធី/ភាសាកម្មវិធី",
+      "english_term": "Programming Language"
+    },
+    {
+      "id": 194,
+      "letter": "ប",
+      "khmer_term": "បណ្តាញផ្ទុកវិទ្យុ/បណ្តាញអាក់សេសវិទ្យុ",
+      "english_term": "Radio Access Network (RAN)"
+    },
+    {
+      "id": 195,
+      "letter": "រ",
+      "khmer_term": "រ៉ែនសាំវែរ",
+      "english_term": "Ransomware"
+    },
+    {
+      "id": 196,
+      "letter": "ប",
+      "khmer_term": "បញ្ជីរន្ត",
+      "english_term": "Registrant"
+    },
+    {
+      "id": 197,
+      "letter": "ប",
+      "khmer_term": "បញ្ជីករ",
+      "english_term": "Registrar"
+    },
+    {
+      "id": 198,
+      "letter": "ត",
+      "khmer_term": "តោចរ",
+      "english_term": "Roaming"
+    },
+    {
+      "id": 199,
+      "letter": "ថ",
+      "khmer_term": "ថតឫស",
+      "english_term": "Root Directory"
+    },
+    {
+      "id": 200,
+      "letter": "ជ",
+      "khmer_term": "ជំនាន់ទីពីរ (២ជេ)",
+      "english_term": "Second- Generation (2G)"
+    },
+    {
+      "id": 201,
+      "letter": "ដ",
+      "khmer_term": "ដែនកម្រិត២",
+      "english_term": "Second Level Domain"
+    },
+    {
+      "id": 202,
+      "letter": "ញ",
+      "khmer_term": "ញាណុបករណ៍",
+      "english_term": "Sensor"
+    },
+    {
+      "id": 203,
+      "letter": "ស",
+      "khmer_term": "សេវើបករណ៍",
+      "english_term": "Server"
+    },
+    {
+      "id": 204,
+      "letter": "ស",
+      "khmer_term": "សេវាសារខ្លី",
+      "english_term": "Short Message Service - SMS"
+    },
+    {
+      "id": 205,
+      "letter": "ស",
+      "khmer_term": "ស៊ីមកាត/ កាតម៉ូឌុលសម្គាល់អត្តសញ្ញាណអ្នកជាវ",
+      "english_term": "SIM Card/ Subscriber Identify Module Card"
+    },
+    {
+      "id": 206,
+      "letter": "ឆ",
+      "khmer_term": "ឆ្លាត",
+      "english_term": "Smart"
+    },
+    {
+      "id": 207,
+      "letter": "ទ",
+      "khmer_term": "ទីក្រុងឆ្លាត",
+      "english_term": "Smart City"
+    },
+    {
+      "id": 208,
+      "letter": "ស",
+      "khmer_term": "ស៊ីមឆ្លាត",
+      "english_term": "Smart SIM"
+    },
+    {
+      "id": 209,
+      "letter": "ផ",
+      "khmer_term": "ផ្នែកទន់/សូសវែរ",
+      "english_term": "Software"
+    },
+    {
+      "id": 210,
+      "letter": "អ",
+      "khmer_term": "អនុដែន",
+      "english_term": "Subdomain"
+    },
+    {
+      "id": 211,
+      "letter": "ស",
+      "khmer_term": "សម្ព័ន្ធ/វាក្យសម្ព័ន្ធ",
+      "english_term": "Syntax"
+    },
+    {
+      "id": 212,
+      "letter": "ក",
+      "khmer_term": "កុំព្យូទ័របន្ទះ/ថាប្លែត",
+      "english_term": "Tablet"
+    },
+    {
+      "id": 213,
+      "letter": "ត",
+      "khmer_term": "តេឡេក្រាម",
+      "english_term": "Telegram"
+    },
+    {
+      "id": 214,
+      "letter": "ជ",
+      "khmer_term": "ជំនាន់ទីបី (៣ជេ)",
+      "english_term": "Third- Generation (3G)"
+    },
+    {
+      "id": 215,
+      "letter": "ដ",
+      "khmer_term": "ដែនកម្រិត១",
+      "english_term": "Top Level Domain"
+    },
+    {
+      "id": 216,
+      "letter": "វ",
+      "khmer_term": "វិសាលគមន៍អនាជ្ញាបណ្ណ",
+      "english_term": "Unlicensed Spectrum"
+    },
+    {
+      "id": 217,
+      "letter": "ល",
+      "khmer_term": "លំហូរឡើង",
+      "english_term": "Upstream"
+    },
+    {
+      "id": 218,
+      "letter": "វ",
+      "khmer_term": "វ៉ាយប័រ",
+      "english_term": "Viber"
+    },
+    {
+      "id": 219,
+      "letter": "ប",
+      "khmer_term": "បណ្តាញឯកជនទូរសិម្មិត",
+      "english_term": "Virtual Private Network (VPN)"
+    },
+    {
+      "id": 220,
+      "letter": "រ",
+      "khmer_term": "រុករកវេប/អែបប្រើស័រ",
+      "english_term": "Web Browser"
+    },
+    {
+      "id": 221,
+      "letter": "ទ",
+      "khmer_term": "ទំព័រវេប",
+      "english_term": "Web Page"
+    },
+    {
+      "id": 222,
+      "letter": "វ",
+      "khmer_term": "វេបសាយ",
+      "english_term": "Website"
+    },
+    {
+      "id": 223,
+      "letter": "វ",
+      "khmer_term": "វីឆាត",
+      "english_term": "Wechat"
+    },
+    {
+      "id": 224,
+      "letter": "វ",
+      "khmer_term": "វ៉ាត់អាប",
+      "english_term": "Whatsapp"
+    },
+    {
+      "id": 225,
+      "letter": "វ",
+      "khmer_term": "វិធីការព័ត៌មានឈ្មោះដែនជាតិ/ ពិធីការព័ត៌មានឈ្មោះដែនជាតិ",
+      "english_term": "Whois"
+    },
+    {
+      "id": 226,
+      "letter": "វ",
+      "khmer_term": "វ៉ាយហ្វាយ",
+      "english_term": "Wi-Fi"
+    },
+    {
+      "id": 227,
+      "letter": "វ",
+      "khmer_term": "វេបសកល/វេប",
+      "english_term": "World Wide Web (WWW)"
+    }
+  ]
+}
