@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build:data": "node scripts/build-data.mjs",
-    "build": "npm run build:data && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
