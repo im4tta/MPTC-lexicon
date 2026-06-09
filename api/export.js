@@ -27,6 +27,7 @@ const DARK = {
   BG_DEF: "rgba(255,255,255,0.04)",
   SEPARATOR: "rgba(201,168,76,0.22)",
   CREDIT: "rgba(237,224,196,0.22)",
+  DEF_TEXT: "rgba(237,224,196,0.82)",
 };
 
 const LIGHT = {
@@ -42,6 +43,7 @@ const LIGHT = {
   BG_DEF: "rgba(138,92,0,0.04)",
   SEPARATOR: "rgba(138,92,0,0.18)",
   CREDIT: "rgba(90,50,0,0.22)",
+  DEF_TEXT: "rgba(42,24,0,0.78)",
 };
 
 // ─── Font loading ─────────────────────────────────────────────────────────────
@@ -132,13 +134,10 @@ function metaBlock(label, value, C) {
 }
 
 function creditRow(C) {
-  return Row(
-    Text("Powered by Sone").font("Inter").size(11).color(C.CREDIT).flex(1),
-    Text("Seanghay Yath · github.com/seanghay/sone")
-      .font("Inter")
-      .size(11)
-      .color(C.CREDIT),
-  );
+  return Text("Powered by SONE")
+    .font("Inter")
+    .size(11)
+    .color(C.CREDIT);
 }
 
 function buildCardLayout(entry, C) {
@@ -197,7 +196,7 @@ function buildCardLayout(entry, C) {
           Text(entry.definition_km)
             .font("NotoSansKhmer")
             .size(15)
-            .color("rgba(237,224,196,0.82)")
+            .color(C.DEF_TEXT)
             .lineHeight(1.9)
             .padding(18)
             .bg(C.BG_DEF)
@@ -408,7 +407,7 @@ export default async function handler(req, res) {
       return;
     }
 
-    const png = await sone(layout).png();
+    const png = await sone(layout).png({ density: 3 });
     res.setHeader("Content-Type", "image/png");
     res.setHeader("Cache-Control", "no-store");
     res.end(png);
