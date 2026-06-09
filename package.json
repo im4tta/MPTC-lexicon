@@ -13,6 +13,9 @@
     "flexsearch": "^0.8.205",
     "sone": "^1.4.0"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "devDependencies": {
     "vite": "^7.1.0"
   }
