@@ -2,6 +2,7 @@
   "name": "mptc-lexicon-2025",
   "version": "1.0.0",
   "private": true,
+  "contributors": ["Claude", "im4tta"],
   "type": "module",
   "scripts": {
     "dev": "vite",
