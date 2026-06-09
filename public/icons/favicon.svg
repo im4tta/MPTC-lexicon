@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<defs>
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Khmer:wght@700&amp;display=swap");
+    .ka { font-family: "Noto Serif Khmer", serif; font-weight: 700; }
+  </style>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0A2560"/>
+    <stop offset="100%" stop-color="#1648B8"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="50%" cy="35%" r="65%">
+    <stop offset="0%" stop-color="#2A6FE8" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#0A2560" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="goldLine" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#C8882A" stop-opacity="0"/>
+    <stop offset="30%" stop-color="#E8B84A"/>
+    <stop offset="70%" stop-color="#E8B84A"/>
+    <stop offset="100%" stop-color="#C8882A" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="rr">
+    <rect width="512" height="512" rx="96" ry="96"/>
+  </clipPath>
+  <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="12" cy="12" r="1.1" fill="#FFFFFF"/>
+  </pattern>
+</defs>
+
+<rect width="512" height="512" rx="96" ry="96" fill="url(#bg)"/>
+<rect width="512" height="512" rx="96" ry="96" fill="url(#glow)"/>
+<rect width="512" height="512" rx="96" ry="96" fill="url(#dots)" opacity="0.055"/>
+
+<g clip-path="url(#rr)">
+  <polygon points="252,72 62,82 62,404 252,394" fill="#FFFFFF" opacity="0.055"/>
+  <polygon points="260,72 450,82 450,404 260,394" fill="#FFFFFF" opacity="0.075"/>
+  <line x1="285" y1="116" x2="430" y2="123" stroke="#FFFFFF" stroke-width="2" opacity="0.12"/>
+  <line x1="285" y1="148" x2="430" y2="155" stroke="#FFFFFF" stroke-width="2" opacity="0.12"/>
+  <line x1="285" y1="180" x2="430" y2="187" stroke="#FFFFFF" stroke-width="2" opacity="0.12"/>
+  <line x1="285" y1="212" x2="430" y2="219" stroke="#FFFFFF" stroke-width="2" opacity="0.12"/>
+  <rect x="249" y="72" width="14" height="322" rx="5" fill="#C8973A" opacity="0.88"/>
+</g>
+
+<text x="259" y="304" class="ka" font-size="310" text-anchor="middle"
+      fill="#000F40" opacity="0.18">ក</text>
+<text x="256" y="300" class="ka" font-size="310" text-anchor="middle"
+      fill="#F5E8C8">ក</text>
+
+<rect x="104" y="396" width="304" height="4" rx="2" fill="url(#goldLine)"/>
+<text x="256" y="432" font-family="Georgia, serif" font-size="23" font-weight="700"
+      letter-spacing="8" text-anchor="middle" fill="#C8973A" opacity="0.92">MPTC</text>
+
+<circle cx="84" cy="84" r="5" fill="#E8B84A" opacity="0.14"/>
+<circle cx="428" cy="84" r="5" fill="#E8B84A" opacity="0.14"/>
+</svg>
