@@ -97,7 +97,6 @@ app.innerHTML = `
         <span class="brand-gem">M</span>
         <div class="brand-text">
           <h1>MPTC Lexicon <em>2025</em></h1>
-          <p>វចនានុក្រមពាក្យបច្ចេកវិទ្យាឌីជីថល</p>
         </div>
       </div>
       <div class="topbar-end">
@@ -213,14 +212,12 @@ function bindEvents() {
     .addEventListener("click", () =>
       window.scrollTo({ top: 0, behavior: "smooth" }),
     );
-  document
-    .getElementById("fab-bottom")
-    .addEventListener("click", () =>
-      window.scrollTo({
-        top: document.documentElement.scrollHeight,
-        behavior: "smooth",
-      }),
-    );
+  document.getElementById("fab-bottom").addEventListener("click", () =>
+    window.scrollTo({
+      top: document.documentElement.scrollHeight,
+      behavior: "smooth",
+    }),
+  );
 
   resultsEl.addEventListener("click", async (e) => {
     const btn = e.target.closest("button[data-action]");

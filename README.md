@@ -1,17 +1,17 @@
 # MPTC Lexicon 2025
 
-វចនានុក្រមពាក្យបច្ចេកវិទ្យាឌីជីថល — Official Khmer Digital Terminology Lexicon, published by the Ministry of Posts and Telecommunications of Cambodia (MPTC).
+Official Khmer Digital Terminology Lexicon published by the Ministry of Posts and Telecommunications of Cambodia (MPTC).
 
 ## About
 
-This is a public-facing web application for searching and exploring official Khmer digital terminology. The lexicon is organized into two parts:
+A public web app for searching official Khmer digital terminology across two parts:
 
 - **Part 1 — KH · EN · FR:** Khmer terms with English and French equivalents and full Khmer definitions.
 - **Part 2 — KH · EN:** Khmer terms with English equivalents.
 
-Both parts support fast search in Khmer, English, and French, with Khmer letter filters, per-card copy and PNG export, and floating scroll navigation.
+Features include fast keyword search, Khmer letter filters, light/dark mode, per-term copy and PNG export powered by [Sone](https://github.com/seanghay/sone) (Seanghay Yath), JSON download, and floating scroll navigation.
 
-This is public data. All terminology is sourced from the official MPTC publication and is made freely available for reference, education, and research purposes.
+This is public data. All terminology is sourced from the official MPTC publication and is freely available for reference, education, and research.
 
 ## Data Source
 

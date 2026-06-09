@@ -146,10 +146,6 @@
     );
 }
 
-[data-theme="light"] .brand-text p {
-    color: var(--muted);
-}
-
 [data-theme="light"] .part-tab--active {
     background: rgba(138, 92, 0, 0.08);
 }
@@ -281,13 +277,6 @@ mark {
 .brand-text h1 em {
     font-style: normal;
     color: var(--gold);
-}
-
-.brand-text p {
-    margin-top: 3px;
-    font-family: "Noto Sans Khmer", sans-serif;
-    font-size: 0.76rem;
-    color: var(--muted);
 }
 
 .topbar-end {
