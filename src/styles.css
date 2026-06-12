@@ -124,6 +124,9 @@
 [data-theme="light"] .search-field {
     background: rgba(255, 252, 240, 0.95);
 }
+[data-theme="light"] .search-field input::placeholder {
+    color: rgba(90, 50, 0, 0.45);
+}
 
 [data-theme="light"] .chip {
     background: rgba(255, 248, 228, 0.75);
