@@ -1848,56 +1848,56 @@
                },
                {
                    "id":  4,
-                   "letter":  "ច",
-                   "khmer_term":  "ចូល/អាក់សេស",
+                   "letter":  "ឆ",
+                   "khmer_term":  "ឆ្នូល/អាក់សេស",
                    "english_term":  "Access"
                },
                {
                    "id":  5,
                    "letter":  "ក",
-                   "khmer_term":  "កូដចូល/កូដអាក់សេស",
+                   "khmer_term":  "កូដឆ្នូល/កូដអាក់សេស",
                    "english_term":  "Access Code"
                },
                {
                    "id":  6,
                    "letter":  "ស",
-                   "khmer_term":  "សោចូល/សោអាក់សេស",
+                   "khmer_term":  "សោឆ្នូល/សោអាក់សេស",
                    "english_term":  "Access Key"
                },
                {
                    "id":  7,
                    "letter":  "យ",
-                   "khmer_term":  "យន្តការចូល/យន្តការអាក់សេស",
+                   "khmer_term":  "យន្តការស្នូល/យន្តការអាក់សេស",
                    "english_term":  "Access Mechanism"
                },
                {
                    "id":  8,
                    "letter":  "ដ",
-                   "khmer_term":  "ដំណាក់ចូល/ដំណាក់អាក់សេស",
+                   "khmer_term":  "ដំណាក់ស្នូល/ដំណាក់អាក់សេស",
                    "english_term":  "Access Node"
                },
                {
                    "id":  9,
                    "letter":  "ច",
-                   "khmer_term":  "ចំណុចចូល/ចំណុចអាក់សេស",
+                   "khmer_term":  "ចំណុចស្នូល/ចំណុចអាក់សេស",
                    "english_term":  "Access Point"
                },
                {
                    "id":  10,
-                   "letter":  "ច",
-                   "khmer_term":  "ចូលអត់អនុញ្ញាត/អាក់សេសអត់អនុញ្ញាត",
+                   "letter":  "ឈ",
+                   "khmer_term":  "ឈ្នួលអនានុញ្ញាត/អាក់សេសអនានុញ្ញាត",
                    "english_term":  "Access Without Permits"
                },
                {
                    "id":  11,
                    "letter":  "ឆ",
-                   "khmer_term":  "ឆួលភាព/អាក់សេសភាព",
+                   "khmer_term":  "ឆ្នូលភាព/អាក់សេសភាព",
                    "english_term":  "Accessibility"
                },
                {
                    "id":  12,
                    "letter":  "ជ",
-                   "khmer_term":  "ជំនួយចូលភាព/ជំនួយអាក់សេសភាព",
+                   "khmer_term":  "ជំនួយផ្នូលភាព/ជំនួយអាក់សេសភាព",
                    "english_term":  "Accessibility Aids"
                },
                {
@@ -1939,13 +1939,13 @@
                {
                    "id":  19,
                    "letter":  "ផ",
-                   "khmer_term":  "ផ្ទេរកាស/អ៊ែរដ្រប",
+                   "khmer_term":  "ផ្ទេរាកាស/អ៊ែរជ្រប",
                    "english_term":  "Airdrop"
                },
                {
                    "id":  20,
                    "letter":  "ម",
-                   "khmer_term":  "ម៉ូដយន្តហោះ",
+                   "khmer_term":  "ម៉ូតយន្តហោះ",
                    "english_term":  "Airplane Mode"
                },
                {
@@ -1957,13 +1957,13 @@
                {
                    "id":  22,
                    "letter":  "ស",
-                   "khmer_term":  "សេវាមិនអាជីព/សេវាអាម៉ាទ័រ",
+                   "khmer_term":  "សេវាមិនអាជីព/សេវាអាម៉ាតួ",
                    "english_term":  "Amateur Service"
                },
                {
                    "id":  23,
                    "letter":  "ស",
-                   "khmer_term":  "សេវាមិនអាជីពតាមផ្កាយរណប/សេវាអាម៉ាទ័រតាមផ្កាយរណប",
+                   "khmer_term":  "សេវាមិនអាជីពតាមផ្កាយរណប/សេវាអាម៉ាតួតាមផ្កាយរណប",
                    "english_term":  "Amateur-Satellite Service"
                },
                {
@@ -1987,13 +1987,13 @@
                {
                    "id":  27,
                    "letter":  "ប",
-                   "khmer_term":  "ប្រព័ន្ធសារស្វ័យប្រវត្តិ",
+                   "khmer_term":  "ប្រព័ន្ធសារស្វ័យកម្ម",
                    "english_term":  "Automated Message System"
                },
                {
                    "id":  28,
                    "letter":  "ល",
-                   "khmer_term":  "លេខប្រព័ន្ធស្វ័យ័ត",
+                   "khmer_term":  "លេខប្រព័ន្ធស្វយ័ត",
                    "english_term":  "Autonomous System Number- ASN"
                },
                {
@@ -2071,13 +2071,13 @@
                {
                    "id":  41,
                    "letter":  "ប",
-                   "khmer_term":  "បង់ទូលាយ/ប្រ៊តប៊ែន",
+                   "khmer_term":  "បង់ទូលាយ/ប្រដប៊ែន",
                    "english_term":  "Broadband"
                },
                {
                    "id":  42,
                    "letter":  "អ",
-                   "khmer_term":  "អ៊ីនធឺណិតបង់ទូលាយ/អ៊ីនធឺណិតប្រ៊តប៊ែន",
+                   "khmer_term":  "អ៊ុនធឺណិតបង់ទូលាយ/អ៊ុនធឺណិត ដប៊ែន",
                    "english_term":  "Broadband Internet"
                },
                {
@@ -2113,19 +2113,19 @@
                {
                    "id":  48,
                    "letter":  "ស",
-                   "khmer_term":  "សែលុលឡឺ",
+                   "khmer_term":  "សែលលុយឡា",
                    "english_term":  "Cellular"
                },
                {
                    "id":  49,
                    "letter":  "ទ",
-                   "khmer_term":  "ទិន្នន័យសែលុលឡឺ",
+                   "khmer_term":  "ទិន្នន័យសែលលុយឡា",
                    "english_term":  "Cellular Data"
                },
                {
                    "id":  50,
                    "letter":  "អ",
-                   "khmer_term":  "អង្គដំណើរការកណ្ដាល /ស៊ីភីយូ",
+                   "khmer_term":  "អង្គដំណើរការកណ្តាល / ស៊ីភីយូ",
                    "english_term":  "Central Processing Unit-CPU"
                },
                {
@@ -2149,13 +2149,13 @@
                {
                    "id":  54,
                    "letter":  "យ",
-                   "khmer_term":  "យថាបត្របណ្ណ",
+                   "khmer_term":  "យថាជ្ញាបណ្ណ",
                    "english_term":  "Class License"
                },
                {
                    "id":  55,
                    "letter":  "ក",
-                   "khmer_term":  "កិច្ចកុំព្យូទ័រពពក/កុំព្យូទ័រពពក",
+                   "khmer_term":  "កិច្ចកុំព្យូទ័រពពក/កុំព្យូធីងពពក",
                    "english_term":  "Cloud Computing"
                },
                {
@@ -2185,13 +2185,13 @@
                {
                    "id":  60,
                    "letter":  "ក",
-                   "khmer_term":  "ក្រុមឆ្លើយតបបញ្ហាបន្ទាន់នៃកុំព្យូទ័រ",
+                   "khmer_term":  "ក្រុមឆ្លើយតបបញ្ហាន់នៃកុំព្យូទ័រ",
                    "english_term":  "Computer Emergency Respond Team (CERT)"
                },
                {
                    "id":  61,
                    "letter":  "ឧ",
-                   "khmer_term":  "ឧទ្ទេសរោមកុំព្យូទ័រ/អនុទ្ទេសកុំព្យូទ័រ",
+                   "khmer_term":  "ឧទ្ទេសវាទកុំព្យូទ័រ/អនុទ្ទេសកុំព្យូទ័រ",
                    "english_term":  "Computer Instruction"
                },
                {
@@ -2221,7 +2221,7 @@
                {
                    "id":  66,
                    "letter":  "ស",
-                   "khmer_term":  "សន្តិភាព/តំណភ្ជាប់",
+                   "khmer_term":  "សន្ធិភាព/តំណភាព",
                    "english_term":  "Connectivity"
                },
                {
@@ -2281,37 +2281,37 @@
                {
                    "id":  76,
                    "letter":  "អ",
-                   "khmer_term":  "អ៊ិនធឺណិត/សាយប័រ",
+                   "khmer_term":  "អន្តរព័ន្ធ/សាយបំរ",
                    "english_term":  "Cyber"
                },
                {
                    "id":  77,
                    "letter":  "ច",
-                   "khmer_term":  "ច្បាប់អន្តរាគមន៍/ច្បាប់សាយប័រ",
+                   "khmer_term":  "ច្បាប់អន្តរព័ន្ធច្បាប់សាយប័",
                    "english_term":  "Cyber Law"
                },
                {
                    "id":  78,
                    "letter":  "ប",
-                   "khmer_term":  "ប្រព័ន្ធអន្តរទំនាក់ទំនងរូបវន្ត/ប្រព័ន្ធសាយប័ររូបវន្ត",
+                   "khmer_term":  "ប្រព័ន្ធអន្តរព័ន្ធរូបវន្ត/ប្រព័ន្ធសាយ ររូបវន្ត",
                    "english_term":  "Cyber Physical System (CPS)"
                },
                {
                    "id":  79,
                    "letter":  "ឧ",
-                   "khmer_term":  "ឧក្រិដ្ឋកម្មអន្តរទំនាក់ទំនង/ឧក្រិដ្ឋកម្មសាយប័រ",
+                   "khmer_term":  "ឧក្រិដ្ឋកម្មអន្តរព័ន្ធ/ឧក្រិដ្ឋកម្មសាយបំរ",
                    "english_term":  "Cybercrime"
                },
                {
                    "id":  80,
                    "letter":  "ស",
-                   "khmer_term":  "សន្តិសុខអន្តរទំនាក់ទំនង/សន្តិសុខសាយប័រ",
+                   "khmer_term":  "សន្តិសុខអន្តរព័ន្ធ/សន្តិសុខសាយបំរ",
                    "english_term":  "Cybersecurity"
                },
                {
                    "id":  81,
                    "letter":  "ល",
-                   "khmer_term":  "លំហអន្តរទំនាក់ទំនង/លំហសាយប័រ",
+                   "khmer_term":  "លំហអន្តរព័ន្ធ/លំហសាយបំរ",
                    "english_term":  "Cyberspace"
                },
                {
@@ -2341,7 +2341,7 @@
                {
                    "id":  86,
                    "letter":  "ប",
-                   "khmer_term":  "បរិក្ខារអន្តរទិន្នន័យ",
+                   "khmer_term":  "បរិធានអន្តរទិន្នន័យ",
                    "english_term":  "Data Circuit Terminating Equipment"
                },
                {
@@ -2407,7 +2407,7 @@
                {
                    "id":  97,
                    "letter":  "ផ",
-                   "khmer_term":  "ផ្លូវទិន្នន័យ/បើសទិន្នន័យ",
+                   "khmer_term":  "ផ្លូវទិន្នន័យ/បីសទិន្នន័យ",
                    "english_term":  "Databus/Data Bus"
                },
                {
@@ -2449,7 +2449,7 @@
                {
                    "id":  104,
                    "letter":  "អ",
-                   "khmer_term":  "អង្គគ្រប់គ្រងឧបករណ៍/ដ្រាយវ័រ",
+                   "khmer_term":  "អង្គគ្រប់គ្រងឧបករណ៍/ជ្រាយ",
                    "english_term":  "Device Driver"
                },
                {
@@ -2466,8 +2466,8 @@
                },
                {
                    "id":  107,
-                   "letter":  "ថ",
-                   "khmer_term":  "ថតឌីជីថល",
+                   "letter":  "ត",
+                   "khmer_term":  "តឌីជីថល",
                    "english_term":  "Digital Camera"
                },
                {
@@ -2509,13 +2509,13 @@
                {
                    "id":  114,
                    "letter":  "អ",
-                   "khmer_term":  "អេឡិចត្រូនិចឌីជីថល",
+                   "khmer_term":  "អេឡិចត្រូនិកឌីជីថល",
                    "english_term":  "Digital Electronics"
                },
                {
                    "id":  115,
                    "letter":  "ម",
-                   "khmer_term":  "មន្ទីរពិសោធន៍វិនិច្ឆ័យឌីជីថល",
+                   "khmer_term":  "មន្ទីរកោសល្យវិច័យឌីជីថល",
                    "english_term":  "Digital Forensic Lab"
                },
                {
@@ -2527,19 +2527,19 @@
                {
                    "id":  117,
                    "letter":  "ប",
-                   "khmer_term":  "បណ្តាញឌីជីថល/មេឌាឌីជីថល",
+                   "khmer_term":  "បន្សាយឌីជីថល/មេឌាឌីជថល",
                    "english_term":  "Digital Media"
                },
                {
                    "id":  118,
                    "letter":  "ម",
-                   "khmer_term":  "មជ្ឈមណ្ឌលបណ្តាញឌីជីថល/មជ្ឈមណ្ឌលមេឌាឌីជីថល",
+                   "khmer_term":  "មជ្ឈមណ្ឌលបន្សាយឌីជីថល/មជ្ឈមមណ្ឌលមេឌាឌីជីថល",
                    "english_term":  "Digital Media Center (DMC)"
                },
                {
                    "id":  119,
                    "letter":  "ប",
-                   "khmer_term":  "ប្រៃសណីយ៍បង់ឌីជីថល",
+                   "khmer_term":  "ប្រៃសណីយផលឌីជីថល",
                    "english_term":  "Digital Postage"
                },
                {
@@ -2569,13 +2569,13 @@
                {
                    "id":  124,
                    "letter":  "ស",
-                   "khmer_term":  "សញ្ញាណឌីជីថល",
+                   "khmer_term":  "ស៊ីញ៉ាល់ឌីជីថល",
                    "english_term":  "Digital Signal"
                },
                {
                    "id":  125,
                    "letter":  "ដ",
-                   "khmer_term":  "ដំណើការសញ្ញាណឌីជីថល",
+                   "khmer_term":  "ដំណើរការស៊ីញ៉ាល់ឌីជីថល",
                    "english_term":  "Digital Signal Processing"
                },
                {
@@ -2587,7 +2587,7 @@
                {
                    "id":  127,
                    "letter":  "ផ",
-                   "khmer_term":  "ផ្ដើមឡើងឌីជីថល/ធុរកិច្ចថ្មីឌីជីថល",
+                   "khmer_term":  "ផ្តើមឡើងឌីជីថល/ធុរកិច្ចថ្មីឌីជីថល",
                    "english_term":  "Digital Startup"
                },
                {
@@ -2635,7 +2635,7 @@
                {
                    "id":  135,
                    "letter":  "ច",
-                   "khmer_term":  "ច្រកអុីនធឺណិតក្នុងស្រុក",
+                   "khmer_term":  "ច្រកអ៊ុនធឺណិតក្នុងស្រុក",
                    "english_term":  "Domestic Internet Exchange - DIX"
                },
                {
@@ -2659,25 +2659,25 @@
                {
                    "id":  139,
                    "letter":  "ស",
-                   "khmer_term":  "សេវាផ្កាយរណបពិនិត្យផែនដី",
+                   "khmer_term":  "សេវាផ្កាយរណបរុករកលើផែនដី",
                    "english_term":  "Earth Exploration-Satellite Service"
                },
                {
                    "id":  140,
                    "letter":  "ស",
-                   "khmer_term":  "ស្ថានីយផែនដី",
+                   "khmer_term":  "ស្ថានីយលើផែនដី",
                    "english_term":  "Earth Stations"
                },
                {
                    "id":  141,
                    "letter":  "ធ",
-                   "khmer_term":  "ធនាគារអេឡិចត្រូនិច",
+                   "khmer_term":  "ធនាគារអេឡិចត្រូនិក",
                    "english_term":  "E-Bank"
                },
                {
                    "id":  142,
                    "letter":  "ស",
-                   "khmer_term":  "សៀវភៅអេឡិចត្រូនិច/អីប៊ុក",
+                   "khmer_term":  "សៀវភៅអេឡិចត្រូនិក/អឺប៊ុក",
                    "english_term":  "Electronic Book (E-Book)"
                },
                {
@@ -2695,55 +2695,55 @@
                {
                    "id":  145,
                    "letter":  "វ",
-                   "khmer_term":  "វិដំណាក់បី",
+                   "khmer_term":  "វិដំណាក់ប៊ី",
                    "english_term":  "eNodeB (Evolved Node B)"
                },
                {
                    "id":  146,
                    "letter":  "ប",
                    "khmer_term":  "បញ្ជីអត្តសញ្ញាណឧបករណ៍",
-                   "english_term":  "Equipment Identity Register – EIR"
+                   "english_term":  "Equipment Identity Register - EIR"
                },
                {
                    "id":  147,
                    "letter":  "ប",
-                   "khmer_term":  "ប្រព័ន្ធបញ្ជីអត្តសញ្ញាណឧបករណ៍",
+                   "khmer_term":  "ប្រព័ន្ធបញ្ជីកាអត្តសញ្ញាណឧបករណ៍",
                    "english_term":  "Equipment Identity Registration System - EIRS"
                },
                {
                    "id":  148,
-                   "letter":  "អ",
-                   "khmer_term":  "អីស៊ីម",
-                   "english_term":  "eSIM"
+                   "letter":  "ស",
+                   "khmer_term":  "ស៊ីម",
+                   "english_term":  "ESIM"
                },
                {
                    "id":  149,
                    "letter":  "អ",
-                   "khmer_term":  "អុីសឺណិត",
+                   "khmer_term":  "អ៊ុសឺណិត",
                    "english_term":  "Ethernet"
                },
                {
                    "id":  150,
-                   "letter":  "អ",
-                   "khmer_term":  "អុីសឺណិតល្បឿនលឿន",
+                   "letter":  "ស",
+                   "khmer_term":  "សឺណិតល្បឿនលឿន",
                    "english_term":  "Fast Ethernet"
                },
                {
                    "id":  151,
                    "letter":  "ក",
-                   "khmer_term":  "កាប្លឺ/ខ្សែអុបទិកទៅអិុច",
-                   "english_term":  "Fiber To The X – FTTX"
+                   "khmer_term":  "កា /ខ្សែកាបអុបទិកទៅអ៊ិច",
+                   "english_term":  "Fiber To The X - FTTX"
                },
                {
                    "id":  152,
                    "letter":  "ជ",
-                   "khmer_term":  "ជំនាន់ទីប្រាំ (៥ជេ)",
+                   "khmer_term":  "ជំនាន់ទីប្រាំ (ជ៥)",
                    "english_term":  "Fifth- Generation (5G)"
                },
                {
                    "id":  153,
                    "letter":  "ជ",
-                   "khmer_term":  "ជំនាន់ទីមួយ (១ជេ)",
+                   "khmer_term":  "ជំនាន់ទីមួយ (ជ១)",
                    "english_term":  "First- Generation (1G)"
                },
                {
@@ -2761,13 +2761,13 @@
                {
                    "id":  156,
                    "letter":  "ជ",
-                   "khmer_term":  "ជំនាន់ទីបួន (៤ជេ)",
+                   "khmer_term":  "ជំនាន់ទីបួន (ជ៤)",
                    "english_term":  "Fourth- Generation (4G)"
                },
                {
                    "id":  157,
                    "letter":  "អ",
-                   "khmer_term":  "អុីសឺណិតហ្គីហ្គាប៊ីត",
+                   "khmer_term":  "អ៊ុសឺណិតជីហ្គាប៊ីត",
                    "english_term":  "Gegabit Ethernet"
                },
                {
@@ -2779,19 +2779,19 @@
                {
                    "id":  159,
                    "letter":  "គ",
-                   "khmer_term":  "គន្លងផ្កាយរណបនិរន្តរផែនដី",
+                   "khmer_term":  "គន្លងផ្កាយរណបនិចលធរណី",
                    "english_term":  "Geostationary - Satellite Orbits"
                },
                {
                    "id":  160,
                    "letter":  "ប",
-                   "khmer_term":  "បន្តរ",
+                   "khmer_term":  "បន្ទេរ",
                    "english_term":  "Handoff"
                },
                {
                    "id":  161,
                    "letter":  "ផ",
-                   "khmer_term":  "ផ្នែករឹង/ហាតវែរ",
+                   "khmer_term":  "ផ្នែករឹង/ហាវែរ",
                    "english_term":  "Hardware"
                },
                {
@@ -2815,7 +2815,7 @@
                {
                    "id":  165,
                    "letter":  "ហ",
-                   "khmer_term":  "ហឺត/អឺត",
+                   "khmer_term":  "ហឺត/អ៊ែក",
                    "english_term":  "Hertz (Hz)"
                },
                {
@@ -2833,25 +2833,25 @@
                {
                    "id":  168,
                    "letter":  "ក",
-                   "khmer_term":  "ការកសាងសមត្ថភាព ប.គ.ត.",
+                   "khmer_term":  "ការកសាងសមត្ថភាព ប.គ.ព.",
                    "english_term":  "ICT Capacity Building"
                },
                {
                    "id":  169,
                    "letter":  "អ",
-                   "khmer_term":  "អុីនស្តាក្រាម",
+                   "khmer_term":  "អ៊ុនស្តាក្រាម",
                    "english_term":  "Instagram"
                },
                {
                    "id":  170,
                    "letter":  "ឧ",
-                   "khmer_term":  "ឧទ្ទេសរោ/អនុទ្ទេស",
+                   "khmer_term":  "ឧទ្ទេសវាទ/អនុទ្ទេស",
                    "english_term":  "Instruction"
                },
                {
                    "id":  171,
                    "letter":  "ស",
-                   "khmer_term":  "សំណុំឧទ្ទេសរោ/សំណុំអនុទ្ទេស",
+                   "khmer_term":  "សំណុំឧទ្ទេសវាទ/សំណុំអនុទ្ទេស",
                    "english_term":  "Instruction Set"
                },
                {
@@ -2875,7 +2875,7 @@
                {
                    "id":  175,
                    "letter":  "ម",
-                   "khmer_term":  "ម៉ាល់វែររហារ",
+                   "khmer_term":  "ម៉ាល់វែរបហារ",
                    "english_term":  "Malware Attack"
                },
                {
@@ -2887,7 +2887,7 @@
                {
                    "id":  177,
                    "letter":  "ប",
-                   "khmer_term":  "បណ្តាញ/មេឌា",
+                   "khmer_term":  "បន្សាយ/មេឌា",
                    "english_term":  "Media"
                },
                {
@@ -2899,19 +2899,19 @@
                {
                    "id":  179,
                    "letter":  "ម",
-                   "khmer_term":  "ម៉េសិជិនជើ",
+                   "khmer_term":  "ម៉េសសិនជើ",
                    "english_term":  "Messenger"
                },
                {
                    "id":  180,
                    "letter":  "ម",
-                   "khmer_term":  "មជ្ឈមណ្ឌលប្តូរសញ្ញាទូរសព្ទចល័ត",
+                   "khmer_term":  "មជ្ឈមណ្ឌលបមាណីយទូរសព្ទចល័ត",
                    "english_term":  "Mobile Switching Center (MSC)"
                },
                {
                    "id":  181,
                    "letter":  "ក",
-                   "khmer_term":  "ការបំប្លែងលកសញ្ញាណ/ម៉ូឌុលឡាស្យុង",
+                   "khmer_term":  "ការបំប្លែងរលកស៊ីញ៉ាល់/ម៉ូឌុលឡាស្យុង",
                    "english_term":  "Modulation"
                },
                {
@@ -2923,25 +2923,25 @@
                {
                    "id":  183,
                    "letter":  "ប",
-                   "khmer_term":  "ប្រព័ន្ធរងប្តូរបណ្តាញ",
+                   "khmer_term":  "ប្រព័ន្ធរងបមាណីយបណ្តាញ",
                    "english_term":  "Network Switching Subsytem (NSS)"
                },
                {
                    "id":  184,
                    "letter":  "វ",
-                   "khmer_term":  "វិដំណាក់បីជំនាន់ក្រោយ",
+                   "khmer_term":  "វិដំណាក់ប៊ីជំនាន់ក្រោយ",
                    "english_term":  "ng-eNodeB (Next-Generation evolved Node B)"
                },
                {
                    "id":  185,
                    "letter":  "ដ",
-                   "khmer_term":  "ដំណាក់បីជំនាន់ក្រោយ",
+                   "khmer_term":  "ដំណាក់ប៊ីជំនាន់ក្រោយ",
                    "english_term":  "gNodeB/GNB (Next Generation Node B)"
                },
                {
                    "id":  186,
                    "letter":  "ដ",
-                   "khmer_term":  "ដំណាក់បី",
+                   "khmer_term":  "ដំណាក់ប៊ី",
                    "english_term":  "Node B"
                },
                {
@@ -2953,19 +2953,19 @@
                {
                    "id":  188,
                    "letter":  "អ",
-                   "khmer_term":  "អង្គរដ្ឋបាលឌីជីថល/ភីឌីអេ",
+                   "khmer_term":  "អត្តវន្តឌីជីថល/ភីឌីអេ",
                    "english_term":  "Personal Digital Assistant (PDA)"
                },
                {
                    "id":  189,
-                   "letter":  "ហ",
-                   "khmer_term":  "ហ្វីសស៊ីង",
+                   "letter":  "ស",
+                   "khmer_term":  "សស៊ីង",
                    "english_term":  "Phishing"
                },
                {
                    "id":  190,
-                   "letter":  "ថ",
-                   "khmer_term":  "ថ្នាល",
+                   "letter":  "ផ",
+                   "khmer_term":  "ផ្ទាល",
                    "english_term":  "Platform"
                },
                {
@@ -2983,25 +2983,25 @@
                {
                    "id":  193,
                    "letter":  "ភ",
-                   "khmer_term":  "ភាសាកម្មវិធី/ភាសាកម្មវិធី",
+                   "khmer_term":  "ភាសាកិច្ចកម្មវិធី/ភាសាកម្មវិធី",
                    "english_term":  "Programming Language"
                },
                {
                    "id":  194,
                    "letter":  "ប",
-                   "khmer_term":  "បណ្តាញផ្ទុកវិទ្យុ/បណ្តាញអាក់សេសវិទ្យុ",
+                   "khmer_term":  "បណ្តាញផ្នូលវិទ្យុ/បណ្តាញអាក់សេសវិទ្យុ",
                    "english_term":  "Radio Access Network (RAN)"
                },
                {
                    "id":  195,
                    "letter":  "រ",
-                   "khmer_term":  "រ៉ែនសាំវែរ",
+                   "khmer_term":  "រែន វរ",
                    "english_term":  "Ransomware"
                },
                {
                    "id":  196,
                    "letter":  "ប",
-                   "khmer_term":  "បញ្ជីរន្ត",
+                   "khmer_term":  "បញ្ជីវន្ត",
                    "english_term":  "Registrant"
                },
                {
@@ -3012,8 +3012,8 @@
                },
                {
                    "id":  198,
-                   "letter":  "ត",
-                   "khmer_term":  "តោចរ",
+                   "letter":  "គ",
+                   "khmer_term":  "គោចរ",
                    "english_term":  "Roaming"
                },
                {
@@ -3025,7 +3025,7 @@
                {
                    "id":  200,
                    "letter":  "ជ",
-                   "khmer_term":  "ជំនាន់ទីពីរ (២ជេ)",
+                   "khmer_term":  "ជំនាន់ទីពីរ (ជ២)",
                    "english_term":  "Second- Generation (2G)"
                },
                {
@@ -3037,13 +3037,13 @@
                {
                    "id":  202,
                    "letter":  "ញ",
-                   "khmer_term":  "ញាណុបករណ៍",
+                   "khmer_term":  "ញាណូបករណ៍",
                    "english_term":  "Sensor"
                },
                {
                    "id":  203,
                    "letter":  "ស",
-                   "khmer_term":  "សេវើបករណ៍",
+                   "khmer_term":  "សេវូបករណ៍",
                    "english_term":  "Server"
                },
                {
@@ -3055,8 +3055,8 @@
                {
                    "id":  205,
                    "letter":  "ស",
-                   "khmer_term":  "ស៊ីមកាត/ កាតម៉ូឌុលសម្គាល់អត្តសញ្ញាណអ្នកជាវ",
-                   "english_term":  "SIM Card/ Subscriber Identify Module Card"
+                   "khmer_term":  "ស៊ីមកាត/កាតម៉ូឌុលបញ្ជាក់អត្តសញ្ញាណអ្នកជាវ",
+                   "english_term":  "SIM Card/Subscriber Identify Module Card"
                },
                {
                    "id":  206,
@@ -3079,7 +3079,7 @@
                {
                    "id":  209,
                    "letter":  "ផ",
-                   "khmer_term":  "ផ្នែកទន់/សូសវែរ",
+                   "khmer_term":  "ផ្នែកទន់/សុសវែរ",
                    "english_term":  "Software"
                },
                {
@@ -3097,7 +3097,7 @@
                {
                    "id":  212,
                    "letter":  "ក",
-                   "khmer_term":  "កុំព្យូទ័របន្ទះ/ថាប្លែត",
+                   "khmer_term":  "កុំព្យូទ័របន្ទះ/ថា ត",
                    "english_term":  "Tablet"
                },
                {
@@ -3133,19 +3133,19 @@
                {
                    "id":  218,
                    "letter":  "វ",
-                   "khmer_term":  "វ៉ាយប័រ",
+                   "khmer_term":  "វ៉ាយបំរ",
                    "english_term":  "Viber"
                },
                {
                    "id":  219,
                    "letter":  "ប",
-                   "khmer_term":  "បណ្តាញឯកជនទូរសិម្មិត",
+                   "khmer_term":  "បណ្តាញឯកជនទូរនិម្មិត",
                    "english_term":  "Virtual Private Network (VPN)"
                },
                {
                    "id":  220,
-                   "letter":  "រ",
-                   "khmer_term":  "រុករកវេប/អែបប្រើស័រ",
+                   "letter":  "ប",
+                   "khmer_term":  "បោលវេប/វេប សំរ",
                    "english_term":  "Web Browser"
                },
                {
@@ -3169,13 +3169,13 @@
                {
                    "id":  224,
                    "letter":  "វ",
-                   "khmer_term":  "វ៉ាត់អាប",
+                   "khmer_term":  "វ៉តអាប់",
                    "english_term":  "Whatsapp"
                },
                {
                    "id":  225,
                    "letter":  "វ",
-                   "khmer_term":  "វិធីការព័ត៌មានឈ្មោះដែនជាតិ/ ពិធីការព័ត៌មានឈ្មោះដែនជាតិ",
+                   "khmer_term":  "វិធីការព័ត៌មានឈ្មោះដែនជាតិ/ពិធីសារព័ត៌មានឈ្មោះដែនជាតិ",
                    "english_term":  "Whois"
                },
                {
