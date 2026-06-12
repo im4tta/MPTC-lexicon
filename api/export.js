@@ -167,14 +167,18 @@ function buildCardLayout(entry, C) {
       )
         .gap(10)
         .flex(1),
-      Text(`#${entry.id}`)
-        .font("Inter")
-        .size(13)
-        .weight("800")
-        .color(C.GOLD)
-        .padding(6, 14)
-        .bg(`${C.GOLD}22`)
-        .rounded(999),
+      Row(
+        Text(`#${entry.id}`)
+          .font("Inter")
+          .size(13)
+          .weight("800")
+          .color("#e5cc74"),
+      )
+        .padding(8, 28)
+        .bg("#1a0d02")
+        .rounded(999)
+        .borderWidth(1.5)
+        .borderColor("#c9a84c"),
     )
       .gap(16)
       .padding(0, 0, 22, 0)
@@ -261,7 +265,18 @@ function buildListLayout({ part, entries, filterLabel, totalCount }, C) {
             .weight("bold")
             .color(C.TEXT)
             .flex(1),
-          Text(`#${e.id}`).font("Inter").size(12).weight("800").color(C.GOLD),
+          Row(
+            Text(`#${e.id}`)
+              .font("Inter")
+              .size(12)
+              .weight("800")
+              .color("#e5cc74"),
+          )
+            .padding(6, 20)
+            .bg("#1a0d02")
+            .rounded(999)
+            .borderWidth(1.5)
+            .borderColor("#c9a84c"),
         ).gap(8),
         Text(
           isP1 && e.french_term
