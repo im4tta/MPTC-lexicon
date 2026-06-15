@@ -153,6 +153,15 @@
     background: rgba(138, 92, 0, 0.08);
 }
 
+[data-theme="light"] .term-num {
+    background: rgba(138, 92, 0, 0.08);
+    backdrop-filter: blur(12px) saturate(180%);
+    -webkit-backdrop-filter: blur(12px) saturate(180%);
+    border: 1px solid rgba(138, 92, 0, 0.18);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+    color: #7a4a00;
+}
+
 *,
 *::before,
 *::after {
@@ -639,11 +648,15 @@ mark {
 }
 
 .term-num {
-    padding: 3px 8px;
-    border: 1px solid var(--line);
+    padding: 2px 8px;
+    background: rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(12px) saturate(180%);
+    -webkit-backdrop-filter: blur(12px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
     border-radius: 999px;
-    color: var(--muted);
-    font-size: 0.72rem;
+    color: #c9a84c;
+    font-size: 0.65rem;
     font-weight: 800;
 }
 
