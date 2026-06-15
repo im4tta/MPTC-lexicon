@@ -767,6 +767,45 @@ mark {
     color: var(--gold2);
 }
 
+/* ─── About card ────────────────────────────────────────────────────────────── */
+
+.about-card {
+    padding: 22px 24px;
+    border: 1px solid var(--line);
+    border-radius: var(--r-lg);
+    background: var(--s0);
+}
+.about-card__title {
+    color: var(--gold);
+    font-size: 0.82rem;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    margin-bottom: 12px;
+}
+.about-card__text {
+    color: var(--text);
+    font-size: 0.92rem;
+    line-height: 1.7;
+    margin-bottom: 8px;
+}
+.about-card__text:last-child {
+    margin-bottom: 0;
+}
+.about-card__text--muted {
+    color: var(--muted);
+}
+.about-card__text a {
+    color: var(--gold2);
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-color: rgba(201, 168, 76, 0.3);
+    text-underline-offset: 3px;
+}
+.about-card__text a:hover {
+    color: var(--gold);
+    text-decoration-color: var(--gold);
+}
+
 /* ─── Floating buttons ──────────────────────────────────────────────────────── */
 
 .fabs {

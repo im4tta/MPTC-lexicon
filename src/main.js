@@ -138,6 +138,17 @@ app.innerHTML = `
 
     <div class="results-grid" id="results" aria-label="Results" aria-live="polite"></div>
 
+    <section class="about-card" aria-label="About this project">
+      <h3 class="about-card__title">អំពីគម្រោងនេះ</h3>
+      <p class="about-card__text">
+        👉 ដកស្រង់ចេញពី <strong>សទ្ទានុក្រមបច្ចេកសព្ទឌីជីថល ភាគ១ និងភាគ២</strong> ដែលអាចទាញយកតាមរយៈតំណភ្ជាប់ :
+        <a href="https://mptc.gov.kh/lexicon" target="_blank" rel="noreferrer">https://mptc.gov.kh/lexicon</a>
+      </p>
+      <p class="about-card__text about-card__text--muted">
+        គម្រោងនេះគ្រាន់តែជាកម្មវិធីសម្រាប់អ្នកប្រើប្រាស់ទូទៅអាចស្វែងរកបច្ចេកសព្ទឌីជីថលបានលឿនជាងមុន។
+      </p>
+    </section>
+
     <footer class="footer" id="bottom">
       <span>© MPTC 2025 · Official Khmer Digital Terminology</span>
       <a href="${SOURCE_URL}" target="_blank" rel="noreferrer">Source PDF ↗</a>
