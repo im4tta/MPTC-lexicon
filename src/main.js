@@ -271,9 +271,13 @@ function initScrollCollapse() {
 
   function update() {
     const currentScrollY = window.scrollY;
-    const collapsed = currentScrollY > lastScrollY && currentScrollY > 80;
+    const isCollapsed = searchPanel.classList.contains("search-panel--collapsed");
 
-    searchPanel.classList.toggle("search-panel--collapsed", collapsed);
+    if (!isCollapsed && currentScrollY > lastScrollY && currentScrollY > 100) {
+      searchPanel.classList.add("search-panel--collapsed");
+    } else if (isCollapsed && currentScrollY < lastScrollY && currentScrollY < 60) {
+      searchPanel.classList.remove("search-panel--collapsed");
+    }
 
     lastScrollY = currentScrollY;
     ticking = false;

@@ -465,16 +465,29 @@ mark {
     height: 16px;
 }
 
-.search-panel--collapsed .filter-row {
-    opacity: 0;
-    pointer-events: none;
-    height: 0;
-    margin-top: 0;
+.filter-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+    margin-top: 12px;
+    max-height: 120px;
     overflow: hidden;
     transition:
         opacity 220ms ease,
-        height 220ms ease,
-        margin-top 220ms ease;
+        max-height 220ms ease,
+        margin-top 220ms ease,
+        padding-top 220ms ease,
+        padding-bottom 220ms ease;
+}
+
+.search-panel--collapsed .filter-row {
+    opacity: 0;
+    pointer-events: none;
+    max-height: 0;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 .search-field {
@@ -538,14 +551,6 @@ mark {
 }
 .clear-btn[hidden] {
     display: none;
-}
-
-.filter-row {
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    gap: 12px;
-    margin-top: 12px;
 }
 
 .chips {
