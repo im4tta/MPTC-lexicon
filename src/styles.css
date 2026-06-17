@@ -429,6 +429,52 @@ mark {
     backdrop-filter: blur(32px) saturate(160%);
     -webkit-backdrop-filter: blur(32px) saturate(160%);
     box-shadow: var(--shadow-sm);
+    transition:
+        padding 280ms ease,
+        background 280ms ease,
+        border-color 280ms ease,
+        box-shadow 280ms ease;
+}
+
+.search-panel--collapsed {
+    padding: 8px 12px;
+    background: rgba(9, 8, 15, 0.5);
+    border-color: rgba(201, 168, 76, 0.16);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+
+[data-theme="light"] .search-panel--collapsed {
+    background: rgba(245, 240, 232, 0.72);
+    border-color: rgba(138, 92, 0, 0.14);
+    box-shadow: 0 8px 24px rgba(90, 50, 0, 0.08);
+}
+
+.search-panel--collapsed .search-field {
+    min-height: 42px;
+    padding: 0 10px 0 14px;
+    background: rgba(255, 242, 208, 0.04);
+    border-color: rgba(201, 168, 76, 0.18);
+}
+
+.search-panel--collapsed .search-field input {
+    font-size: 0.92rem;
+}
+
+.search-panel--collapsed .search-icon {
+    width: 16px;
+    height: 16px;
+}
+
+.search-panel--collapsed .filter-row {
+    opacity: 0;
+    pointer-events: none;
+    height: 0;
+    margin-top: 0;
+    overflow: hidden;
+    transition:
+        opacity 220ms ease,
+        height 220ms ease,
+        margin-top 220ms ease;
 }
 
 .search-field {

@@ -180,6 +180,7 @@ initCanvas();
 buildLetterChips();
 render();
 bindEvents();
+initScrollCollapse();
 
 // ─── Events ───────────────────────────────────────────────────────────────────
 
@@ -187,6 +188,10 @@ function bindEvents() {
   searchInput.addEventListener("input", (e) => {
     state.query = e.target.value.trim();
     render();
+  });
+
+  searchInput.addEventListener("focus", () => {
+    document.getElementById("search")?.classList.remove("search-panel--collapsed");
   });
 
   clearBtn.addEventListener("click", () => {
@@ -253,6 +258,37 @@ function bindEvents() {
       render();
     }
   });
+}
+
+// ─── Scroll collapse ──────────────────────────────────────────────────────────
+
+function initScrollCollapse() {
+  const searchPanel = document.getElementById("search");
+  if (!searchPanel) return;
+
+  let lastScrollY = window.scrollY;
+  let ticking = false;
+
+  function update() {
+    const currentScrollY = window.scrollY;
+    const collapsed = currentScrollY > lastScrollY && currentScrollY > 80;
+
+    searchPanel.classList.toggle("search-panel--collapsed", collapsed);
+
+    lastScrollY = currentScrollY;
+    ticking = false;
+  }
+
+  window.addEventListener(
+    "scroll",
+    () => {
+      if (!ticking) {
+        window.requestAnimationFrame(update);
+        ticking = true;
+      }
+    },
+    { passive: true },
+  );
 }
 
 // ─── Part switch ──────────────────────────────────────────────────────────────
