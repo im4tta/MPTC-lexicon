@@ -1,0 +1,16 @@
+# MPTC Lexicon - For LLM Consumption
+- Site: https://mptclexicon.vercel.app/
+- Data Source: https://mptclexicon.vercel.app/mptc_lexicon.json
+- API: https://mptclexicon.vercel.app/api/lexicon
+
+## Description
+Official Khmer Digital Terminology Lexicon from Ministry of Posts and Telecommunications of Cambodia (MPTC). Contains 454+ terms in Khmer, English, and French with definitions.
+
+## Data Format
+- JSON schema: { meta: { title, version, source, url, generated, total, p1_count, p2_count }, p1: [...], p2: [...] }
+- Each term includes: id, letter, khmer_term, english_term, (french_term, definition_km for p1)
+
+## Languages
+- Khmer (km)
+- English (en)
+- French (fr)
