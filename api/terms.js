@@ -14,7 +14,7 @@
  *   { term: {...} }                                    for ?id=
  */
 
-import lexicon from "../src/data/mptc_lexicon.json";
+import lexicon from "../src/data/mptc_lexicon.json" with { type: "json" };
 
 // ─── Normalisation ────────────────────────────────────────────────────────────
 

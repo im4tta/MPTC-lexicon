@@ -1,4 +1,4 @@
-import lexicon from "../src/data/mptc_lexicon.json";
+import lexicon from "../src/data/mptc_lexicon.json" with { type: "json" };
 
 export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
