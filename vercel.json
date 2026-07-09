@@ -9,11 +9,18 @@
     },
     "api/terms.js": {
       "maxDuration": 10
+    },
+    "api/mcp.js": {
+      "maxDuration": 30
     }
   },
   "rewrites": [
     {
-      "source": "/((?!api/).*)",
+      "source": "/term/:slug",
+      "destination": "/term/:slug.html"
+    },
+    {
+      "source": "/((?!api/|term/).*)",
       "destination": "/index.html"
     }
   ]

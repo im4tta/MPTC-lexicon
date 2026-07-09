@@ -2,15 +2,21 @@
   "name": "mptc-lexicon-2025",
   "version": "1.0.0",
   "private": true,
-  "contributors": ["Claude", "im4tta"],
+  "contributors": [
+    "Claude",
+    "im4tta"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build:data": "node scripts/build-data.mjs",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build:ssg": "node scripts/build-ssg.mjs",
+    "build": "vite build && node scripts/build-ssg.mjs",
+    "preview": "vite preview",
+    "mcp": "node mcp-server.mjs"
   },
   "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
     "flexsearch": "^0.8.205",
     "sone": "^1.4.0"
   },
