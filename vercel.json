@@ -6,6 +6,9 @@
   "functions": {
     "api/export.js": {
       "maxDuration": 30
+    },
+    "api/terms.js": {
+      "maxDuration": 10
     }
   },
   "rewrites": [

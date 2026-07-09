@@ -6,6 +6,14 @@
 ## Description
 Official Khmer Digital Terminology Lexicon from Ministry of Posts and Telecommunications of Cambodia (MPTC). Contains 454+ terms in Khmer, English, and French with definitions.
 
+## API
+Programmatic access for AI agents and tools:
+- Full dataset: https://mptclexicon.vercel.app/api/lexicon
+- Search: https://mptclexicon.vercel.app/api/terms?q=<query>
+  - Optional params: part=p1|p2, letter=<khmer letter>, limit, offset, id=<term id>
+  - Example: /api/terms?q=cloud&part=p1
+  - Example: /api/terms?id=4
+
 ## Data Format
 - JSON schema: { meta: { title, version, source, url, generated, total, p1_count, p2_count }, p1: [...], p2: [...] }
 - Each term includes: id, letter, khmer_term, english_term, (french_term, definition_km for p1)
