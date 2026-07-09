@@ -1,19 +1,49 @@
 <!doctype html>
 <html lang="km">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta
-            name="description"
-            content="Public-ready MPTC digital terminology lexicon with fast CSV search, PNG export, and a modern responsive UI."
-        />
-        <meta name="theme-color" content="#f5f5f7" />
-        <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg" />
-        <link rel="icon" type="image/x-icon" href="/icons/favicon.ico" />
-        <link rel="apple-touch-icon" sizes="180x180" href="/icons/icon-180.png" />
-        <link rel="manifest" href="/manifest.json" />
-        <title>MPTC Lexicon 2025</title>
-    </head>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Official Khmer Digital Terminology Lexicon from Ministry of Posts and Telecommunications of Cambodia (MPTC). Search 450+ terms in Khmer, English, and French with definitions."
+    />
+    <meta name="keywords" content="MPTC, lexicon, terminology, Khmer, English, French, Cambodia, digital terms" />
+    <meta name="author" content="MPTC" />
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#f5f5f7" />
+    <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg" />
+    <link rel="icon" type="image/x-icon" href="/icons/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/icon-180.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <title>MPTC Lexicon 2025</title>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Dataset",
+        "name": "MPTC Digital Terminology Lexicon 2025",
+        "description": "Official Khmer Digital Terminology Lexicon from Ministry of Posts and Telecommunications of Cambodia (MPTC).",
+        "publisher": {
+          "@type": "GovernmentOrganization",
+          "name": "Ministry of Posts and Telecommunications of Cambodia",
+          "url": "https://mptc.gov.kh"
+        },
+        "inLanguage": ["km", "en", "fr"],
+        "keywords": ["MPTC", "terminology", "Khmer", "dictionary"],
+        "distribution": [
+          {
+            "@type": "DataDownload",
+            "contentUrl": "/mptc_lexicon.json",
+            "encodingFormat": "application/json"
+          },
+          {
+            "@type": "DataDownload",
+            "contentUrl": "/api/lexicon",
+            "encodingFormat": "application/json"
+          }
+        ]
+      }
+    </script>
+  </head>
     <body>
         <div id="app"></div>
         <script type="module" src="/src/main.js"></script>
